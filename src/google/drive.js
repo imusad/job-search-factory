@@ -55,7 +55,8 @@ export async function createDeck(title, slides, parentId) {
   const firstSlide = pres.data.slides[0].objectId;
   const requests = [{ deleteObject: { objectId: firstSlide } }];
   slides.forEach((s, i) => {
-    const sid = `s${i}`; const t = `s${i}_t`; const b = `s${i}_b`;
+    // Slides object IDs must be 5–50 chars
+    const sid = `jsf_slide_${i}`; const t = `${sid}_title`; const b = `${sid}_body`;
     requests.push({ createSlide: { objectId: sid, insertionIndex: i, slideLayoutReference: { predefinedLayout: 'TITLE_AND_BODY' }, placeholderIdMappings: [{ layoutPlaceholder: { type: 'TITLE' }, objectId: t }, { layoutPlaceholder: { type: 'BODY' }, objectId: b }] } });
     requests.push({ insertText: { objectId: t, text: s.title } });
     requests.push({ insertText: { objectId: b, text: s.lines.join('\n') } });

@@ -45,8 +45,12 @@ test('TC-302/303/304 live: append/update, approvals preserved, protected range p
   assert.deepEqual(rows.slice(0, 3).map((x) => x.obj.approval), ['Approved', 'Approved', 'Approved']);
   const pr = await listProtectedRanges(sheetId);
   assert.ok(pr.some((p) => p.range.startColumnIndex === APPROVAL_INDEX));
-  // free-text approval is rejected by strict validation
-  await assert.rejects(sheets().spreadsheets.values.update({ spreadsheetId: sheetId, range: `Tracker!${colLetter(APPROVAL_INDEX)}9`, valueInputOption: 'USER_ENTERED', requestBody: { values: [['maybe']] } }));
+  // strict dropdown rule is in place (enforced in the Sheets app; the API itself does not enforce validation,
+  // which is why the pipeline also never writes this column)
+  const dv = await sheets().spreadsheets.get({ spreadsheetId: sheetId, ranges: [`Tracker!${colLetter(APPROVAL_INDEX)}2`], fields: 'sheets(data(rowData(values(dataValidation))))' });
+  const rule = dv.data.sheets[0].data[0].rowData[0].values[0].dataValidation;
+  assert.equal(rule.strict, true);
+  assert.deepEqual(rule.condition.values.map((v) => v.userEnteredValue), ['Approved', 'Not Approved']);
   ctx.row = rows[0];
 });
 
