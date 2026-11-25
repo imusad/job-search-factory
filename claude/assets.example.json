@@ -1,299 +1,83 @@
 {
-  "listing_id": "example0001",
-  "company": "ExampleCo",
-  "title": "Senior Product Manager, AI Platform",
+  "listing_id": "879f1f8b9bad",
+  "company": "Cloudflare",
+  "title": "Senior Product Manager - Zero-Day Protection",
   "resume": {
     "name": "Iman Sadhu",
-    "headline": "Group Product Manager · AI Product Portfolio · Regulated MarTech",
+    "headline": "Group Product Manager · AI Product Portfolio · Regulated Enterprise SaaS",
     "contact": "Bangalore, India · imansadhu2010@gmail.com · +91 9686567059 · linkedin.com/in/imansadhu",
-    "summary": "Senior Product Manager, 12 years across six industries and five global regions. Owns two production **LLM-powered** platforms serving global pharma brands, with a focus on evaluation, deterministic testing and explainability.",
+    "summary": "Product leader with 12 years across six industries and five global regions, starting as a software engineer. Lead a 3-product commercial-content suite for global pharma, owning the suite strategy and two production LLM products; the suite earned USD 4M+ in licence revenue. Focus: shipping AI that compliance teams can trust, through deterministic testing, false-positive measurement, explainability and auditability.",
     "kpis": [
-      {
-        "figure": "USD 4M+",
-        "caption": "SaaS licence revenue\nfrom the product suite"
-      },
-      {
-        "figure": "~USD 0.6M",
-        "caption": "cumulative client cost savings\n2022 to Aug 2026"
-      },
-      {
-        "figure": "28+",
-        "caption": "cross-functional team\nacross four regions"
-      },
-      {
-        "figure": "3 → 26",
-        "caption": "team scaled\nfrom zero-to-one product"
-      }
+      { "figure": "USD 4M+", "caption": "Suite licence revenue" },
+      { "figure": "~USD 598K", "caption": "Cumulative client cost savings\n2022 to Aug 2026" },
+      { "figure": "60", "caption": "Deterministic and safety tests\nacross a multi-agent workflow" },
+      { "figure": "~87%", "caption": "AI output accuracy\nup from ~67%" }
     ],
     "skills": [
-      {
-        "label": "AI / GenAI",
-        "text": "LLM product design · evaluation frameworks · guardrails · RAG · vector databases · multi-agent architecture · explainability"
-      },
-      {
-        "label": "Product",
-        "text": "Product strategy and roadmap · suite strategy · PRDs · release governance · stakeholder management"
-      },
-      {
-        "label": "Tools",
-        "text": "Jira · AHA · Figma · Claude · Microsoft Copilot"
-      }
+      { "label": "Product leadership", "text": "Product and portfolio strategy · Roadmap ownership · Discovery and prioritisation · Go-to-market · KPIs / OKRs · Release governance · Stakeholder management (VP / Director)" },
+      { "label": "Trust and safety", "text": "Deterministic testing · AI safety, red-team and prompt-injection testing · False-positive / false-negative metrics · Explainability (XAI) · Auditability · LLM observability (Langfuse)" },
+      { "label": "AI / GenAI", "text": "Multi-agent architecture · RAG and vector databases · LLM evaluation frameworks · Guardrails · Prompt management · API payload analysis" },
+      { "label": "Tools", "text": "Jira · AHA · Figma · Mural · Claude · Microsoft Copilot · Langfuse" }
     ],
     "role_line": {
       "title": "Senior Product Manager",
       "company": "Indegene",
       "dates": "Feb 2025 to Present",
-      "context": "Commercial-content suite for a top-10 US biopharmaceutical company"
+      "context": "AI-powered digital marketing asset generation suite for global pharma; adoption across 10 markets in EU, Americas, Middle East and Japan."
     },
     "story_rows": [
       {
-        "label": "The value",
+        "label": "Value generated via products",
         "bullets": [
-          {
-            "text": "Earned **USD 4M+** in SaaS licence revenue from a three-product suite.",
-            "ach": [
-              "ACH-064"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 1
-          },
-          {
-            "text": "Delivered about **USD 0.6M** in cumulative client cost savings across 20+ countries.",
-            "ach": [
-              "ACH-069"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 2
-          },
-          {
-            "text": "Grew adoption across **ELMAC markets** for a UK biopharmaceutical company.",
-            "ach": [
-              "ACH-070"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 9
-          },
-          {
-            "text": "Reported client value and **satisfaction** metrics to account leadership.",
-            "ach": [
-              "ACH-007"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 14
-          }
-        ]
-      },
-      {
-        "label": "The strategy",
-        "bullets": [
-          {
-            "text": "Won leadership buy-in for the **GenAI email** and banner roadmaps.",
-            "ach": [
-              "ACH-065"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 5
-          },
-          {
-            "text": "Owned **two production AI products** end-to-end across four client tracks.",
-            "ach": [
-              "ACH-001"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 3
-          },
-          {
-            "text": "Cut engineering effort with **MVP-led validation** before full build.",
-            "ach": [
-              "ACH-067"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 12
-          },
-          {
-            "text": "Froze requirements only after **problem validation** with the business.",
-            "ach": [
-              "ACH-025"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 18
-          }
-        ]
-      },
-      {
-        "label": "What I built",
-        "bullets": [
-          {
-            "text": "Defined the **RAG workflow** for AI email creation with engineering.",
-            "ach": [
-              "ACH-057"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 4
-          },
-          {
-            "text": "Set the **vector database** strategy for the GenAI email platform.",
-            "ach": [
-              "ACH-055"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 6
-          },
-          {
-            "text": "Shaped an end-to-end **agentic** email-authoring architecture.",
-            "ach": [
-              "ACH-071"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 7
-          },
-          {
-            "text": "Specified **cluster selection** and ranking logic for content retrieval.",
-            "ach": [
-              "ACH-058"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 15
-          },
-          {
-            "text": "Framed how this platform thinking maps to **AI platform** buyers.",
-            "ach": [
-              "ACH-077"
-            ],
-            "type": "G1",
-            "flag": "GEN",
-            "requirement": "platform fit",
-            "rank": 20
-          }
+          { "text": "Suite earned **USD 4M+** in licence revenue from a top-10 US biopharmaceutical company, with 50 to 60 daily users.", "ach": ["ACH-064"], "type": "Fact", "flag": "USE", "requirement": "Commercial impact (scope check)", "rank": 1 },
+          { "text": "Email product I owned saved a UK biopharmaceutical company **~USD 598K** between 2022 and Aug 2026.", "ach": ["ACH-069"], "type": "Fact", "flag": "USE", "requirement": "Commercial impact (anchor)", "rank": 2 },
+          { "text": "Cut digital marketing asset turnaround **50%** with a production GenAI content pipeline.", "ach": ["ACH-066"], "type": "Fact", "flag": "USE", "requirement": "Ship faster with AI (culture)", "rank": 12 },
+          { "text": "Client satisfaction (PSAT) rose **3.63 to 3.93 of 4** between Jun 2025 and Jun 2026.", "ach": ["ACH-007"], "type": "Fact", "flag": "USE", "requirement": "Customer experience ownership", "rank": 13 }
         ]
       },
       {
         "label": "How I made it trustworthy",
         "bullets": [
-          {
-            "text": "Built a GenAI **evaluation framework** for accuracy, precision and recall.",
-            "ach": [
-              "ACH-002"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 8
-          },
-          {
-            "text": "Scoped **deterministic testing** for a multi-agent GenAI workflow.",
-            "ach": [
-              "ACH-044"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 10
-          },
-          {
-            "text": "Added **explainability** tracing so stakeholders could audit outputs.",
-            "ach": [
-              "ACH-013"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 11
-          },
-          {
-            "text": "Designed layered **per-agent evaluation** plus end-to-end checks.",
-            "ach": [
-              "ACH-074"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 16
-          }
+          { "text": "Scoped **deterministic testing** agent by agent: 60 tests across retrieval, agent decisions, flow and safety.", "ach": ["ACH-044"], "type": "Fact", "flag": "USE", "requirement": "Testing before enforcement", "rank": 3 },
+          { "text": "Separated what must never vary (approved claims, templates) from **LLM variance** that must be measured.", "ach": ["ACH-044"], "type": "Fact", "flag": "USE", "requirement": "Safe deployment of protections", "rank": 6 },
+          { "text": "Raised content-selection accuracy **~67% to ~87%** with an SME-scored evaluation framework.", "ach": ["ACH-002"], "type": "Fact", "flag": "USE", "requirement": "Detection quality", "rank": 4 },
+          { "text": "Designed per-agent metrics, incl. validator **false-positive and false-negative** rates, plus an end-to-end score.", "ach": ["ACH-074"], "type": "Fact", "flag": "USE", "requirement": "False-positive management", "rank": 5 },
+          { "text": "Built **prompt-injection** and red-team cases into the safety tests, with auditability checks per agent.", "ach": ["ACH-011", "ACH-044"], "type": "Fact", "flag": "USE", "requirement": "Security testing, auditability", "rank": 10 },
+          { "text": "Made explainability a product standard so **compliance reviewers** can verify every output.", "ach": ["ACH-003"], "type": "Fact", "flag": "USE", "requirement": "Customers understand what events mean", "rank": 7 },
+          { "text": "Traced every agent decision in **Langfuse** so outputs can be replayed and audited after the fact.", "ach": ["ACH-013"], "type": "Fact", "flag": "USE", "requirement": "Auditability, logs", "rank": 16 }
         ]
       },
       {
-        "label": "How I delivered",
+        "label": "The strategy",
         "bullets": [
-          {
-            "text": "Ran **release gating** across Product, Engineering, QA and Business.",
-            "ach": [
-              "ACH-026"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 13
-          },
-          {
-            "text": "Held scope across **four accounts** through escalation and descoping.",
-            "ach": [
-              "ACH-053"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 19
-          },
-          {
-            "text": "Decomposed epics into **stories at scale** with AI-assisted tooling.",
-            "ach": [
-              "ACH-050"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 21
-          }
+          { "text": "Product decision point for **VP, AVP and Director** stakeholders on scope, releases and risk.", "ach": ["ACH-004"], "type": "Fact", "flag": "USE", "requirement": "Synthesise input into clear product decisions", "rank": 11 },
+          { "text": "Won buy-in, budget and teams for **three roadmaps** through market assessment and competitive benchmarking.", "ach": ["ACH-065"], "type": "Fact", "flag": "USE", "requirement": "Strategy and roadmap ownership", "rank": 14 }
+        ]
+      },
+      {
+        "label": "What I built",
+        "bullets": [
+          { "text": "Directed an **eight-agent** flow with engineering that turns one prompt into a validated, brand-ready email.", "ach": ["ACH-071"], "type": "Fact", "flag": "USE", "requirement": "Technical fluency, detection systems", "rank": 8 },
+          { "text": "Kept retrieval **algorithmic, with no LLM**, so the same query always returns the same content.", "ach": ["ACH-071"], "type": "Fact", "flag": "USE", "requirement": "Predictable protection behaviour", "rank": 15 },
+          { "text": "Analysed raw upstream **API payloads**, caught mistagged data and turned it into product rules.", "ach": ["ACH-048"], "type": "Fact", "flag": "USE", "requirement": "Technical fluency (HTTP/API)", "rank": 20 }
+        ]
+      },
+      {
+        "label": "How I shipped safely",
+        "bullets": [
+          { "text": "Direct a **28+ person** cross-functional delivery across four regions and four client tracks.", "ach": ["ACH-001"], "type": "Fact", "flag": "USE", "requirement": "Cross-functional leadership", "rank": 9 },
+          { "text": "Held a customer announcement until a **template-breakage risk** was confirmed after a library change.", "ach": ["ACH-052"], "type": "Fact", "flag": "USE", "requirement": "Customer communications during incidents", "rank": 17 },
+          { "text": "Ran **release gating** across Product, Engineering, QA and Business for two email releases.", "ach": ["ACH-026"], "type": "Fact", "flag": "USE", "requirement": "Rollout governance", "rank": 21 },
+          { "text": "Turned the test scope into **owned workstreams** across two engineering teams and QA.", "ach": ["ACH-045"], "type": "Fact", "flag": "USE", "requirement": "Cross-functional delivery", "rank": 23 },
+          { "text": "Triaged client-reviewer feedback into **bugs, feature requests** and design limitations.", "ach": ["ACH-019"], "type": "Fact", "flag": "USE", "requirement": "Feedback loops with Support and customers", "rank": 24 }
         ]
       },
       {
         "label": "Whom I led",
         "bullets": [
-          {
-            "text": "Lead a team of **3 (2 PMs, 1 BA)** with structured coaching.",
-            "ach": [
-              "ACH-060"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 17
-          },
-          {
-            "text": "Coached PMs on **requirements** and release scoping.",
-            "ach": [
-              "ACH-061"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "",
-            "rank": 22
-          }
+          { "text": "Built and lead a product team of **3 (2 PMs, 1 BA)**, each PM owning one product.", "ach": ["ACH-060"], "type": "Fact", "flag": "USE", "requirement": "Leadership", "rank": 18 },
+          { "text": "Designed the team's **PDLC workflow with Claude**: onboarding, PRDs, prototypes and user stories.", "ach": ["ACH-076"], "type": "Fact", "flag": "USE", "requirement": "AI-native curiosity", "rank": 19 },
+          { "text": "Coached PMs on **problem-first discovery**, P1 to P4 prioritisation and PRD sign-off.", "ach": ["ACH-061"], "type": "Fact", "flag": "USE", "requirement": "Discovery and prioritisation", "rank": 22 }
         ]
       }
     ],
@@ -301,99 +85,178 @@
       "title": "Product Manager",
       "company": "Indegene",
       "dates": "Jul 2020 to Jan 2025",
-      "label": "Zero to one",
+      "label": "Built and scaled",
       "bullets": [
-        "Built a product from **zero to 30+ users** and scaled the team from 3 to 26."
+        { "text": "Took a product **0 to 30+ users** in 18 months; scaled the cross-functional team from 3 to 26; NPS 8.66.", "ach": ["ACH-037"] },
+        { "text": "Won a **USD 1M** phased contract with a major German biopharmaceutical company.", "ach": ["ACH-075"] },
+        { "text": "Owned roadmap and releases for **four global pharma accounts**, with WCAG-compliant components.", "ach": ["ACH-038"] }
       ]
     },
     "earlier": [
-      "EY, India | 2019 to 2020:: Manager — AI bot product for tax filing.",
-      "Sprintly Works, Finland | 2019:: Strategy Consulting Manager — demand-optimisation tool.",
-      "EY, India | 2014 to 2018:: Consultant and Software Engineer."
+      { "lead": "Manager | EY, India | 2019 to 2020", "text": "Led an AI bot product for tax filing, from 0 to 1." },
+      { "lead": "Strategy Consulting Manager | Sprintly Works, Finland | 2019", "text": "Generated EUR 28K revenue (28% of annual) in 2.5 months; built a demand-optimisation tool reaching 97% service levels." },
+      { "lead": "Consultant & Software Engineer | EY, India | 2014 to 2018", "text": "Contributed to India's Ease of Doing Business rank 100 to 77; land platform 99.15% digitised; Guidewire ClaimCenter configuration for a US insurer." }
     ],
     "education": "General Management, Indian School of Business · B.Tech, VIT University, Vellore"
   },
   "cover_letter": {
-    "hook": "ExampleCo's push to make its AI platform dependable for enterprise teams is the problem I have spent the last two years solving in production. I am applying for the Senior Product Manager, AI Platform role because my strongest work sits where LLM capability meets evaluation, guardrails and adoption.",
-    "sections": [
-      {
-        "heading": "The value I have delivered",
-        "bullets": [
-          "My product suite earned **USD 4M+** in SaaS licence revenue from a top-10 US biopharmaceutical company.",
-          "The email platform delivered about **USD 0.6M** in cumulative client cost savings across 20+ countries.",
-          "I own **two production AI products** delivered by a 28+ person team across four regions."
-        ]
-      },
-      {
-        "heading": "How I build AI that holds up",
-        "bullets": [
-          "Defined the **RAG workflow** and vector database strategy with engineering.",
-          "Built an **evaluation framework** covering accuracy, precision and recall.",
-          "Scoped **deterministic testing** and AI-safety checks for a multi-agent workflow.",
-          "Added **explainability** tracing so reviewers could see why content was chosen."
-        ]
-      },
-      {
-        "heading": "How I work",
-        "bullets": [
-          "I validate problems with an **MVP** before committing engineering effort.",
-          "I hold scope with clear **release gating** across product, engineering, QA and business.",
-          "I lead a team of **3 (2 PMs, 1 BA)** and coach on requirements discipline."
-        ]
-      }
+    "recipient": "Application Security Product team, Cloudflare\nRe: Senior Product Manager, Zero-Day Protection",
+    "greeting": "Dear Cloudflare Product team,",
+    "paragraphs": [
+      "Cloudflare's WAF changelog this autumn shows where the hard part of zero-day protection now sits. The Brotli rules on 25 October and the Java4Shell detections on 18 November shipped in Log mode to limit false-positive risk, which leaves each customer to decide when protection becomes enforcement. Helping customers make that call quickly and safely is the work I would most like to own, and it is why I am applying for this role.",
+      "It is a problem I recognise. I own production LLM products for a top-10 US biopharmaceutical company, where an output that breaks a compliance rule is an incident, not a bug. When a senior stakeholder asked how we knew the system was safe, I went through the workflow agent by agent, separating what must never vary, such as approved claims and templates, from the decisions where model variance had to be measured. That became a matrix of 60 tests across retrieval, agent decisions, end-to-end flow and safety, including prompt-injection and red-team cases.",
+      "Just as much of my work is making the system legible. I made explainability a product standard so compliance reviewers can see why each output was produced, and gave every agent its own metrics, including false-positive and false-negative rates. When a library change put older templates at risk, I held the customer announcement until the risk was confirmed. Your customers need the same clarity: what protection they have, what an event means and what to do next.",
+      "I would also bring range. The product suite I lead earned USD 4M+ in licence revenue, I direct a 28+ person cross-functional delivery across four regions, and I lead two product managers and a business analyst. I work AI-first, and designed my team's product workflow around Claude.",
+      "The gap is real: I have not run a WAF or written detection rules, and my security depth comes from AI safety testing rather than HTTP exploitation. I started as a software engineer and still analyse raw API payloads myself, and I would lean on your Security Research team for threat context while bringing the product judgement.",
+      "Thank you for considering my application. I would welcome a conversation about how you think about the move from Log to Block, and where the zero-day experience goes next."
     ],
-    "gap_paragraph": "My domain so far is regulated pharma marketing rather than horizontal developer platforms. What carries over is the practice: evaluation, guardrails and staged rollout for LLM products that must be right every time.",
-    "close": "I would welcome a conversation about where ExampleCo is taking its platform next."
+    "sign_off": "Kind regards,",
+    "sources": [
+      "P1, P6: Cloudflare WAF changelog, 25 Oct and 18 Nov 2026 (default action Log, 'in lieu of False Positive risk')",
+      "P2: ACH-001, ACH-044 (60 tests; prompt-injection and red-team), ACH-011",
+      "P3: ACH-003, ACH-074 (validator false-positive/negative rates), ACH-052",
+      "P4: ACH-064, ACH-001, ACH-060, ACH-076",
+      "P5: ACH-043 (software engineer), ACH-048 (raw API payloads) — 'still analyse' is G2 wording; confirm"
+    ]
   },
-  "linkedin_message": "Saw ExampleCo's recent work on evaluation tooling for enterprise AI agents. I run evaluation and deterministic testing for two production LLM products in regulated pharma marketing, so the problem space is close to mine. Would be glad to connect.",
+  "linkedin_message": "Cloudflare's 18 Nov Java4Shell rules shipped in Log mode to limit false positives, so each customer makes the Log-to-Block call. I make a version of that call for production LLM agents in pharma: what must never vary, what gets measured, 60 tests to prove it. How do customers decide when to block?",
+  "linkedin_target": [
+    "First choice: the hiring manager. On LinkedIn search \"Cloudflare\" with \"Director, Product Management\" or \"Head of Product\" plus \"Application Security\" or \"WAF\".",
+    "Second choice: a Product Manager on Cloudflare's WAF / Application Security team. They live the Log-to-Block problem and are likely to reply to a specific question.",
+    "Not for recruiters: this note is written for a product peer."
+  ],
   "company_info": {
-    "overview": "ExampleCo builds an AI platform for enterprise teams (placeholder example).",
+    "overview": "Cloudflare runs one of the world's largest networks, protecting and accelerating Internet applications without extra hardware, software or code changes. This role owns zero-day protection, starting with WAF Managed Rules, with a goal of protecting more than 20% of the Internet from HTTP-exploitable vulnerabilities.",
     "products": [
-      "Agent platform",
-      "Evaluation tooling"
+      "WAF and WAF Managed Rules (Cloudflare Managed Ruleset and Free Ruleset), including emergency rules for newly disclosed vulnerabilities",
+      "Application Services: application security and performance",
+      "Zero Trust",
+      "Developer platform (Workers)",
+      "1.1.1.1 public DNS resolver"
     ],
-    "market_position": "Mid-market and enterprise AI platform vendor.",
+    "market_position": "Q2 2026 revenue was USD 696.1M, up 36% year over year; full-year 2026 guidance is USD 2,864M to 2,870M (raised from the Q1 outlook). Application Services and Zero Trust remain core revenue drivers.",
     "recent_developments": [
-      "2026-10: launched evaluation tooling (source: company blog)"
+      "18–24 Nov 2026: emergency WAF releases for Java4Shell (CVE-2026-114938), PHP-FPM/SOAP, Ruby and WordPress. Java4Shell and the new PHP rules default to Log, 'in lieu of False Positive risk'. Source: developers.cloudflare.com/changelog/product/waf/",
+      "30 Oct 2026: emergency rule for Nuxt Image / IPX shipped disabled by default with partial coverage; customers told to patch. Source: developers.cloudflare.com/changelog/post/2026-10-30-emergency-waf-release/",
+      "25 Oct 2026: Brotli (CVE-2026-111497) and Next.js image-optimizer rules shipped in Log because they match legitimate traffic; Block 'may prevent optimized images from loading'. Source: WAF changelog",
+      "14 Oct–24 Nov 2026: releases labelled Emergency on 10 separate days. Source: WAF changelog",
+      "6 Aug 2026: Q2 2026 results, revenue USD 696.1M (+36% YoY). Source: Business Wire",
+      "7 May 2026: React and Next.js advisories; 'Several of the disclosed vulnerabilities are not possible to block in WAF.' Source: developers.cloudflare.com/changelog/post/2026-05-06-react-nextjs-vulnerabilities/",
+      "7 May 2026: Q1 2026 results; workforce reduction alongside a shift to an 'agentic AI-first operating model' (earnings-call coverage). Source: fool.com transcript",
+      "2–3 Dec 2025: WAF rule for the React Server Components RCE (CVE-2025-55182, CVSS 10.0) protected proxied free and paid customers, Block by default. Source: blog.cloudflare.com/waf-rules-react-vulnerability"
     ],
     "relevance": [
-      "Evaluation frameworks — ACH-002, ACH-074",
-      "Agentic architecture — ACH-071"
+      "Testing before enforcement and false-positive management → deterministic-testing scope with 60 tests (ACH-044); per-agent false-positive / false-negative metrics (ACH-074)",
+      "Customers understand what protections they have and what events mean → explainability as a product standard (ACH-003); replayable traces (ACH-013)",
+      "Careful customer communication → held a customer announcement until a risk was confirmed (ACH-052); release gating (ACH-026)",
+      "Feedback loops with Support and customers → structured feedback triage (ACH-019)",
+      "AI-native culture → team PDLC workflow built on Claude (ACH-076)",
+      "Gap (R12): no WAF, detection-engineering or security-research experience in the master file"
     ],
     "sources": [
-      "https://example.com/blog"
+      "https://developers.cloudflare.com/changelog/product/waf/",
+      "https://developers.cloudflare.com/changelog/post/2026-10-30-emergency-waf-release/",
+      "https://developers.cloudflare.com/changelog/post/2026-05-06-react-nextjs-vulnerabilities/",
+      "https://blog.cloudflare.com/waf-rules-react-vulnerability",
+      "https://www.financialcontent.com/article/bizwire-2026-8-6-cloudflare-announces-second-quarter-2026-financial-results",
+      "https://www.fool.com/earnings/call-transcripts/2026/05/07/cloudflare-net-q1-2026-earnings-call-transcript/",
+      "https://boards.greenhouse.io/cloudflare/jobs/8346327"
     ]
   },
   "deck": {
+    "cover": {
+      "title": "Closing the Log-to-Block gap in zero-day protection",
+      "subtitle": "A product hypothesis for WAF Managed Rules, built from Cloudflare's public changelog"
+    },
     "slides": [
       {
-        "title": "Making enterprise agents dependable",
+        "section": "Executive summary",
+        "title": "Customers need evidence, not just rules, to enforce zero-day protection quickly",
         "lines": [
-          "Your agents now run real workflows for enterprise teams.",
-          "Trust is earned per stage, not per demo.",
-          "I have shipped this for two production LLM products.",
-          "Layered evaluation plus deterministic tests caught variance early.",
-          "Here is how that could apply to your platform."
-        ]
+          "Cloudflare shipped emergency WAF releases on **10 separate days** between 14 October and 24 November 2026.",
+          "Several new detections shipped in **Log mode or disabled**, to limit false-positive risk.",
+          "Each customer then decides alone when to switch to Block, just as exploitation can begin.",
+          "Hypothesis: show each customer how a rule behaves **on their own traffic** before they enforce it.",
+          "I have built this discipline for production LLM agents: prove behaviour, measure variance, then ship."
+        ],
+        "source": "Cloudflare WAF changelog, Oct–Nov 2026; Senior PM, Zero-Day Protection role description"
       },
       {
-        "title": "A plausible problem",
+        "section": "Situation",
+        "title": "Emergency WAF rules now arrive on a near-weekly cadence across many frameworks",
         "lines": [
-          "Customers need evidence an agent behaves the same way twice.",
-          "Stage-level I/O contracts make each step inspectable."
-        ]
+          "Releases labelled Emergency on **10 separate days** from 14 October to 24 November 2026.",
+          "Coverage spans PHP, Ruby, WordPress, Java, Next.js, Nuxt and Brotli handling.",
+          "December 2025's React rule protected proxied free and paid customers automatically, Block by default.",
+          "The role's goal: protect **more than 20% of the Internet** from HTTP-exploitable vulnerabilities."
+        ],
+        "so_what": "Fast rule delivery is already a strength. The next gains sit after the rule ships.",
+        "source": "developers.cloudflare.com/changelog/product/waf; blog.cloudflare.com/waf-rules-react-vulnerability; role description"
       },
       {
-        "title": "What I would bring",
+        "section": "Complication",
+        "title": "Many new rules ship in Log mode, so enforcement becomes the customer's decision",
         "lines": [
-          "Per-agent and end-to-end evaluation design (ACH-074).",
-          "Deterministic-testing scope for multi-agent flows (ACH-044).",
-          "Explainability tracing for stakeholder review (ACH-013)."
-        ]
+          "Brotli and Next.js rules (25 Oct) defaulted to **Log**: they also match legitimate traffic.",
+          "Java4Shell (18 Nov) and PHP-FPM / SOAP (19 Nov) shipped in Log to limit false positives.",
+          "The Nuxt Image rule (30 Oct) shipped **disabled**, with partial coverage only.",
+          "In May 2026, some React and Next.js flaws could not be blocked safely by a global rule."
+        ],
+        "so_what": "The protection exists, but each customer must judge alone whether Block will break their application.",
+        "source": "WAF changelog entries of 25 Oct, 30 Oct, 18 Nov and 19 Nov 2026; changelog of 7 May 2026"
+      },
+      {
+        "section": "Resolution",
+        "title": "Make the Log-to-Block decision evidence-based, per customer and per rule",
+        "lines": [
+          "**Exposure**: flag which of the customer's applications run the affected software.",
+          "**Evidence**: replay the rule's Log matches on the customer's own traffic and estimate false positives.",
+          "**Staged enforcement**: Block one host or path first, with automatic rollback triggers.",
+          "**Explanation**: every event states what matched, why, and the next action to take."
+        ],
+        "so_what": "Hypothesis to test: evidence per rule shortens time from Log to Block without raising false blocks.",
+        "source": "Proposal by Iman Sadhu from public information; not a description of Cloudflare's internal roadmap"
+      },
+      {
+        "section": "Why me",
+        "title": "I have shipped this discipline for production LLM agents in a regulated industry",
+        "lines": [
+          "Separated what must never vary from where variance is measured: **60 tests** in one matrix.",
+          "Per-agent metrics, including validator **false-positive and false-negative** rates, plus one end-to-end score.",
+          "Made explainability a product standard so compliance reviewers can verify every output.",
+          "Held a customer announcement until a release risk was confirmed."
+        ],
+        "so_what": "Same pattern, new domain: prove behaviour on real inputs, measure variance, then enforce.",
+        "source": "Iman Sadhu, Senior Product Manager, Indegene (Feb 2025 to present): GenAI content platform for global pharma"
+      },
+      {
+        "section": "First 90 days",
+        "title": "My first 90 days would test this hypothesis with customers before building anything",
+        "lines": [
+          "**Days 1–30**: shadow Security Research through live releases; interview Enterprise customers on Log-to-Block.",
+          "**Days 31–60**: measure time-to-Block and false-block rates for recent emergency rules, where data allows.",
+          "**Days 61–90**: prototype per-customer rule evidence with a design-partner cohort; agree success metrics."
+        ],
+        "so_what": "Start from data and customers; commit the roadmap once the evidence is in.",
+        "source": "Proposed plan; assumptions to validate with the team"
       }
-    ]
+    ],
+    "close": {
+      "title": "Thank you",
+      "lines": [
+        "Shipping the rule starts protection; giving customers the **confidence to enforce it** finishes the job.",
+        "I would bring evidence-first product discipline from shipping AI in a regulated industry."
+      ]
+    }
   },
   "open_items": [
-    "G1 line on AI platform buyers — confirm wording (ACH-077)."
+    "KNOCKOUT CHECK: the listing says 'Remote within: US, Canada, UK, Portugal'. The profile lists Bangalore, with relocation open to Dubai, Malaysia and Malta. Confirm eligibility before applying.",
+    "Export control: an offer may depend on authorisation under US export laws without sponsorship. Check before investing more time.",
+    "Gap (R12): no WAF, managed-rules, detection-engineering or security-research evidence in the master file. The cover letter states this plainly; the resume does not claim it.",
+    "Resume: all 24 bullets are Fact; no G1/G2 lines were needed. KPI tiles 3 and 4 (60 tests, ~87% accuracy) were chosen because the role centres on testing before enforcement and false-positive management.",
+    "R10: ACH-011 and ACH-044 overlap; merged into one bullet that cites both.",
+    "CONFIRM-FIRST skipped: ACH-072 (red-team assessment, role to confirm). Red-team wording comes from ACH-044 instead.",
+    "Cover letter G1/G2 phrasing to confirm: 'an output that breaks a compliance rule is an incident, not a bug' (framing) and 'still analyse raw API payloads myself' (ACH-048 records two payloads analysed).",
+    "Deck: the Resolution slide is a hypothesis built from public changelog data, labelled as such; it makes no claim about Cloudflare's internal plans."
   ]
 }

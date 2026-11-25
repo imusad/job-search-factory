@@ -1,6 +1,7 @@
 // JSF-402..407: Drive folder per application; .docx built locally (docx lib) and converted to native Google Docs on upload.
 import { Readable } from 'node:stream';
 import { drive, slidesApi } from './auth.js';
+import { deckRequests } from '../assets/deck.js';
 
 const FOLDER = 'application/vnd.google-apps.folder';
 const esc = (s) => s.replace(/\\/g, '\\\\').replace(/'/g, "\\'");
@@ -47,21 +48,13 @@ export function pdfPageCount(buf) {
   return m ? m.length : 0;
 }
 
-/** JSF-406: Google Slides deck via Slides API (presentations.create + batchUpdate). */
-export async function createDeck(title, slides, parentId) {
+/** JSF-406: Google Slides deck via Slides API (presentations.create + batchUpdate). Layout lives in src/assets/deck.js. */
+export async function createDeck(title, deck, parentId, meta) {
   const api = slidesApi();
   const pres = await api.presentations.create({ requestBody: { title } });
   const id = pres.data.presentationId;
   const firstSlide = pres.data.slides[0].objectId;
-  const requests = [{ deleteObject: { objectId: firstSlide } }];
-  slides.forEach((s, i) => {
-    // Slides object IDs must be 5–50 chars
-    const sid = `jsf_slide_${i}`; const t = `${sid}_title`; const b = `${sid}_body`;
-    requests.push({ createSlide: { objectId: sid, insertionIndex: i, slideLayoutReference: { predefinedLayout: 'TITLE_AND_BODY' }, placeholderIdMappings: [{ layoutPlaceholder: { type: 'TITLE' }, objectId: t }, { layoutPlaceholder: { type: 'BODY' }, objectId: b }] } });
-    requests.push({ insertText: { objectId: t, text: s.title } });
-    requests.push({ insertText: { objectId: b, text: s.lines.join('\n') } });
-    requests.push({ updateTextStyle: { objectId: b, style: { fontSize: { magnitude: i === 0 ? 16 : 14, unit: 'PT' } }, fields: 'fontSize' } });
-  });
+  const requests = [...deckRequests(deck, meta), { deleteObject: { objectId: firstSlide } }];
   await api.presentations.batchUpdate({ presentationId: id, requestBody: { requests } });
   await drive().files.update({ fileId: id, addParents: parentId, removeParents: 'root', fields: 'id' });
   return { id, webViewLink: `https://docs.google.com/presentation/d/${id}/edit` };
