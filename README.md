@@ -16,7 +16,8 @@ Claude routine "semantic scoring" 02:07 / 14:07 UTC              ← claude/sema
 Owner sets Approval = Approved (iPad Sheets app)
   → Apps Script onEdit (+ 30-min sweep) → POST routine /fire      ← apps-script/Code.gs
   → Claude routine "asset generation"                              ← claude/asset-generation.md
-  → validated assets.json → Drive folder: resume (Doc+PDF, 1 page), cover letter, LinkedIn msg,
+  → validated assets.json → Drive "Job Search Factory/Applications/<Company> — <Title> (<date>)":
+    resume (Doc+PDF, 1 page), cover letter, LinkedIn msg,
     company info, case-study deck (Slides), Selection Log, answer pack → Sheet link → confirmation email
 ```
 

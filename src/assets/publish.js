@@ -55,7 +55,8 @@ export async function publishAssets(a, { email = true } = {}) {
   if (row.obj.assets_generated) { log.info(`Listing ${a.listing_id} already has assets (${row.obj.assets_generated}) — skipping`); return { skipped: true }; }
 
   const root = await ensureRootFolder();
-  const folder = await ensureFolder(folderName(a.company, a.title, row.obj.first_seen_date || new Date().toISOString().slice(0, 10)), root);
+  const apps = await ensureFolder(settings().sheet.applications_folder_name, root);
+  const folder = await ensureFolder(folderName(a.company, a.title, row.obj.first_seen_date || new Date().toISOString().slice(0, 10)), apps.id);
   const h = { name: a.resume.name, headline: a.resume.headline, contact: a.resume.contact };
 
   const resume = await buildOnePageResume(a.resume, `Resume — ${a.company}`, folder.id);

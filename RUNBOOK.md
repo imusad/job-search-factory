@@ -31,7 +31,7 @@ State lives in three places only: the GitHub repo (`data/`), the Google Sheet, a
 
 1. Open the digest email in the Gmail app. It shows how many listings are new, how many are above the threshold, and an estimate of the minutes needed to clear them.
 2. Tap **Open tracker**. In the Sheets app, set **Approval** to `Approved` or `Not Approved`.
-3. Within about 5 minutes a confirmation email arrives with a link to the Drive folder. It holds the resume (Doc and PDF), the cover letter, the LinkedIn message, the company info sheet, the case-study deck, the Selection Log and the ATS answer pack.
+3. Within about 5 minutes a confirmation email arrives with a link to the Drive folder (`My Drive / Job Search Factory / Applications / <Company> — <Job Title> (<date>)`). It holds the resume (Doc and PDF), the cover letter, the LinkedIn message, the company info sheet, the case-study deck, the Selection Log and the ATS answer pack.
 4. Review the resume using its Selection Log, especially every line marked `GEN`. Then apply yourself. Nothing is ever submitted or sent for you.
 
 ## 3. Failed run

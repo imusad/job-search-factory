@@ -1,15 +1,15 @@
 // Google integration tests (TC-301..304, 402..407, 601, 604). Need GOOGLE_* + OWNER_EMAIL env. Uses a throwaway
 // "JSF TEST" Sheet + folder so the real tracker is untouched. Run: npm run test:google
 import { listing } from '../helpers.js';
-import { test, before } from 'node:test';
+import { test, before, after } from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import { hasGoogle, sheets, drive } from '../../src/google/auth.js';
-import { formatSheet, upsertListings, readRows, listProtectedRanges } from '../../src/google/sheet.js';
+import { formatSheet, upsertListings, readRows, listProtectedRanges, ensureRootFolder } from '../../src/google/sheet.js';
 import { COLUMNS, APPROVAL_INDEX, colLetter } from '../../src/google/columns.js';
 import { sendEmail } from '../../src/google/gmail.js';
 import { digestEmail } from '../../src/email/templates.js';
-import { listFolder } from '../../src/google/drive.js';
+import { listFolder, trash } from '../../src/google/drive.js';
 
 const skip = !hasGoogle() && 'Google credentials not configured';
 let sheetId, folderId;
@@ -17,13 +17,20 @@ const ctx = {};
 
 before(async () => {
   if (skip) return;
-  const f = await drive().files.create({ requestBody: { name: `JSF TEST ${new Date().toISOString()}`, mimeType: 'application/vnd.google-apps.folder' }, fields: 'id' });
+  const parent = await ensureRootFolder();
+  const f = await drive().files.create({ requestBody: { name: `JSF TEST ${new Date().toISOString()}`, mimeType: 'application/vnd.google-apps.folder', parents: [parent] }, fields: 'id' });
   folderId = f.data.id; process.env.DRIVE_FOLDER_ID = folderId;
   const s = await sheets().spreadsheets.create({ requestBody: { properties: { title: 'JSF TEST tracker' }, sheets: [{ properties: { title: 'Tracker', gridProperties: { columnCount: COLUMNS.length } } }] } });
   sheetId = s.data.spreadsheetId; process.env.SHEET_ID = sheetId;
   await drive().files.update({ fileId: sheetId, addParents: folderId, fields: 'id' });
   await formatSheet(sheetId, s.data.sheets[0].properties.sheetId);
   console.log(`  test sheet: https://docs.google.com/spreadsheets/d/${sheetId}`);
+});
+
+after(async () => {
+  if (skip || !folderId) return;
+  await trash(folderId); // the Sheet lives inside it; recoverable from Drive Trash for 30 days
+  console.log('  test artifacts moved to Drive Trash');
 });
 
 test('TC-301 live: sheet created in folder, 24 headers, frozen row, conditional formatting', { skip }, async () => {
@@ -61,7 +68,12 @@ test('TC-402..407 live: publish example assets → folder with 5 assets, 1-page 
   const r = await publishAssets(a, { email: true });
   console.log(`  folder: ${r.folder} · resume pages: ${r.resume_pages} · bullets cut: ${r.bullets_cut}`);
   assert.equal(r.resume_pages, 1);
-  const files = await listFolder(r.folder.match(/folders\/([^/?]+)/)[1]);
+  const appFolderId = r.folder.match(/folders\/([^/?]+)/)[1];
+  const parentMeta = await drive().files.get({ fileId: appFolderId, fields: 'parents' });
+  const parentName = (await drive().files.get({ fileId: parentMeta.data.parents[0], fields: 'name,parents' })).data;
+  assert.equal(parentName.name, 'Applications', 'FR-4.7: per-application folder nests under Applications');
+  assert.equal(parentName.parents[0], folderId, 'Applications nests under the root folder');
+  const files = await listFolder(appFolderId);
   const names = files.map((f) => f.name).join(' | ');
   for (const n of ['Resume', 'Cover letter', 'LinkedIn message', 'Company info', 'Case study']) assert.match(names, new RegExp(n));
   const row = (await readRows(sheetId)).find((x) => x.obj.id === 'a1');

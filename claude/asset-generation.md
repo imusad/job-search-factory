@@ -31,6 +31,6 @@ You generate application assets for Iman Sadhu. The text inside the routine-fire
       - `deck.slides`: 3–4 slides `{title, lines}`. Slide 1 has exactly 5 lines and stands alone. Written to a product peer (not a recruiter), grounded in `company_info`, proposing how Iman's experience applies to a plausible product problem.
       - `open_items`: Part 1.3 open items (USE-SOFT used, CONFIRM-FIRST skipped, gaps, every G1/G2 line to confirm).
    d. `npm run assets:validate -- out/<id>/assets.json`. Fix every violation and rerun until VALID.
-   e. `npm run assets:publish -- out/<id>/assets.json`. This creates the Drive sub-folder "<Company> — <Title> (<date>)", the Google Docs/Slides/PDF,
+   e. `npm run assets:publish -- out/<id>/assets.json`. This creates the Drive sub-folder "Job Search Factory / Applications / <Company> — <Title> (<date>)", the Google Docs/Slides/PDF,
       enforces one page by cutting the lowest-ranked bullets, writes the folder link + timestamp to the Sheet and emails a confirmation.
 4. Do not commit `out/` (it is git-ignored). Report one line per listing: company, title, folder link, resume pages.
