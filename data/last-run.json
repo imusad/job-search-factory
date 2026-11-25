@@ -1,14 +1,6 @@
 {
-  "runAt": "2026-11-25T10:07:45.470Z",
+  "runAt": "2026-11-25T14:44:40.085Z",
   "failures": [
-    {
-      "source": "workable:Hugging Face",
-      "error": "HTTP 429 for https://apply.workable.com/api/v3/accounts/huggingface/jobs"
-    },
-    {
-      "source": "workable:Jasper",
-      "error": "HTTP 429 for https://apply.workable.com/api/v3/accounts/jasper/jobs"
-    },
     {
       "source": "nodesk",
       "error": "HTTP 403 for https://nodesk.substack.com/feed"
@@ -24,95 +16,100 @@
     {
       "source": "simplyhired",
       "error": "HTTP 403 for https://www.simplyhired.com/search?q=senior+product+manager"
-    },
-    {
-      "source": "google",
-      "error": "Google OAuth secrets not configured (OD-3) — Sheet and email skipped"
     }
   ],
   "sourceCounts": {
-    "greenhouse": 239,
+    "greenhouse": 240,
     "ashby": 63,
+    "workable": 0,
     "lever": 103,
     "smartrecruiters": 41,
     "rippling": 14,
     "workday": 59,
-    "workingnomads": 0,
-    "jobicy": 7,
-    "arbeitnow": 21,
-    "jobspresso": 0,
-    "himalayas": 2,
-    "weworkremotely": 24,
     "remotive": 0,
+    "workingnomads": 0,
+    "remoteok": 5,
+    "arbeitnow": 27,
+    "jobspresso": 3,
     "mindtheproduct": 2,
-    "remoteok": 7,
+    "weworkremotely": 24,
     "ycjobs": 25,
-    "welcometothejungle": 0,
+    "himalayas": 1,
     "aijobs": 0,
+    "welcometothejungle": 0,
+    "jobicy": 43,
+    "shine": 8,
+    "wellfound": 31,
     "hirist": 0,
-    "wellfound": 28,
-    "iimjobs": 0,
-    "foundit": 0,
-    "shine": 7,
     "builtin": 2,
-    "instahyre": 7,
-    "lennysjobs": 0
+    "foundit": 0,
+    "iimjobs": 0,
+    "lennysjobs": 0,
+    "instahyre": 9
   },
   "sponsorRows": 142855,
   "atsDetection": {
-    "companies": 106,
+    "companies": 89,
     "detected": 89,
-    "ms": 16361
+    "ms": 1
   },
-  "totalFetched": 651,
-  "corpus": 14763,
-  "sourcesOk": 26,
+  "totalFetched": 700,
+  "corpus": 14719,
+  "sourcesOk": 27,
   "invalid": 0,
-  "matched": 321,
-  "dedupRemoved": 70,
-  "newListings": 51,
-  "aboveThreshold": 32,
+  "matched": 345,
+  "dedupRemoved": 69,
+  "newListings": 28,
+  "aboveThreshold": 2,
   "top": [
     {
-      "id": "15294031317a",
-      "title": "Senior Product Manager - Telecom",
-      "employer": "NVIDIA",
-      "total_score": 0.44
+      "id": "447a0d236c87",
+      "title": "Senior Product Manager",
+      "employer": "dscout",
+      "total_score": 0.33
     },
     {
-      "id": "0850886d836d",
-      "title": "Physical AI Product Manager",
-      "employer": "NVIDIA",
-      "total_score": 0.44
+      "id": "104b952cbf1c",
+      "title": "Senior Product Manager (Service Agent Team) Berlin",
+      "employer": "Intercom",
+      "total_score": 0.289
     },
     {
-      "id": "de9dc2e056a1",
-      "title": "Director, Product Marketing DSX",
-      "employer": "NVIDIA",
-      "total_score": 0.44
+      "id": "73ae7b15fea3",
+      "title": "Senior Product Manager",
+      "employer": "Nucs AI",
+      "total_score": 0.23
     },
     {
-      "id": "5fbb61cb2973",
-      "title": "Senior Product Manager, AI Physics",
-      "employer": "NVIDIA",
-      "total_score": 0.39
+      "id": "ecce05b5a3b2",
+      "title": "Director of Product Design",
+      "employer": "Beacon Biosignals<br>⚲&nbsp;United States",
+      "total_score": 0.23
     },
     {
-      "id": "ca3dd52dd1bf",
-      "title": "Senior Product Manager, HPC and AI for Physics",
-      "employer": "NVIDIA",
-      "total_score": 0.39
+      "id": "ff729abcf72e",
+      "title": "Senior Product Manager - GenAI",
+      "employer": "Envato",
+      "total_score": 0.23
     }
   ],
   "shortlist": 50,
-  "stageMs": {
-    "visa": 5422,
-    "company_discovery": 71,
-    "ats_fetch": 79165,
-    "boards": 6539,
-    "signals": 1076,
-    "google": 628
+  "sheet": {
+    "appended": 276,
+    "updated": 0
   },
-  "durationMs": 92906,
-  "requests": 551
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1dxIxAi75S5kD8xsK5Y5qHbvpb8MG-_AGWympFldp_v4",
+  "pendingApprovals": 149,
+  "assetsToReview": 0,
+  "pendingActions": 149,
+  "stageMs": {
+    "visa": 1185,
+    "company_discovery": 47,
+    "ats_fetch": 13627,
+    "boards": 6296,
+    "signals": 1277,
+    "google": 8988
+  },
+  "durationMs": 31440,
+  "requests": 298
 }
