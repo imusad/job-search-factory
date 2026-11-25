@@ -1,0 +1,123 @@
+{
+  "runAt": "2026-11-25T07:37:25.419Z",
+  "failures": [
+    {
+      "source": "workday:NVIDIA",
+      "error": "HTTP 429 for https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    {
+      "source": "workday:Salesforce",
+      "error": "HTTP 429 for https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
+    },
+    {
+      "source": "workday:Adobe",
+      "error": "HTTP 429 for https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs"
+    },
+    {
+      "source": "workday:IQVIA",
+      "error": "HTTP 429 for https://iqvia.wd1.myworkdayjobs.com/wday/cxs/iqvia/IQVIA/jobs"
+    },
+    {
+      "source": "workable:Hugging Face",
+      "error": "HTTP 429 for https://apply.workable.com/api/v3/accounts/huggingface/jobs"
+    },
+    {
+      "source": "workable:Jasper",
+      "error": "HTTP 429 for https://apply.workable.com/api/v3/accounts/jasper/jobs"
+    },
+    {
+      "source": "adzuna",
+      "error": "ADZUNA_APP_ID not configured (OD-5) — skipped"
+    },
+    {
+      "source": "jsearch",
+      "error": "JSEARCH_API_KEY not configured (OD-5) — skipped"
+    }
+  ],
+  "sourceCounts": {
+    "greenhouse": 237,
+    "ashby": 61,
+    "lever": 103,
+    "smartrecruiters": 41,
+    "rippling": 14,
+    "remotive": 0,
+    "jobicy": 7,
+    "workingnomads": 0,
+    "remoteok": 6,
+    "jobspresso": 0,
+    "himalayas": 0,
+    "nodesk": 0,
+    "weworkremotely": 24,
+    "mindtheproduct": 3,
+    "ycjobs": 25,
+    "arbeitnow": 25,
+    "welcometothejungle": 0,
+    "aijobs": 0,
+    "hirist": 0,
+    "shine": 8,
+    "foundit": 0,
+    "builtin": 2,
+    "wellfound": 29,
+    "iimjobs": 0,
+    "simplyhired": 1,
+    "instahyre": 4,
+    "lennysjobs": 0
+  },
+  "sponsorRows": 142855,
+  "atsDetection": {
+    "companies": 103,
+    "detected": 80,
+    "ms": 33872
+  },
+  "totalFetched": 590,
+  "corpus": 14170,
+  "sourcesOk": 27,
+  "invalid": 0,
+  "matched": 279,
+  "dedupRemoved": 72,
+  "newListings": 21,
+  "aboveThreshold": 4,
+  "top": [
+    {
+      "id": "c51ca7997905",
+      "title": "Lead Product Manager, Engagement",
+      "employer": "Lattice",
+      "total_score": 0.33
+    },
+    {
+      "id": "531ac645af5c",
+      "title": "Senior Product Manager, Field Systems (Salesforce)",
+      "employer": "Smartsheet",
+      "total_score": 0.33
+    },
+    {
+      "id": "c9b4596b1ca4",
+      "title": "Sr. Product Manager, Core Experience",
+      "employer": "Prosper",
+      "total_score": 0.285
+    },
+    {
+      "id": "1332c918a3a6",
+      "title": "Growth Product Lead",
+      "employer": "Juicebox",
+      "total_score": 0.279
+    },
+    {
+      "id": "3fdbafcc295d",
+      "title": "Senior Product Manager (R14206)",
+      "employer": "Oportun",
+      "total_score": 0.23
+    }
+  ],
+  "shortlist": 50,
+  "stageMs": {
+    "visa": 188,
+    "company_discovery": 28,
+    "ats_fetch": 112167,
+    "boards": 10441,
+    "signals": 7576,
+    "google": 77
+  },
+  "durationMs": 130478,
+  "requests": 617
+}

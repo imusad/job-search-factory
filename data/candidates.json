@@ -1,0 +1,6503 @@
+[
+  {
+    "name": "CircuitHub",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://circuithub.com",
+    "description": "On-Demand Electronics Manufacturing",
+    "funding_stage": "series_a",
+    "ats_slug": "circuithub"
+  },
+  {
+    "name": "Rescale",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://rescale.com",
+    "description": "High Performance Computing Built for the Cloud",
+    "funding_stage": "late",
+    "ats_slug": "rescale"
+  },
+  {
+    "name": "HackerRank",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://hackerrank.com",
+    "description": "Change the world to value skills over pedigree",
+    "funding_stage": "late",
+    "ats_slug": "hackerrank"
+  },
+  {
+    "name": "Zapier",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://zapier.com",
+    "description": "The easiest way to automate your work.",
+    "funding_stage": "late",
+    "ats_slug": "zapier"
+  },
+  {
+    "name": "RADAR",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://goradar.com",
+    "description": "RADAR is building technology to completely transform the in-store…",
+    "funding_stage": "series_a",
+    "ats_slug": "radar"
+  },
+  {
+    "name": "Lob",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://lob.com",
+    "description": "Lob is the only automation platform that transforms direct mail into…",
+    "funding_stage": "late",
+    "ats_slug": "lob"
+  },
+  {
+    "name": "Checkr",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.checkr.com",
+    "description": "People infrastructure for the future of work",
+    "funding_stage": "late",
+    "ats_slug": "checkr"
+  },
+  {
+    "name": "PicnicAI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://picnic.ai",
+    "description": "Intelligence to accelerate human health.",
+    "funding_stage": "late",
+    "ats_slug": "picnicai"
+  },
+  {
+    "name": "Qventus",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://qventus.com",
+    "description": "We automate operations for hospitals and health systems",
+    "funding_stage": "late",
+    "ats_slug": "qventus"
+  },
+  {
+    "name": "Magic",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://getmagic.com/",
+    "description": "Extremely talented assistants for busy people",
+    "funding_stage": "late",
+    "ats_slug": "magic"
+  },
+  {
+    "name": "Tempo",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://tempo.fit/",
+    "description": "Live home fitness training powered by computer vision.",
+    "funding_stage": "late",
+    "ats_slug": "tempo"
+  },
+  {
+    "name": "Razorpay",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://razorpay.com",
+    "description": "India's only full-stack financial solutions company for businesses.",
+    "funding_stage": "late",
+    "ats_slug": "razorpay"
+  },
+  {
+    "name": "Mashgin",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://mashgin.com",
+    "description": "Self-Checkout using Computer Vision.",
+    "funding_stage": "late",
+    "ats_slug": "mashgin"
+  },
+  {
+    "name": "Ironclad",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://ironcladapp.com",
+    "description": "AI-powered contract management",
+    "funding_stage": "late",
+    "ats_slug": "ironclad"
+  },
+  {
+    "name": "SnapMagic",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.snapmagic.com",
+    "description": "AI-assisted electronics design",
+    "funding_stage": "series_a",
+    "ats_slug": "snapmagic"
+  },
+  {
+    "name": "Verge Genomics",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://vergegenomics.com",
+    "description": "We use human data and AI to develop better drugs faster.",
+    "funding_stage": "late",
+    "ats_slug": "verge-genomics"
+  },
+  {
+    "name": "Drip Capital",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://dripcapital.com",
+    "description": "Digital trade finance and B2B commerce company",
+    "funding_stage": "late",
+    "ats_slug": "drip-capital"
+  },
+  {
+    "name": "Deepgram",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.deepgram.com",
+    "description": "Building foundational AI for speech transcription and understanding.",
+    "funding_stage": "late",
+    "ats_slug": "deepgram"
+  },
+  {
+    "name": "MailTime",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://mailtime.com",
+    "description": "Emails as quick and easy as text messaging.",
+    "funding_stage": "series_a",
+    "ats_slug": "mailtime"
+  },
+  {
+    "name": "Podium",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://podium.com",
+    "description": "Get more leads. Make more money. ",
+    "funding_stage": "late",
+    "ats_slug": "podium"
+  },
+  {
+    "name": "Gecko Robotics",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.geckorobotics.com",
+    "description": "AI + Robotics for the Built World",
+    "funding_stage": "late",
+    "ats_slug": "gecko-robotics"
+  },
+  {
+    "name": "Sendbird",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://sendbird.com",
+    "description": "The AI agent that doesn’t just support, it delights.",
+    "funding_stage": "late",
+    "ats_slug": "sendbird"
+  },
+  {
+    "name": "Relativity Space",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://relativityspace.com",
+    "description": "Building humanity’s multiplanetary future.",
+    "funding_stage": "late",
+    "ats_slug": "relativity-space"
+  },
+  {
+    "name": "OneChronos",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.onechronos.com/",
+    "description": "The Smart Market Powering The Future",
+    "funding_stage": "late",
+    "ats_slug": "onechronos"
+  },
+  {
+    "name": "Miso",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://miso.kr",
+    "description": "We make booking services as easy as buying products online.",
+    "funding_stage": "late",
+    "ats_slug": "miso"
+  },
+  {
+    "name": "Athelas",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://athelas.com",
+    "description": "Extensible, Integrated Technology that Simplifies Health Systems",
+    "funding_stage": "late",
+    "ats_slug": "athelas"
+  },
+  {
+    "name": "Scale AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://scale.com",
+    "description": "Data-centric infrastructure to accelerate the development of AI ",
+    "funding_stage": "late",
+    "ats_slug": "scale-ai"
+  },
+  {
+    "name": "People.ai",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://people.ai",
+    "description": "Harnesses business activity to unlock growth.",
+    "funding_stage": "late",
+    "ats_slug": "people-ai"
+  },
+  {
+    "name": "Speak",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://speak.com",
+    "description": "A superhuman, AI-powered language tutor in your pocket",
+    "funding_stage": "late",
+    "ats_slug": "speak"
+  },
+  {
+    "name": "MDalgorithms Inc.",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.mdalgorithms.com",
+    "description": "Democratizing Dermatology with AI ",
+    "funding_stage": "late",
+    "ats_slug": "mdalgorithms-inc"
+  },
+  {
+    "name": "Ambient.ai",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://ambient.ai",
+    "description": "AI company transforming enterprise physical security to prevent…",
+    "funding_stage": "late",
+    "ats_slug": "ambient-ai"
+  },
+  {
+    "name": "Snappr",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.snappr.com",
+    "description": "Snappr is the one-stop-shop for visual content creation",
+    "funding_stage": "late",
+    "ats_slug": "snappr"
+  },
+  {
+    "name": "Veryfi, Inc.",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.veryfi.com/",
+    "description": "Document AI. One API Call.",
+    "funding_stage": "late",
+    "ats_slug": "veryfi-inc"
+  },
+  {
+    "name": "AlemHealth",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.alemhealth.com",
+    "description": "AI Radiologist in a Box - We provide a vertically integrated AI…",
+    "funding_stage": "series_a",
+    "ats_slug": "alemhealth"
+  },
+  {
+    "name": "NanoNets",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://nanonets.com",
+    "description": "Automatic Data Extraction",
+    "funding_stage": "late",
+    "ats_slug": "nanonets"
+  },
+  {
+    "name": "Faire",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.faire.com/",
+    "description": "The global online platform empowering independent retail.",
+    "funding_stage": "late",
+    "ats_slug": "faire"
+  },
+  {
+    "name": "Ridecell",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.ridecell.com",
+    "description": "World's Leading Fleet Intelligence Platform",
+    "funding_stage": "late",
+    "ats_slug": "ridecell"
+  },
+  {
+    "name": "Skyways",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://skyways.com",
+    "description": "Creating a new form of air transportation to advance our civilization",
+    "funding_stage": "late",
+    "ats_slug": "skyways"
+  },
+  {
+    "name": "VergeSense",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.vergesense.com",
+    "description": "AI-Powered Building Management",
+    "funding_stage": "late",
+    "ats_slug": "vergesense"
+  },
+  {
+    "name": "UpCodes",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://up.codes/",
+    "description": "AI platform for unifying codes, assemblies, products, and specs",
+    "funding_stage": "late",
+    "ats_slug": "upcodes"
+  },
+  {
+    "name": "Standard AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://standard.ai",
+    "description": "AI-powered checkout for retail.",
+    "funding_stage": "late",
+    "ats_slug": "standard-ai"
+  },
+  {
+    "name": "Nimble",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.hirenimble.com",
+    "description": "Data-driven teacher hiring",
+    "funding_stage": "series_a",
+    "ats_slug": "nimble"
+  },
+  {
+    "name": "D-ID",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.d-id.com",
+    "description": "Enable creators and developers to generate realistic AI personas",
+    "funding_stage": "late",
+    "ats_slug": "d-id"
+  },
+  {
+    "name": "OneLocal",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://onelocal.com/",
+    "description": "OneLocal is a CRM for local businesses.",
+    "funding_stage": "late",
+    "ats_slug": "onelocal"
+  },
+  {
+    "name": "May Mobility",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://maymobility.com",
+    "description": "Transforming cities and rural areas through AV transit and technology",
+    "funding_stage": "late",
+    "ats_slug": "may-mobility"
+  },
+  {
+    "name": "AssemblyAI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.assemblyai.com",
+    "description": "The best way to build Voice AI apps",
+    "funding_stage": "late",
+    "ats_slug": "assemblyai"
+  },
+  {
+    "name": "Just Appraised",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.justappraised.com",
+    "description": "Just Appraised makes software for local governments.",
+    "funding_stage": "late",
+    "ats_slug": "just-appraised"
+  },
+  {
+    "name": "Proven Group",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.provenskincare.com",
+    "description": "PROVEN is using AI, data and personalization to disrupt CPG",
+    "funding_stage": "late",
+    "ats_slug": "proven-group"
+  },
+  {
+    "name": "Spellbrush",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://spellbrush.com",
+    "description": "Making Anime Real",
+    "funding_stage": "late",
+    "ats_slug": "spellbrush"
+  },
+  {
+    "name": "Assembly",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.assembly.com",
+    "description": "Create remarkable client experiences",
+    "funding_stage": "series_a",
+    "ats_slug": "assembly-com"
+  },
+  {
+    "name": "Fondo",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://fondo.com",
+    "description": "Bookkeeping, tax, & tax credits on autopilot for 2,000+ startups",
+    "funding_stage": "series_a",
+    "ats_slug": "fondo"
+  },
+  {
+    "name": "Promise",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://promise-pay.com",
+    "description": "Better payment systems for governments and the communities they serve.",
+    "funding_stage": "late",
+    "ats_slug": "promise"
+  },
+  {
+    "name": "Vanta",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://vanta.com",
+    "description": "Vanta—the proven leader in automated compliance helping startups…",
+    "funding_stage": "late",
+    "ats_slug": "vanta"
+  },
+  {
+    "name": "Acely",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://acely.com",
+    "description": "Every student's AI coach for college readiness",
+    "funding_stage": "late",
+    "ats_slug": "acely"
+  },
+  {
+    "name": "Weekend (fmr. Volley)",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://weekend.com",
+    "description": "AI games and entertainment on TV",
+    "funding_stage": "late",
+    "ats_slug": "weekend-fmr-volley"
+  },
+  {
+    "name": "Tilt (f.k.a. Delphia)",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://tilt.io",
+    "description": "",
+    "funding_stage": "late",
+    "ats_slug": "tilt-fka-delphia"
+  },
+  {
+    "name": "Helloverify",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.helloverify.ae",
+    "description": "Helloverify is a background screening platform (Checkr for India).  ",
+    "funding_stage": "late",
+    "ats_slug": "helloverify"
+  },
+  {
+    "name": "Swayable",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://swayable.com",
+    "description": "Swayable predicts consumer opinion and the impact of content",
+    "funding_stage": "series_a",
+    "ats_slug": "swayable"
+  },
+  {
+    "name": "OWNY",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.owny.com",
+    "description": "AI driven payment rails for emerging market banks.",
+    "funding_stage": "series_a",
+    "ats_slug": "owny"
+  },
+  {
+    "name": "Within",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://within.ai",
+    "description": "Company Brain for people and agents to work in harmony. ",
+    "funding_stage": "late",
+    "ats_slug": "within"
+  },
+  {
+    "name": "Verse Medical",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://versemedical.com/",
+    "description": "AI-enabled ordering for medical equipment & supplies",
+    "funding_stage": "late",
+    "ats_slug": "jetlenses"
+  },
+  {
+    "name": "Activeloop",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://activeloop.ai/",
+    "description": "Database for AI",
+    "funding_stage": "late",
+    "ats_slug": "activeloop"
+  },
+  {
+    "name": "Titan",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.titan.com",
+    "description": "Titan is an award-winning wealth manager with a mission to increase…",
+    "funding_stage": "late",
+    "ats_slug": "titan"
+  },
+  {
+    "name": "Inscribe",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.inscribe.ai/",
+    "description": "AI Document Fraud Detection for Banks, Credit Unions & Lenders",
+    "funding_stage": "series_a",
+    "ats_slug": "inscribe"
+  },
+  {
+    "name": "JITX",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.jitx.com",
+    "description": "Automatic circuit board design.",
+    "funding_stage": "series_a",
+    "ats_slug": "jitx"
+  },
+  {
+    "name": "Mytos",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.mytos.bio",
+    "description": "Robotic human cell manufacturing",
+    "funding_stage": "series_a",
+    "ats_slug": "cytera-cellworks"
+  },
+  {
+    "name": "Alpha Vantage",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.alphavantage.co/",
+    "description": "Developer-friendly and enterprise-grade APIs for financial market…",
+    "funding_stage": "series_a",
+    "ats_slug": "alpha-vantage"
+  },
+  {
+    "name": "Prodigal",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://prodigaltech.com/",
+    "description": "Lending Intelligence Software",
+    "funding_stage": "series_a",
+    "ats_slug": "prodigal"
+  },
+  {
+    "name": "Bot MD",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.botmd.io",
+    "description": "AI Clinical Assistant for Doctors",
+    "funding_stage": "late",
+    "ats_slug": "bot-md"
+  },
+  {
+    "name": "Nestor",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://nestorup.com",
+    "description": "Skills-based talent management solutions for a dynamic workforce.",
+    "funding_stage": "series_a",
+    "ats_slug": "nestor"
+  },
+  {
+    "name": "Eden",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://edenmed.com",
+    "description": "Building Clinical Superintelligence.",
+    "funding_stage": "late",
+    "ats_slug": "eden-2"
+  },
+  {
+    "name": "Mutiny",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.mutinyhq.com",
+    "description": "Your AI agent for creating anything customer-facing, in minutes.",
+    "funding_stage": "series_a",
+    "ats_slug": "mutiny"
+  },
+  {
+    "name": "Leena AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.leena.ai",
+    "description": "We at Leena AI build a virtual assistant that answers employee's…",
+    "funding_stage": "late",
+    "ats_slug": "leena-ai"
+  },
+  {
+    "name": "Overview",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://overview.ai",
+    "description": "Reshaping industrial quality with AI, hardware, and software",
+    "funding_stage": "late",
+    "ats_slug": "overview"
+  },
+  {
+    "name": "Centaur",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://centaur.ai/",
+    "description": "We Create Superior Data By Making Annotation Competitive",
+    "funding_stage": "late",
+    "ats_slug": "centaur"
+  },
+  {
+    "name": "Postscript",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://postscript.io",
+    "description": "The AI Retention Platform for Brands & Retailers",
+    "funding_stage": "late",
+    "ats_slug": "postscript"
+  },
+  {
+    "name": "Middesk",
+    "sources": [
+      "yc",
+      "hn"
+    ],
+    "tiers": [
+      "vc_portfolio",
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.middesk.com",
+    "description": "We make it easier for B2B companies to transact with one another",
+    "funding_stage": "late",
+    "ats_slug": "middesk"
+  },
+  {
+    "name": "GoLinks",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.golinks.io",
+    "description": "Intuitive, easy-to-remember short links - powered by AI.",
+    "funding_stage": "late",
+    "ats_slug": "golinks"
+  },
+  {
+    "name": "Community Phone Company",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.communityphone.org/",
+    "description": "The phone that gives families peace of mind about aging parents",
+    "funding_stage": "series_a",
+    "ats_slug": "community-phone-company"
+  },
+  {
+    "name": "Ashby",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.ashbyhq.com",
+    "description": "All-in-one recruiting platform that empowers hiring excellence in…",
+    "funding_stage": "late",
+    "ats_slug": "ashby"
+  },
+  {
+    "name": "Probably Genetic",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.probablygenetic.com/",
+    "description": "Patient Intelligence Platform for Genetic Disease ",
+    "funding_stage": "late",
+    "ats_slug": "probably-genetic"
+  },
+  {
+    "name": "Bunkerhill Health",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://bunkerhillhealth.com",
+    "description": "Bunkerhill is a long-horizon agent for health systems",
+    "funding_stage": "late",
+    "ats_slug": "bunkerhill-health"
+  },
+  {
+    "name": "Landed",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.gotlanded.com",
+    "description": "Generative AI for frontline worker hiring",
+    "funding_stage": "series_a",
+    "ats_slug": "landed-2"
+  },
+  {
+    "name": "Deel",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.deel.com/",
+    "description": "The all-in-one HR and payroll platform for global teams",
+    "funding_stage": "late",
+    "ats_slug": "deel"
+  },
+  {
+    "name": "Axel Travel",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://helloaxel.com/",
+    "description": "AI agent that saves you money on travel",
+    "funding_stage": "series_a",
+    "ats_slug": "axel-travel"
+  },
+  {
+    "name": "Beacons",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://beacons.ai/",
+    "description": "An AI-powered, all-in-one business platform for content creators",
+    "funding_stage": "late",
+    "ats_slug": "beacons"
+  },
+  {
+    "name": "Short Story",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://shortstorybox.com",
+    "description": "Modern ecommerce for petite women",
+    "funding_stage": "late",
+    "ats_slug": "short-story"
+  },
+  {
+    "name": "Pair Team",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://pairteam.com/",
+    "description": "Building the safety net of the future",
+    "funding_stage": "late",
+    "ats_slug": "pair-team"
+  },
+  {
+    "name": "TRM Labs",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://trmlabs.com/",
+    "description": "TRM is building a safer world for billions of people.",
+    "funding_stage": "series_a",
+    "ats_slug": "trm-labs"
+  },
+  {
+    "name": "Prolific",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.prolific.com",
+    "description": "Making diverse, high-quality data easily available to anyone, anywhere",
+    "funding_stage": "series_a",
+    "ats_slug": "prolific"
+  },
+  {
+    "name": "Rutter",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://rutter.com",
+    "description": "The Unified API for Business Financial Data",
+    "funding_stage": "late",
+    "ats_slug": "rutter"
+  },
+  {
+    "name": "DirectShifts",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://directshifts.com",
+    "description": "Workforce platform to recruit, license, credential & manage clinicians",
+    "funding_stage": "late",
+    "ats_slug": "directshifts"
+  },
+  {
+    "name": "Vahan",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://vahan.ai",
+    "description": "AI recruiter for India's massive blue-collar workforce",
+    "funding_stage": "late",
+    "ats_slug": "vahan"
+  },
+  {
+    "name": "Wonderly",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.wonderly.com/",
+    "description": "Closed-loop end-to-end AI System that recursively improves on…",
+    "funding_stage": "late",
+    "ats_slug": "wonderly"
+  },
+  {
+    "name": "Accord",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://inaccord.com",
+    "description": "The Revenue Excellence Platform",
+    "funding_stage": "late",
+    "ats_slug": "accord"
+  },
+  {
+    "name": "Taiv",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://taiv.tv",
+    "description": "AI-powered tech that makes business TV smarter, engaging, and…",
+    "funding_stage": "late",
+    "ats_slug": "taiv"
+  },
+  {
+    "name": "Handoff",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.handoff.ai/",
+    "description": "AI estimator & agent for remodelers.",
+    "funding_stage": "series_a",
+    "ats_slug": "handoff"
+  },
+  {
+    "name": "Ello",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.ello.com",
+    "description": "Building the world's first 1:1 AI teacher.",
+    "funding_stage": "series_a",
+    "ats_slug": "ello"
+  },
+  {
+    "name": "PostHog",
+    "sources": [
+      "yc",
+      "hn"
+    ],
+    "tiers": [
+      "vc_portfolio",
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.posthog.com",
+    "description": "The single platform to analyze, test, observe, and deploy new features",
+    "funding_stage": "late",
+    "ats_slug": "posthog"
+  },
+  {
+    "name": "AIOS",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://aiosmedical.notion.site/",
+    "description": "The world’s first full-stack AI doctor",
+    "funding_stage": "series_a",
+    "ats_slug": "aios"
+  },
+  {
+    "name": "Recurrency",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.recurrency.com",
+    "description": "Automated ERP for distributors.",
+    "funding_stage": "late",
+    "ats_slug": "recurrency"
+  },
+  {
+    "name": "PostEra",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://postera.ai/",
+    "description": "Medicinal Chemistry powered by Machine Learning",
+    "funding_stage": "late",
+    "ats_slug": "postera"
+  },
+  {
+    "name": "Morphle Labs",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://morphlelabs.com",
+    "description": "Robotic Automation for cancer diagnostics - Robotic Microscopes &…",
+    "funding_stage": "series_a",
+    "ats_slug": "morphle-labs"
+  },
+  {
+    "name": "BeGo",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.bego.ai",
+    "description": "BeGo Connects cargo shippers with truck suppliers in Mexico and US",
+    "funding_stage": "series_a",
+    "ats_slug": "be-go"
+  },
+  {
+    "name": "Recall.ai",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.recall.ai",
+    "description": "The API to get recordings, transcripts, and metadata from meetings",
+    "funding_stage": "late",
+    "ats_slug": "recall-ai"
+  },
+  {
+    "name": "Luminai",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.luminai.com",
+    "description": "Luminai is the AI platform for Health System Operations.",
+    "funding_stage": "late",
+    "ats_slug": "luminai"
+  },
+  {
+    "name": "Roboflow",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://roboflow.com",
+    "description": "🖼️ Give your software the sense of sight.",
+    "funding_stage": "late",
+    "ats_slug": "roboflow"
+  },
+  {
+    "name": "Datafold",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://datafold.com",
+    "description": "Automating manual and repetitive data engineering tasks with AI",
+    "funding_stage": "late",
+    "ats_slug": "datafold"
+  },
+  {
+    "name": "Blue Onion",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.blueonion.ai/",
+    "description": "Financial data layer for AI-powered finance and accounting",
+    "funding_stage": "late",
+    "ats_slug": "blue-onion"
+  },
+  {
+    "name": "Explorex",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://explorex.co",
+    "description": "Ecosystem Platform for Restaurants in India",
+    "funding_stage": "series_a",
+    "ats_slug": "explorex"
+  },
+  {
+    "name": "Hypotenuse AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://hypotenuse.ai/",
+    "description": "AI-native Operating System for Enterprise Ecommerce Companies",
+    "funding_stage": "series_a",
+    "ats_slug": "hypotenuse-ai"
+  },
+  {
+    "name": "Swif.ai",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.swif.ai",
+    "description": "Manage every device. Govern every AI agent.",
+    "funding_stage": "series_a",
+    "ats_slug": "swif-ai"
+  },
+  {
+    "name": "Blissway",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.blissway.com/",
+    "description": "The tolling industry’s prime tech infrastructure",
+    "funding_stage": "series_a",
+    "ats_slug": "blissway"
+  },
+  {
+    "name": "Atomic",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.atomicvest.com/",
+    "description": "API that lets companies embed investment accounts into their services",
+    "funding_stage": "series_a",
+    "ats_slug": "atomic"
+  },
+  {
+    "name": "Nextera Robotics | DIDGE.ai",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://nexterarobotics.com",
+    "description": "AI-native Robotics",
+    "funding_stage": "series_a",
+    "ats_slug": "nextera-robotics-didgeai"
+  },
+  {
+    "name": "BIK",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://bik.ai/",
+    "description": "Agentic AI CRM for ecommerce",
+    "funding_stage": "late",
+    "ats_slug": "bik"
+  },
+  {
+    "name": "Kingdom",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://kingdomsuperculture.com",
+    "description": "Clinically-validated ingredients from natural microbes",
+    "funding_stage": "late",
+    "ats_slug": "kingdom"
+  },
+  {
+    "name": "Ready",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://ready.net",
+    "description": "Ensuring AI delivers what people need, when and where they need it,…",
+    "funding_stage": "series_a",
+    "ats_slug": "ready"
+  },
+  {
+    "name": "Taktile",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.taktile.com",
+    "description": "Transform your decision-making with reliable AI agents in weeks, not…",
+    "funding_stage": "series_a",
+    "ats_slug": "taktile"
+  },
+  {
+    "name": "Draftwise",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.draftwise.com/",
+    "description": "Contract and negotiation AI built for lawyers",
+    "funding_stage": "late",
+    "ats_slug": "draftwise"
+  },
+  {
+    "name": "Glimpse",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://tryglimpse.com/",
+    "description": "Glimpse is the system of action for CPG retail operations",
+    "funding_stage": "late",
+    "ats_slug": "glimpse-2"
+  },
+  {
+    "name": "Fieldguide",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://fieldguide.com",
+    "description": "Vertical AI for Audit & Advisory Firms",
+    "funding_stage": "late",
+    "ats_slug": "fieldguide"
+  },
+  {
+    "name": "Heron",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.herondata.io",
+    "description": "Underwriting automation for small business finance",
+    "funding_stage": "series_a",
+    "ats_slug": "heron"
+  },
+  {
+    "name": "Abacum",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.abacum.ai/",
+    "description": "The AI-native FP&A platform that helps Finance teams drive business…",
+    "funding_stage": "late",
+    "ats_slug": "abacum"
+  },
+  {
+    "name": "Atomic Industries",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://atomic.industries",
+    "description": "Software orchestrated mass production of plastics",
+    "funding_stage": "late",
+    "ats_slug": "atomic-industries"
+  },
+  {
+    "name": "authzed",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://authzed.com",
+    "description": "Authorization Infrastructure securing AI at OpenAI, Zoom, & more",
+    "funding_stage": "late",
+    "ats_slug": "authzed"
+  },
+  {
+    "name": "Humaans",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://humaans.io",
+    "description": "AI-Powered HRIS for high performing teams",
+    "funding_stage": "late",
+    "ats_slug": "humaans"
+  },
+  {
+    "name": "RocketSDR",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://rocketsdr.ai",
+    "description": "AI Native Sales Outreach Platform",
+    "funding_stage": "series_a",
+    "ats_slug": "rocketsdr"
+  },
+  {
+    "name": "GroMo",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.gromo.in",
+    "description": "App for independent agents to sell financial products in India",
+    "funding_stage": "series_a",
+    "ats_slug": "gromo"
+  },
+  {
+    "name": "Weekday",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://weekday.works",
+    "description": "AI recruiter that runs outbound sourcing campaigns to find top talent",
+    "funding_stage": "series_a",
+    "ats_slug": "weekday"
+  },
+  {
+    "name": "Encord",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://encord.com",
+    "description": "The data layer for physical AI",
+    "funding_stage": "late",
+    "ats_slug": "encord"
+  },
+  {
+    "name": "Cyble",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://cyble.com/",
+    "description": "Cyble - World’s First Intelligence-Driven, AI-Native Security…",
+    "funding_stage": "late",
+    "ats_slug": "cyble"
+  },
+  {
+    "name": "Per Diem",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://tryperdiem.com",
+    "description": "The AI operating system for restaurants",
+    "funding_stage": "series_a",
+    "ats_slug": "per-diem"
+  },
+  {
+    "name": "Camber",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.camber.health/",
+    "description": "Admin automation for healthcare",
+    "funding_stage": "late",
+    "ats_slug": "camber-2"
+  },
+  {
+    "name": "Vapi",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://vapi.ai",
+    "description": "Voice AI for developers.",
+    "funding_stage": "late",
+    "ats_slug": "vapi"
+  },
+  {
+    "name": "Popl",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://popl.co/",
+    "description": "Your AI GTM platform for In-Person Events",
+    "funding_stage": "series_a",
+    "ats_slug": "popl"
+  },
+  {
+    "name": "LiveFlow",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.liveflow.com",
+    "description": "The Unified AI-ERP & FP&A Platform",
+    "funding_stage": "late",
+    "ats_slug": "liveflow"
+  },
+  {
+    "name": "Datrics",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://datrics.ai",
+    "description": "Generative AI Healthcare Coding Automation",
+    "funding_stage": "series_a",
+    "ats_slug": "datrics"
+  },
+  {
+    "name": "Topline Pro",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.toplinepro.com",
+    "description": "Generative AI powered Shopify for home service professionals",
+    "funding_stage": "series_a",
+    "ats_slug": "topline-pro"
+  },
+  {
+    "name": "Quicknode",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.quicknode.com",
+    "description": "Infrastructure and tools to build and scale blockchain applications.",
+    "funding_stage": "late",
+    "ats_slug": "quicknode"
+  },
+  {
+    "name": "Resquared",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://re2.ai",
+    "description": "Marketing automation platform for selling to local businesses.",
+    "funding_stage": "series_a",
+    "ats_slug": "resquared"
+  },
+  {
+    "name": "Codingal",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.codingal.com/?utm_source=yc",
+    "description": "Leading online after-school for kids & teens to learn AI & coding",
+    "funding_stage": "series_a",
+    "ats_slug": "codingal"
+  },
+  {
+    "name": "Tractian",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://tractian.com",
+    "description": "Physical AI for asset-heavy industries",
+    "funding_stage": "late",
+    "ats_slug": "tractian"
+  },
+  {
+    "name": "Tint",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.tint.ai",
+    "description": "Makes it easy for tech platforms to embed insurance into products",
+    "funding_stage": "series_a",
+    "ats_slug": "tint"
+  },
+  {
+    "name": "Lamar Health",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.lamarhealth.com",
+    "description": "Take Care of Shitty Paperwork for Expensive Drugs",
+    "funding_stage": "series_a",
+    "ats_slug": "lamar-health"
+  },
+  {
+    "name": "Soraban",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.soraban.com",
+    "description": "AI tax workflow platform for accounting firms ",
+    "funding_stage": "series_a",
+    "ats_slug": "soraban"
+  },
+  {
+    "name": "Stayflexi",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://business.stayflexi.com/",
+    "description": "Operating System for Hotels and Vacation Rentals",
+    "funding_stage": "series_a",
+    "ats_slug": "stayflexi"
+  },
+  {
+    "name": "Infracost",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://infracost.io",
+    "description": "Shift FinOps Left: Proactively Find & Fix Cloud Cost Issues",
+    "funding_stage": "series_a",
+    "ats_slug": "infracost"
+  },
+  {
+    "name": "BusinessOnBot",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.businessonbot.com/",
+    "description": "Automated user acquisition & selling on WhatsApp for businesses",
+    "funding_stage": "series_a",
+    "ats_slug": "businessonbot"
+  },
+  {
+    "name": "Gigs",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://gigs.com",
+    "description": "The OS for Embedded Telecom",
+    "funding_stage": "late",
+    "ats_slug": "gigs"
+  },
+  {
+    "name": "Turing College",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.turingcollege.com/",
+    "description": "AI-driven online tech school for busy professionals",
+    "funding_stage": "series_a",
+    "ats_slug": "turing-college"
+  },
+  {
+    "name": "Moonvalley",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.moonvalley.com",
+    "description": "Building the next generation AI creative studio",
+    "funding_stage": "late",
+    "ats_slug": "moonvalley"
+  },
+  {
+    "name": "Triomics",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://triomics.com/",
+    "description": "AI Agents for Oncology EHRs",
+    "funding_stage": "late",
+    "ats_slug": "triomics"
+  },
+  {
+    "name": "Slope",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.slopepay.com",
+    "description": "The B2B Payments Platform ",
+    "funding_stage": "late",
+    "ats_slug": "slope"
+  },
+  {
+    "name": "Serif Health",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.serifhealth.com",
+    "description": "Healthcare Price Transparency APIs and Data Products",
+    "funding_stage": "series_a",
+    "ats_slug": "serif-health"
+  },
+  {
+    "name": "Rootly",
+    "sources": [
+      "yc",
+      "hn"
+    ],
+    "tiers": [
+      "vc_portfolio",
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://rootly.com",
+    "description": "AI-native on-call and incident response carefully crafted to help…",
+    "funding_stage": "late",
+    "ats_slug": "rootly"
+  },
+  {
+    "name": "Replo",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://replo.app/",
+    "description": "Sell anything",
+    "funding_stage": "series_a",
+    "ats_slug": "replo"
+  },
+  {
+    "name": "Confido",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.confidotech.com",
+    "description": "AI-enabled financial automation and intelligence for CPG Brands",
+    "funding_stage": "late",
+    "ats_slug": "confido"
+  },
+  {
+    "name": "Parallel Bio",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://parallel.bio",
+    "description": "Using the immune system to cure disease",
+    "funding_stage": "series_a",
+    "ats_slug": "parallel-bio"
+  },
+  {
+    "name": "Neodocs",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.neodocs.in",
+    "description": "Instant lab tests on your smartphone",
+    "funding_stage": "series_a",
+    "ats_slug": "neodocs"
+  },
+  {
+    "name": "Double",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.doublehq.com",
+    "description": "We make software for bookkeepers.",
+    "funding_stage": "series_a",
+    "ats_slug": "doublehq"
+  },
+  {
+    "name": "Lago",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.getlago.com/",
+    "description": "The AI Native Billing Platform",
+    "funding_stage": "late",
+    "ats_slug": "lago"
+  },
+  {
+    "name": "Tavus",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.tavus.io",
+    "description": "Building the human layer of AI",
+    "funding_stage": "late",
+    "ats_slug": "tavus"
+  },
+  {
+    "name": "Kodex",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.kodexglobal.com",
+    "description": "Easiest way for companies to process data requests from governments",
+    "funding_stage": "late",
+    "ats_slug": "kodex"
+  },
+  {
+    "name": "Aqua",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.investwithaqua.com",
+    "description": "The AI-Native Turnkey Alternative Investment Platform (TAIP)",
+    "funding_stage": "series_a",
+    "ats_slug": "aqua"
+  },
+  {
+    "name": "testRigor",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://testrigor.com",
+    "description": "Executable specifications in English for test automation",
+    "funding_stage": "series_a",
+    "ats_slug": "testrigor"
+  },
+  {
+    "name": "MindFi",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.mindfi.co",
+    "description": "Transforming Mental Health for Corporate Asia",
+    "funding_stage": "series_a",
+    "ats_slug": "mindfi"
+  },
+  {
+    "name": "Truss",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://trusspayments.com",
+    "description": "Truss is a banking and payments network for blue-collar trades.",
+    "funding_stage": "series_a",
+    "ats_slug": "truss"
+  },
+  {
+    "name": "Scispot",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://scispot.io",
+    "description": "The Best Data Infrastructure for Biotechs",
+    "funding_stage": "series_a",
+    "ats_slug": "scispot-io"
+  },
+  {
+    "name": "CoLoop",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://coloop.ai/",
+    "description": "AI Copilot for insights & strategy",
+    "funding_stage": "series_a",
+    "ats_slug": "coloop"
+  },
+  {
+    "name": "OneSchema",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.oneschema.co",
+    "description": "The AI Cowork for big data",
+    "funding_stage": "series_a",
+    "ats_slug": "oneschema"
+  },
+  {
+    "name": "Adaptyv",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.adaptyvbio.com/",
+    "description": "We're building fully automated labs for protein engineering",
+    "funding_stage": "late",
+    "ats_slug": "adaptyv"
+  },
+  {
+    "name": "Coast",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://trycoast.com",
+    "description": "Demo operations for the AI era",
+    "funding_stage": "series_a",
+    "ats_slug": "coast"
+  },
+  {
+    "name": "Mach9",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.mach9.ai/",
+    "description": "AI CAD Software for Civil Engineering",
+    "funding_stage": "series_a",
+    "ats_slug": "mach9"
+  },
+  {
+    "name": "Sully",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.sully.ai",
+    "description": "Autonomous team of AI agents that runs the entire hospital operations",
+    "funding_stage": "series_a",
+    "ats_slug": "sully"
+  },
+  {
+    "name": "Agave",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.useagave.com",
+    "description": "Applied AI for Construction",
+    "funding_stage": "series_a",
+    "ats_slug": "agave"
+  },
+  {
+    "name": "Sieve",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://sievedata.com/",
+    "description": "The multimodal data lab",
+    "funding_stage": "late",
+    "ats_slug": "sieve"
+  },
+  {
+    "name": "Peakflo",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://peakflo.co",
+    "description": "Agentic workflows that automate your back‑office operations",
+    "funding_stage": "series_a",
+    "ats_slug": "peakflo"
+  },
+  {
+    "name": "Craniometrix",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://craniometrix.com",
+    "description": "Using AI to help dementia patients age at home",
+    "funding_stage": "series_a",
+    "ats_slug": "craniometrix"
+  },
+  {
+    "name": "Gym Class",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://gymclass.com",
+    "description": "Connecting the world by simulating it",
+    "funding_stage": "late",
+    "ats_slug": "gym-class"
+  },
+  {
+    "name": "InferEdge",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.inferedge.com",
+    "description": "AI solutions for investment firms under a forward deployed model",
+    "funding_stage": "series_a",
+    "ats_slug": "inferedge"
+  },
+  {
+    "name": "Dynamo AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://dynamo.ai",
+    "description": "Compliant-Ready AI for the Enterprise",
+    "funding_stage": "late",
+    "ats_slug": "dynamo-ai"
+  },
+  {
+    "name": "Invert",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.invertbio.com/",
+    "description": "Data analytics software for biomanufacturing.",
+    "funding_stage": "late",
+    "ats_slug": "invert"
+  },
+  {
+    "name": "Ankr Health",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://ankr.us",
+    "description": "Virtualizing brick-mortar infrastructures of clinics w/ generative AI ",
+    "funding_stage": "series_a",
+    "ats_slug": "ankr-health"
+  },
+  {
+    "name": "Complif",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://complif.com",
+    "description": "Compliance tools & AI agents for financial entities",
+    "funding_stage": "series_a",
+    "ats_slug": "complif"
+  },
+  {
+    "name": "Reforged Labs",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://reforgedlabs.com/",
+    "description": "Turn intuition into insights, in minutes",
+    "funding_stage": "series_a",
+    "ats_slug": "reforged-labs"
+  },
+  {
+    "name": "Flagright",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://flagright.com",
+    "description": "AI-native AML compliance platform for fintechs & banks",
+    "funding_stage": "series_a",
+    "ats_slug": "flagright"
+  },
+  {
+    "name": "IOMETE",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.iomete.com/",
+    "description": "Self-hosted data lakehouse platform",
+    "funding_stage": "series_a",
+    "ats_slug": "iomete"
+  },
+  {
+    "name": "Mintlify",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://mintlify.com",
+    "description": "The intelligent documentation platform",
+    "funding_stage": "late",
+    "ats_slug": "mintlify"
+  },
+  {
+    "name": "PermitFlow",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.permitflow.com",
+    "description": "Construction's AI Platform",
+    "funding_stage": "late",
+    "ats_slug": "permitflow"
+  },
+  {
+    "name": "IMT Care",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.imt.care",
+    "description": "Disrupting Indian Insurance space by empowering distrubutors",
+    "funding_stage": "series_a",
+    "ats_slug": "imt-care"
+  },
+  {
+    "name": "Velt",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://velt.dev",
+    "description": "SDK for adding an agent and human governance layer to your product",
+    "funding_stage": "series_a",
+    "ats_slug": "velt"
+  },
+  {
+    "name": "Cogram",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://cogram.com",
+    "description": "The AI Platform for Architects and Engineers",
+    "funding_stage": "series_a",
+    "ats_slug": "cogram"
+  },
+  {
+    "name": "Curacel",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://curacel.co",
+    "description": "AI-Powered Infrastructure for Insurance & Healthcare",
+    "funding_stage": "series_a",
+    "ats_slug": "curacel"
+  },
+  {
+    "name": "voize",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://voize.de/",
+    "description": "We build the AI companion for nurses, to create time for care.",
+    "funding_stage": "late",
+    "ats_slug": "voize"
+  },
+  {
+    "name": "Agency",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://GetAgency.com",
+    "description": "Agency replaces traditional security and compliance headcount with AI.",
+    "funding_stage": "series_a",
+    "ats_slug": "agency"
+  },
+  {
+    "name": "Cinder",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://cinder.ai",
+    "description": "Infrastructure to protect companies from AI abuse",
+    "funding_stage": "late",
+    "ats_slug": "cinder-2"
+  },
+  {
+    "name": "Broccoli AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.broccoli.com/",
+    "description": "AI-native operating system for home service businesses",
+    "funding_stage": "late",
+    "ats_slug": "broccoli-ai"
+  },
+  {
+    "name": "Spade",
+    "sources": [
+      "yc",
+      "hn"
+    ],
+    "tiers": [
+      "vc_portfolio",
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.spade.com",
+    "description": "Spade is the data and AI platform for modern finance.",
+    "funding_stage": "late",
+    "ats_slug": "spade"
+  },
+  {
+    "name": "BelozFi",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.belozfi.com.mx/",
+    "description": "Financial health focused micro-lender in Mexico",
+    "funding_stage": "series_a",
+    "ats_slug": "belozfi"
+  },
+  {
+    "name": "Rally",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.rallyuxr.com/",
+    "description": "Agentic User Research Infrastructure",
+    "funding_stage": "series_a",
+    "ats_slug": "rallyuxr"
+  },
+  {
+    "name": "Unravel Carbon",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://unravelcarbon.com",
+    "description": "Enterprise software for companies to track & reduce their carbon…",
+    "funding_stage": "series_a",
+    "ats_slug": "unravel-carbon"
+  },
+  {
+    "name": "Finku",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://finku.id",
+    "description": "AI powered personal finance app for Indonesia",
+    "funding_stage": "series_a",
+    "ats_slug": "finku"
+  },
+  {
+    "name": "GovDash",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://govdash.com/",
+    "description": "AI platform to win and run government contracts",
+    "funding_stage": "late",
+    "ats_slug": "govdash"
+  },
+  {
+    "name": "Cofactr",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.cofactr.com/",
+    "description": "AI-Powered Electronics Supply Chain Infrastructure",
+    "funding_stage": "series_a",
+    "ats_slug": "cofactr"
+  },
+  {
+    "name": "Eventual",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.daft.ai/",
+    "description": "Building the AI data engine for any modality and scale",
+    "funding_stage": "series_a",
+    "ats_slug": "eventual"
+  },
+  {
+    "name": "Reality Defender",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.realitydefender.com",
+    "description": "Enterprise Deepfake Detection",
+    "funding_stage": "late",
+    "ats_slug": "reality-defender"
+  },
+  {
+    "name": "Clinikally",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.clinikally.com/",
+    "description": "India's Telemedicine Platform & Online Pharmacy for Dermatology Care",
+    "funding_stage": "late",
+    "ats_slug": "clinikally"
+  },
+  {
+    "name": "Stream",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.stream.claims",
+    "description": "The AI Claims Workbench automating insurance claims ",
+    "funding_stage": "series_a",
+    "ats_slug": "stream"
+  },
+  {
+    "name": "Paces",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://paces.com",
+    "description": "Agentic AI for Power Projects and AI Infrastructure",
+    "funding_stage": "late",
+    "ats_slug": "paces"
+  },
+  {
+    "name": "Two Dots",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.twodots.com",
+    "description": "AI fraud prevention and underwriting agent",
+    "funding_stage": "late",
+    "ats_slug": "two-dots"
+  },
+  {
+    "name": "Tailor",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.tailor.tech/",
+    "description": "Headless ERP for retail operations",
+    "funding_stage": "series_a",
+    "ats_slug": "tailor"
+  },
+  {
+    "name": "Pasito",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://pasito.ai",
+    "description": "AI agents for insurance and benefits",
+    "funding_stage": "series_a",
+    "ats_slug": "pasito"
+  },
+  {
+    "name": "Cerrion",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.cerrion.com/",
+    "description": "Video AI to automatically detect and respond to production line…",
+    "funding_stage": "series_a",
+    "ats_slug": "cerrion"
+  },
+  {
+    "name": "Blee",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.blee.com",
+    "description": "Smart, fast, and collaborative compliance reviews ",
+    "funding_stage": "late",
+    "ats_slug": "blee"
+  },
+  {
+    "name": "Juicebox",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://juicebox.ai/",
+    "description": "AI Agents for Recruiting",
+    "funding_stage": "late",
+    "ats_slug": "juicebox"
+  },
+  {
+    "name": "Thera",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.getthera.com",
+    "description": "AI-Native Finance OS",
+    "funding_stage": "series_a",
+    "ats_slug": "thera"
+  },
+  {
+    "name": "Aurelian",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.aurelian.com/",
+    "description": "Automating non-emergency calls for 911 centers",
+    "funding_stage": "late",
+    "ats_slug": "aurelian"
+  },
+  {
+    "name": "Metriport",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://metriport.com/",
+    "description": "Healthcare data infrastructure for next generation care delivery.",
+    "funding_stage": "late",
+    "ats_slug": "metriport"
+  },
+  {
+    "name": "AiPrise",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://aiprise.com/",
+    "description": "AI-powered Global Compliance Platform",
+    "funding_stage": "series_a",
+    "ats_slug": "aiprise"
+  },
+  {
+    "name": "HOMLI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://thehomli.com",
+    "description": "Sell your home without brokers",
+    "funding_stage": "series_a",
+    "ats_slug": "homli"
+  },
+  {
+    "name": "Oneleet",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.oneleet.com/?utm_source=yc&utm_medium=bookface",
+    "description": "YC's most popular security compliance platform (SOC 2, ISO 27001,…",
+    "funding_stage": "late",
+    "ats_slug": "oneleet"
+  },
+  {
+    "name": "Pump.co",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.pump.co/",
+    "description": "The Costco for cloud is here 🔥🔥",
+    "funding_stage": "series_a",
+    "ats_slug": "pump-co"
+  },
+  {
+    "name": "Cambio",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.cambio.ai/",
+    "description": "AI-native commercial real estate operations",
+    "funding_stage": "late",
+    "ats_slug": "cambio-2"
+  },
+  {
+    "name": "Axle",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://axle.insure",
+    "description": "AI-native clearinghouse for insurance",
+    "funding_stage": "series_a",
+    "ats_slug": "axle"
+  },
+  {
+    "name": "Landeed",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.landeed.com/",
+    "description": "Landeed is India’s digital infrastructure for property intelligence,…",
+    "funding_stage": "series_a",
+    "ats_slug": "landeed"
+  },
+  {
+    "name": "Polymath Robotics",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.polymathrobotics.com",
+    "description": "General Autonomy for Industrial Vehicles",
+    "funding_stage": "series_a",
+    "ats_slug": "polymath-robotics"
+  },
+  {
+    "name": "Avoca",
+    "sources": [
+      "yc",
+      "hn"
+    ],
+    "tiers": [
+      "vc_portfolio",
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.avoca.ai/",
+    "description": "AI-powered Sales Agent for Service-Based Industries",
+    "funding_stage": "late",
+    "ats_slug": "avoca"
+  },
+  {
+    "name": "Infisical",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://infisical.com",
+    "description": "Security infrastructure for developers and agents",
+    "funding_stage": "late",
+    "ats_slug": "infisical"
+  },
+  {
+    "name": "Middleware",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.middleware.io",
+    "description": "AI-based full stack observability platform",
+    "funding_stage": "series_a",
+    "ats_slug": "middleware"
+  },
+  {
+    "name": "Reflex",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://reflex.dev",
+    "description": "Build the software you wish existed.",
+    "funding_stage": "series_a",
+    "ats_slug": "reflex"
+  },
+  {
+    "name": "Rollstack",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.rollstack.com",
+    "description": "Automate data-driven slide decks and documents with AI",
+    "funding_stage": "late",
+    "ats_slug": "rollstack-2"
+  },
+  {
+    "name": "Concourse",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://concourse.ai/",
+    "description": "The AI Agent platform for finance",
+    "funding_stage": "series_a",
+    "ats_slug": "concourse"
+  },
+  {
+    "name": "Latent",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://latenthealth.com",
+    "description": "Clinical AI that gets life-changing medicine to the people who need it",
+    "funding_stage": "series_a",
+    "ats_slug": "latent"
+  },
+  {
+    "name": "Numeral",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.numeral.com/",
+    "description": "The AI-native sales tax solution.",
+    "funding_stage": "late",
+    "ats_slug": "numeral"
+  },
+  {
+    "name": "Salient",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.trysalient.com",
+    "description": "AI Servicing for Auto Lenders",
+    "funding_stage": "late",
+    "ats_slug": "salient"
+  },
+  {
+    "name": "Tennr",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.tennr.com",
+    "description": "Fast, Transparent Patient Experiences",
+    "funding_stage": "late",
+    "ats_slug": "tennr"
+  },
+  {
+    "name": "Omnistrate",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://www.omnistrate.com",
+    "description": "Build your control plane to deploy your product in your customer VPC…",
+    "funding_stage": "series_a",
+    "ats_slug": "omnistrate"
+  },
+  {
+    "name": "loopfour",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.loopfour.com",
+    "description": "Workflow automation, without AI hallucinations.",
+    "funding_stage": "series_a",
+    "ats_slug": "loopfour"
+  },
+  {
+    "name": "GovEagle",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.goveagle.com/",
+    "description": "AI for Government Contractors",
+    "funding_stage": "series_a",
+    "ats_slug": "goveagle"
+  },
+  {
+    "name": "Vooma",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.vooma.ai",
+    "description": "Automation platform for logistics",
+    "funding_stage": "late",
+    "ats_slug": "vooma"
+  },
+  {
+    "name": "Pirros",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://pirros.com",
+    "description": "AI Platform for Architects and Engineers",
+    "funding_stage": "series_a",
+    "ats_slug": "pirros"
+  },
+  {
+    "name": "Kivo Health",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://kivohealth.com",
+    "description": "AI-powered care for seniors with chronic disease",
+    "funding_stage": "late",
+    "ats_slug": "kivo-health"
+  },
+  {
+    "name": "Inkeep",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://inkeep.com",
+    "description": "Build AI Agent teammates and automations in code or no-code",
+    "funding_stage": "series_a",
+    "ats_slug": "inkeep"
+  },
+  {
+    "name": "Truewind",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.trytruewind.com",
+    "description": "AI-Powered Accounting",
+    "funding_stage": "series_a",
+    "ats_slug": "truewind"
+  },
+  {
+    "name": "222",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://222.place",
+    "description": "the AI social facilitator for offline human to human interactions",
+    "funding_stage": "series_a",
+    "ats_slug": "222"
+  },
+  {
+    "name": "Hadrius",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.hadrius.com",
+    "description": "Automating Securities Compliance",
+    "funding_stage": "late",
+    "ats_slug": "hadrius"
+  },
+  {
+    "name": "Alaan",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.alaan.com/",
+    "description": "Ai-native finance platform for the Middle East",
+    "funding_stage": "series_a",
+    "ats_slug": "alaan"
+  },
+  {
+    "name": "SuperKalam",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://superkalam.com",
+    "description": "AI-Powered Super Mentor for Test Prep",
+    "funding_stage": "series_a",
+    "ats_slug": "superkalam"
+  },
+  {
+    "name": "Pylon",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://usepylon.com/?utm_source=bookface&utm_medium=referral&utm_campaign=pylon-profile",
+    "description": "The Agentic Support Platform purpose-built for B2B.",
+    "funding_stage": "late",
+    "ats_slug": "pylon-2"
+  },
+  {
+    "name": "Conduit",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://helloconduit.com",
+    "description": "The operating system for shipping and receiving.",
+    "funding_stage": "late",
+    "ats_slug": "conduit"
+  },
+  {
+    "name": "Vector",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://vector.co",
+    "description": "Advertising for the new internet",
+    "funding_stage": "series_a",
+    "ats_slug": "vector"
+  },
+  {
+    "name": "Metal",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://metal.ai/",
+    "description": "The AI context platform for private capital. Everything your firm…",
+    "funding_stage": "series_a",
+    "ats_slug": "metal"
+  },
+  {
+    "name": "Escape",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://escape.tech",
+    "description": "Offensive security for the teams that are 100x outnumbered",
+    "funding_stage": "late",
+    "ats_slug": "escape"
+  },
+  {
+    "name": "Cercli",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.cercli.com",
+    "description": "AI powered HR and Recruitment for people teams",
+    "funding_stage": "late",
+    "ats_slug": "cercli"
+  },
+  {
+    "name": "LiteLLM",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.litellm.ai/",
+    "description": "Call every LLM API like it's OpenAI [100+ LLMs]",
+    "funding_stage": "series_a",
+    "ats_slug": "litellm"
+  },
+  {
+    "name": "Yuma AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://yuma.ai",
+    "description": "The AI Support Agent for Ecommerce",
+    "funding_stage": "series_a",
+    "ats_slug": "yuma-ai"
+  },
+  {
+    "name": "kapa.ai",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.kapa.ai",
+    "description": "The fastest way to build AI assistants on technical content",
+    "funding_stage": "series_a",
+    "ats_slug": "kapa-ai"
+  },
+  {
+    "name": "Elyos AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.elyos.ai/",
+    "description": "AI Customer Service Agents for trades and field services",
+    "funding_stage": "late",
+    "ats_slug": "elyos-ai"
+  },
+  {
+    "name": "Accend",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.withaccend.com/",
+    "description": "AI agents for commercial underwriting at banks and fintechs",
+    "funding_stage": "series_a",
+    "ats_slug": "accend"
+  },
+  {
+    "name": "Hyperbound",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://hyperbound.ai",
+    "description": "Revenue Activation Platform",
+    "funding_stage": "late",
+    "ats_slug": "hyperbound"
+  },
+  {
+    "name": "Bland AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://bland.com",
+    "description": "The enterprise platform for AI phone calls",
+    "funding_stage": "late",
+    "ats_slug": "bland-ai"
+  },
+  {
+    "name": "Readily",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://readily.ai",
+    "description": "AI Compliance Platform for Healthcare Organizations",
+    "funding_stage": "late",
+    "ats_slug": "readily"
+  },
+  {
+    "name": "Casca",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.cascading.ai/",
+    "description": "Make Banking Magical",
+    "funding_stage": "late",
+    "ats_slug": "casca"
+  },
+  {
+    "name": "Prosper",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.getprosper.ai?utm_source=yc&utm_medium=directory&utm_campaign=yc_directory",
+    "description": "AI Phone Agents for Healthcare Operations",
+    "funding_stage": "series_a",
+    "ats_slug": "prosper"
+  },
+  {
+    "name": "Craftwork",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://craftwork.com/",
+    "description": "Digital-native home painting franchise",
+    "funding_stage": "series_a",
+    "ats_slug": "craftwork"
+  },
+  {
+    "name": "Solve Intelligence",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.solveintelligence.com/",
+    "description": "AI patent drafting, prosecution, litigation and more for legal teams.",
+    "funding_stage": "late",
+    "ats_slug": "solve-intelligence"
+  },
+  {
+    "name": "Campfire",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://campfire.ai",
+    "description": "The AI Native ERP for the fastest growing companies.",
+    "funding_stage": "late",
+    "ats_slug": "campfire-2"
+  },
+  {
+    "name": "Outset",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://outset.ai/",
+    "description": "AI-powered user interviews",
+    "funding_stage": "late",
+    "ats_slug": "outset"
+  },
+  {
+    "name": "FleetWorks",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://fleetworks.ai",
+    "description": "AI enabled marketplace matching trucks with jobs",
+    "funding_stage": "series_a",
+    "ats_slug": "fleetworks"
+  },
+  {
+    "name": "Decoda Health",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://decodahealth.com/",
+    "description": "The all-in-one EMR built for med spas and elective care",
+    "funding_stage": "series_a",
+    "ats_slug": "decoda-health"
+  },
+  {
+    "name": "Numen",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.numen.com",
+    "description": "Engineering a future without cancer deaths.",
+    "funding_stage": "late",
+    "ats_slug": "numen"
+  },
+  {
+    "name": "Bretton AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.bretton.com/",
+    "description": "AI-native operations for the banks",
+    "funding_stage": "late",
+    "ats_slug": "bretton-ai"
+  },
+  {
+    "name": "Letter AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.letter.ai",
+    "description": "End-to-end content, learning, & deal intelligence for B2B sales teams",
+    "funding_stage": "late",
+    "ats_slug": "letter-ai"
+  },
+  {
+    "name": "Kobalt Labs",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.kobaltlabs.com/",
+    "description": "AI-powered risk and compliance for financial institutions",
+    "funding_stage": "late",
+    "ats_slug": "kobalt-labs"
+  },
+  {
+    "name": "Bolto",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.bolto.com",
+    "description": "AI Powered All-In-One Payroll, HR + Recruiting ",
+    "funding_stage": "series_a",
+    "ats_slug": "bolto"
+  },
+  {
+    "name": "Flint",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "http://flintk12.com/",
+    "description": "Personalized learning built for schools",
+    "funding_stage": "late",
+    "ats_slug": "flint-2"
+  },
+  {
+    "name": "VectorShift",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.vectorshift.ai",
+    "description": "AI Operating System for Private Market Investors",
+    "funding_stage": "series_a",
+    "ats_slug": "vectorshift"
+  },
+  {
+    "name": "Sendblue",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.sendblue.com",
+    "description": "iMessage for Sales",
+    "funding_stage": "series_a",
+    "ats_slug": "sendblue"
+  },
+  {
+    "name": "HappyRobot",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://happyrobot.ai",
+    "description": "Intelligence that runs your operations. ",
+    "funding_stage": "late",
+    "ats_slug": "happyrobot"
+  },
+  {
+    "name": "Strada",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.getstrada.com/",
+    "description": "AI agents that run insurance operations",
+    "funding_stage": "series_a",
+    "ats_slug": "strada"
+  },
+  {
+    "name": "dili",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.dili.com",
+    "description": "Automating Compliance for Construction",
+    "funding_stage": "late",
+    "ats_slug": "dili"
+  },
+  {
+    "name": "Shadeform",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.shadeform.ai/",
+    "description": "The GPU Cloud Marketplace",
+    "funding_stage": "series_a",
+    "ats_slug": "shadeform"
+  },
+  {
+    "name": "Giga",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://giga.ai/",
+    "description": "AI Support Agent for Enterprises.",
+    "funding_stage": "late",
+    "ats_slug": "giga"
+  },
+  {
+    "name": "Healthtech 1",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.healthtech1.uk/",
+    "description": "Navigating patients to the right place, first time.",
+    "funding_stage": "series_a",
+    "ats_slug": "healthtech-1"
+  },
+  {
+    "name": "Legora",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.legora.com/",
+    "description": "The agentic operating system for legal work",
+    "funding_stage": "late",
+    "ats_slug": "legora"
+  },
+  {
+    "name": "Greptile",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.greptile.com",
+    "description": "AI code review agent with complete context of your codebase",
+    "funding_stage": "late",
+    "ats_slug": "greptile"
+  },
+  {
+    "name": "Ubicloud",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.ubicloud.com",
+    "description": "Open source alternative to AWS",
+    "funding_stage": "late",
+    "ats_slug": "ubicloud"
+  },
+  {
+    "name": "Reducto",
+    "sources": [
+      "yc",
+      "hn"
+    ],
+    "tiers": [
+      "vc_portfolio",
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://reducto.ai",
+    "description": "The complete agentic document platform",
+    "funding_stage": "late",
+    "ats_slug": "reducto"
+  },
+  {
+    "name": "Momentic",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://momentic.ai",
+    "description": "Mo, the AI QA engineer that bug-bashes your app before every release",
+    "funding_stage": "series_a",
+    "ats_slug": "momentic"
+  },
+  {
+    "name": "Alex",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://alex.com",
+    "description": "Alex is the AI recruiter for hiring great people.",
+    "funding_stage": "series_a",
+    "ats_slug": "alex-com"
+  },
+  {
+    "name": "Garage",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.shopgarage.com/",
+    "description": "America's marketplace for mission-critical assets.",
+    "funding_stage": "late",
+    "ats_slug": "garage-2"
+  },
+  {
+    "name": "PointOne",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://pointone.com/",
+    "description": "AI Time Platform for Law Firms",
+    "funding_stage": "series_a",
+    "ats_slug": "pointone"
+  },
+  {
+    "name": "Arini",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.arini.ai",
+    "description": "The single platform to run all healthcare operations",
+    "funding_stage": "series_a",
+    "ats_slug": "arini"
+  },
+  {
+    "name": "FurtherAI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.furtherai.com/",
+    "description": "AI Workforce for the Insurance Industry",
+    "funding_stage": "late",
+    "ats_slug": "furtherai"
+  },
+  {
+    "name": "Artisan",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://artisan.co/?utm_source=ycombinator",
+    "description": "AI employees that take on real work, starting with sales",
+    "funding_stage": "late",
+    "ats_slug": "artisan"
+  },
+  {
+    "name": "Greenboard",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.greenboard.com",
+    "description": "Modern OS for the financial back office. ",
+    "funding_stage": "late",
+    "ats_slug": "greenboard"
+  },
+  {
+    "name": "Trellis AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://runtrellis.com/",
+    "description": "Accelerate Medication Access with AI",
+    "funding_stage": "series_a",
+    "ats_slug": "trellis-ai"
+  },
+  {
+    "name": "Zaymo",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://zaymo.com",
+    "description": "Tools for AI agents to run marketing for the world's biggest…",
+    "funding_stage": "series_a",
+    "ats_slug": "zaymo"
+  },
+  {
+    "name": "Respan",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://respan.ai",
+    "description": "Open-source, extensible AI gateway with observability and evals",
+    "funding_stage": "series_a",
+    "ats_slug": "respan"
+  },
+  {
+    "name": "Clarion",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://clarionhealth.com",
+    "description": "The AI communication layer for healthcare",
+    "funding_stage": "series_a",
+    "ats_slug": "clarion"
+  },
+  {
+    "name": "Tamarind Bio",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.tamarind.bio",
+    "description": "AI Inference Platform for Drug Discovery",
+    "funding_stage": "late",
+    "ats_slug": "tamarind-bio"
+  },
+  {
+    "name": "Open",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://open.cx",
+    "description": "Enterprise AI customer support",
+    "funding_stage": "series_a",
+    "ats_slug": "open"
+  },
+  {
+    "name": "CodeAnt AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://codeant.ai/",
+    "description": "Autonomous offensive and defensive cybersecurity platform",
+    "funding_stage": "series_a",
+    "ats_slug": "codeant-ai"
+  },
+  {
+    "name": "OffDeal",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://offdeal.io",
+    "description": "AI-native investment bank for small businesses",
+    "funding_stage": "late",
+    "ats_slug": "offdeal"
+  },
+  {
+    "name": "JustAI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://getjust.ai",
+    "description": "Agentic Marketing Platform",
+    "funding_stage": "series_a",
+    "ats_slug": "justai"
+  },
+  {
+    "name": "Model ML",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.modelml.com/",
+    "description": "The AI for Financial Services.",
+    "funding_stage": "late",
+    "ats_slug": "model-ml"
+  },
+  {
+    "name": "Rove",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://rove.com",
+    "description": "Earn airline miles on hotels and everyday spend.",
+    "funding_stage": "series_a",
+    "ats_slug": "rove"
+  },
+  {
+    "name": "Retell AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://retellai.com",
+    "description": "Supercharge Your Contact Center Operations with AI Phone Agents",
+    "funding_stage": "series_a",
+    "ats_slug": "retell-ai"
+  },
+  {
+    "name": "Deepnight",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.deepnight.com",
+    "description": "Building The Next Generation of Night Vision Devices",
+    "funding_stage": "late",
+    "ats_slug": "deepnight"
+  },
+  {
+    "name": "Spur",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.spurtest.com/",
+    "description": "Spur is the validation infrastructure enterprises use to ship at the…",
+    "funding_stage": "series_a",
+    "ats_slug": "spur"
+  },
+  {
+    "name": "RetailReady",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.843Z",
+    "website": "https://www.retailreadyai.com/",
+    "description": "An AI-powered supply chain compliance engine",
+    "funding_stage": "series_a",
+    "ats_slug": "retailready"
+  },
+  {
+    "name": "Coval",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://coval.dev",
+    "description": "Simulation & Evaluation that scales voice and chat AI agents",
+    "funding_stage": "series_a",
+    "ats_slug": "coval"
+  },
+  {
+    "name": "Domu Technology Inc.",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.domu.ai/",
+    "description": "AI Agents for collections",
+    "funding_stage": "late",
+    "ats_slug": "domu-technology-inc"
+  },
+  {
+    "name": "mdhub",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.mdhub.ai/",
+    "description": "AI-native operating system for behavioral health clinics.",
+    "funding_stage": "series_a",
+    "ats_slug": "mdhub"
+  },
+  {
+    "name": "ClaimSorted",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://claimsorted.com",
+    "description": "Making it easy for insurance companies to process claims",
+    "funding_stage": "series_a",
+    "ats_slug": "claimsorted"
+  },
+  {
+    "name": "Entangl",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.entangl.com/",
+    "description": "Find & resolve issues in data center engineering & operations using AI",
+    "funding_stage": "late",
+    "ats_slug": "entangl"
+  },
+  {
+    "name": "Codes Health",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.codeshealth.com/",
+    "description": "AI-native medical record retrieval",
+    "funding_stage": "series_a",
+    "ats_slug": "codes-health"
+  },
+  {
+    "name": "Corgi",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://corgi.com",
+    "description": "Corgi is building an AI financial infrastructure company",
+    "funding_stage": "late",
+    "ats_slug": "corgi"
+  },
+  {
+    "name": "Wordware",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://wordware.ai/",
+    "description": "AI agents you can rely on",
+    "funding_stage": "late",
+    "ats_slug": "wordware"
+  },
+  {
+    "name": "Tandem",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://tandemspace.com/",
+    "description": "AI-native office leasing broker",
+    "funding_stage": "series_a",
+    "ats_slug": "tandem-2"
+  },
+  {
+    "name": "Pulse",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.runpulse.com/",
+    "description": "Production-grade unstructured document extraction",
+    "funding_stage": "series_a",
+    "ats_slug": "pulse-3"
+  },
+  {
+    "name": "TaxGPT",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.taxgpt.com",
+    "description": "AI tax assistant for professionals and businesses",
+    "funding_stage": "series_a",
+    "ats_slug": "taxgpt"
+  },
+  {
+    "name": "Anthrogen",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://anthrogen.com",
+    "description": "We work on generalizable tools for the next era of biotech. ",
+    "funding_stage": "series_a",
+    "ats_slug": "anthrogen"
+  },
+  {
+    "name": "Kastle",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://kastle.ai/",
+    "description": "AI FTE for regulated finance",
+    "funding_stage": "late",
+    "ats_slug": "kastle"
+  },
+  {
+    "name": "Conveo",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://conveo.ai/",
+    "description": "Growth through always‑on consumer understanding",
+    "funding_stage": "late",
+    "ats_slug": "conveo"
+  },
+  {
+    "name": "Saturn",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.SaturnOS.com",
+    "description": "Compliance and back office workflows for Wealth Managers.",
+    "funding_stage": "late",
+    "ats_slug": "saturn"
+  },
+  {
+    "name": "FINNY AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.finny.com/",
+    "description": "The organic growth engine for financial advisors ",
+    "funding_stage": "late",
+    "ats_slug": "finny-ai"
+  },
+  {
+    "name": "Zeit AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://zeit-ai.com/",
+    "description": "The autonomous data engineer for the mid-market",
+    "funding_stage": "series_a",
+    "ats_slug": "zeit-ai"
+  },
+  {
+    "name": "Guardian RF",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://guardianrf.com/",
+    "description": "Drone detection for US defense and national security  ",
+    "funding_stage": "series_a",
+    "ats_slug": "guardian-rf"
+  },
+  {
+    "name": "Oway",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.oway.io",
+    "description": "Building the open operating system for the automated physical economy.",
+    "funding_stage": "series_a",
+    "ats_slug": "oway"
+  },
+  {
+    "name": "Usul",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.usul.com",
+    "description": "AI Platform for Winning Defense & Government Contracts",
+    "funding_stage": "series_a",
+    "ats_slug": "usul"
+  },
+  {
+    "name": "SureBright",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://surebright.com/",
+    "description": "Apple Care-like warranty program for every retailer ",
+    "funding_stage": "series_a",
+    "ats_slug": "surebright"
+  },
+  {
+    "name": "Arva AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.arva.ai",
+    "description": "AI for critical banking operations",
+    "funding_stage": "late",
+    "ats_slug": "arva-ai"
+  },
+  {
+    "name": "Merlin AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.merlinai.co",
+    "description": "AI powered ERP for Construction",
+    "funding_stage": "series_a",
+    "ats_slug": "merlin-ai"
+  },
+  {
+    "name": "telli",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://telli.com",
+    "description": "intelligent interactions",
+    "funding_stage": "series_a",
+    "ats_slug": "telli"
+  },
+  {
+    "name": "Revyl",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.revyl.com",
+    "description": "Verification infrastructure for cloud agents",
+    "funding_stage": "series_a",
+    "ats_slug": "revyl"
+  },
+  {
+    "name": "Cekura",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.cekura.ai/",
+    "description": "Voice AI and Chat AI agents: Testing and Observability",
+    "funding_stage": "series_a",
+    "ats_slug": "cekura-ai"
+  },
+  {
+    "name": "Beglaubigt.de",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://beglaubigt.de/en-us",
+    "description": "The legal backoffice for every company. For founders and AI agents.",
+    "funding_stage": "series_a",
+    "ats_slug": "beglaubigtde"
+  },
+  {
+    "name": "Crustdata",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://crustdata.com",
+    "description": "Real-time B2B data via simple APIs",
+    "funding_stage": "series_a",
+    "ats_slug": "crustdata"
+  },
+  {
+    "name": "CollectWise",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://collectwise.com/",
+    "description": "Automating consumer debt collection with AI",
+    "funding_stage": "series_a",
+    "ats_slug": "collectwise"
+  },
+  {
+    "name": "Laminar",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://laminar.com",
+    "description": "Enterprise systems delivery without the turbulence.",
+    "funding_stage": "series_a",
+    "ats_slug": "laminar-com"
+  },
+  {
+    "name": "Ember",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.embercopilot.ai",
+    "description": "AI RCM. Increase net revenue by 16%. ",
+    "funding_stage": "series_a",
+    "ats_slug": "ember"
+  },
+  {
+    "name": "Contrario",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://contrario.ai",
+    "description": "AI hiring platform powered by expert recruiters",
+    "funding_stage": "series_a",
+    "ats_slug": "contrario"
+  },
+  {
+    "name": "Toothy AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.toothy.ai/",
+    "description": "AI for insurance verification & billing at dental clinics",
+    "funding_stage": "series_a",
+    "ats_slug": "toothy-ai"
+  },
+  {
+    "name": "Weave",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://weaveos.com",
+    "description": "AI to understand and then route engineering work",
+    "funding_stage": "series_a",
+    "ats_slug": "weave-3"
+  },
+  {
+    "name": "SalesPatriot",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.salespatriot.com/",
+    "description": "Supply chain superintelligence for distribution and procurement",
+    "funding_stage": "late",
+    "ats_slug": "salespatriot"
+  },
+  {
+    "name": "HUD",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.hud.ai",
+    "description": "Platform and marketplace for RL environments and AI data",
+    "funding_stage": "series_a",
+    "ats_slug": "hud"
+  },
+  {
+    "name": "Harper",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.harperinsure.com/",
+    "description": "AI-native commercial insurance brokerage",
+    "funding_stage": "late",
+    "ats_slug": "harper"
+  },
+  {
+    "name": "AfterQuery",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://afterquery.com",
+    "description": "Applied research lab curating data solutions for foundation model…",
+    "funding_stage": "late",
+    "ats_slug": "afterquery"
+  },
+  {
+    "name": "Forge Automation",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.forgeautomation.ca",
+    "description": "Software Enabled CNC Parts Supplier",
+    "funding_stage": "series_a",
+    "ats_slug": "forge-automation"
+  },
+  {
+    "name": "Spott",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://spott.io",
+    "description": "AI-native ATS/CRM for recruiting firms",
+    "funding_stage": "late",
+    "ats_slug": "spott"
+  },
+  {
+    "name": "Mercura",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.mercura.ai",
+    "description": "AI quote & order processing for technical distributors & manufacturers",
+    "funding_stage": "series_a",
+    "ats_slug": "mercura"
+  },
+  {
+    "name": "Synthio Labs",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://synthiolabs.com/",
+    "description": "Agentic AI platform for Pharma GTM teams",
+    "funding_stage": "series_a",
+    "ats_slug": "synthio-labs"
+  },
+  {
+    "name": "Auctor",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://getauctor.com",
+    "description": "The agentic operating system for modern system integrators.",
+    "funding_stage": "series_a",
+    "ats_slug": "auctor"
+  },
+  {
+    "name": "Lucis",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.lucis.life",
+    "description": "Function Health for Europe ",
+    "funding_stage": "late",
+    "ats_slug": "lucis"
+  },
+  {
+    "name": "Third Chair",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://usethirdchair.com",
+    "description": "AI-Native IP Enforcement",
+    "funding_stage": "series_a",
+    "ats_slug": "third-chair"
+  },
+  {
+    "name": "GETASAP",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.getasap.us",
+    "description": "AI-Native Fresh Produce Logistics",
+    "funding_stage": "series_a",
+    "ats_slug": "getasap"
+  },
+  {
+    "name": "Vulcan Technologies",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://vulcan.ai/",
+    "description": "Secure frontier AI for government & adjacent knowledge work",
+    "funding_stage": "late",
+    "ats_slug": "vulcan-technologies"
+  },
+  {
+    "name": "Nox Metals",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://noxmetals.com",
+    "description": "Supplying America's Industrial Base",
+    "funding_stage": "late",
+    "ats_slug": "nox-metals"
+  },
+  {
+    "name": "F2",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "http://f2.ai",
+    "description": "The AI platform for private markets investors",
+    "funding_stage": "series_a",
+    "ats_slug": "f2"
+  },
+  {
+    "name": "Brickanta",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.brickanta.com",
+    "description": "Agentic AI for Society Builders",
+    "funding_stage": "series_a",
+    "ats_slug": "brickanta"
+  },
+  {
+    "name": "Uplane",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://uplane.com",
+    "description": "Replace marketing agencies with AI",
+    "funding_stage": "series_a",
+    "ats_slug": "uplane"
+  },
+  {
+    "name": "Bolna AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://bolna.ai",
+    "description": "Voice AI to enable India's next billion",
+    "funding_stage": "series_a",
+    "ats_slug": "bolna-ai"
+  },
+  {
+    "name": "Sunflower",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://sunflowerclinic.com/",
+    "description": "We are building an AI-native telemedicine clinic for addiction. 🌻",
+    "funding_stage": "series_a",
+    "ats_slug": "sunflower"
+  },
+  {
+    "name": "ComplyDo",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.complydo.io/",
+    "description": "Global Compliance for Enterprises",
+    "funding_stage": "series_a",
+    "ats_slug": "complydo"
+  },
+  {
+    "name": "Karumi",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.karumi.ai/",
+    "description": "The Waymo of Personalized demos",
+    "funding_stage": "series_a",
+    "ats_slug": "karumi"
+  },
+  {
+    "name": "9 Mothers",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://9mothers.com",
+    "description": "Counter Drone Systems. $1.6m sales. We delivered for the DoW.",
+    "funding_stage": "series_a",
+    "ats_slug": "9-mothers-corporation"
+  },
+  {
+    "name": "Human Archive",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://www.humanarchive.ai/",
+    "description": "Infrastructure for Training, Evaluating, and Deploying Physical AI",
+    "funding_stage": "series_a",
+    "ats_slug": "human-archive"
+  },
+  {
+    "name": "Pocket",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://heypocket.com/now",
+    "description": "Take Notes in the Real World",
+    "funding_stage": "series_a",
+    "ats_slug": "pocket"
+  },
+  {
+    "name": "Balance",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://getbalance.ai",
+    "description": "Full-Stack AI Accounting",
+    "funding_stage": "series_a",
+    "ats_slug": "getbalance"
+  },
+  {
+    "name": "Vela",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://tryvela.ai",
+    "description": "AI Recruiting Coordinator for Executive Search",
+    "funding_stage": "series_a",
+    "ats_slug": "vela"
+  },
+  {
+    "name": "Hub Labs",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://hub.xyz",
+    "description": "Deployment and data infrastructure for Embodied AI.",
+    "funding_stage": "series_a",
+    "ats_slug": "hub-labs"
+  },
+  {
+    "name": "Ooak Data",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://ooakdata.com/",
+    "description": "We turn company data into training data",
+    "funding_stage": "series_a",
+    "ats_slug": "ooak-data"
+  },
+  {
+    "name": "Adalat AI",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "website": "https://adalat.ai/",
+    "description": "AI OS transforming courts, accelerating justice",
+    "funding_stage": "series_a",
+    "ats_slug": "adalat-ai"
+  },
+  {
+    "name": "Get in Touch",
+    "sources": [
+      "accel"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z"
+  },
+  {
+    "name": "Founder spotlight",
+    "sources": [
+      "lightspeed"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z"
+  },
+  {
+    "name": "Dario Amodei",
+    "sources": [
+      "lightspeed"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z"
+  },
+  {
+    "name": "Sign up for our email list",
+    "sources": [
+      "lightspeed"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z"
+  },
+  {
+    "name": "Claude Ship",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Ship code as fast as you can write it\n Discussion \n |\n Link"
+  },
+  {
+    "name": "tday.com",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "AI-recorded Screen Studio style editable demos\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Astor",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "AI Thesis Investing\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Granular.Build",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Put your AI agents to work in a visual workspace\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Finseo",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Company brain + outreach to get your brand mentioned by AI\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Viktor Code",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Coding agents know your repo. Viktor knows your company.\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Tendor",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Write it or ask it, from anywhere on Windows\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Cullman",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Faster voice agent evals, from simulation to production\n Discussion \n |\n Link"
+  },
+  {
+    "name": "K-Stra",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Geomarketing for Australia, with an AI that does the maths\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Prates",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Learns how you write, then writes exactly as you would\n Discussion \n |\n Link"
+  },
+  {
+    "name": "frwrd.to",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Your link in bio, sorted by your AI in one message\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Ohhai",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Type messy, send clean: an AI keyboard for iPhone\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Adanotch",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "A live Dynamic Island for your MacBook notch\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Astrolabio",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Your AIs pick up right where you left off, on your Mac\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Clam AI",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Your inbox, safely shared with AI agents\n Discussion \n |\n Link"
+  },
+  {
+    "name": "HeroUI Pro 1.0",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Premium UI components, templates, and AI tooling for React\n Discussion \n |\n Link"
+  },
+  {
+    "name": "doola MCP",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Start and run your US company from your AI assistant\n Discussion \n |\n Link"
+  },
+  {
+    "name": "mindyOne",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Your Instagram DMs. Now with an AI receptionist.\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Fleetify",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Open-source command center for your AI coding agents\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Valley",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Outbound system to find people most likely to buy from you\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Pinned",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Ask the city where to go tonight with your friends\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Scribase MCP Server",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "A Postgres backend your coding agent sets up by MCP\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Almma's PII Guard",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Catch personal data before it reaches your AI chat\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Agenda Hero Magic Labs",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Any schedule. Any layout. Any style.\n Discussion \n |\n Link"
+  },
+  {
+    "name": "DeskMagic",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Shake your cursor, ask AI about anything on screen\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Gauth Personal Study Agent",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "An AI study agent that remembers where you struggle\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Omi Work",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Omi can build anything. Now it finds your next 100 customers\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Ashwa",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Your AI companion that never forgets what you say\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Tesla Self-Driving V15",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Upgrading every part of the end-to-end driving network\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Chat with Work",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "AI bots in Europe. They work. You decide.\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Modem",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Find, fix, and follow up on every customer concern\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Dog Translator SuperTranslator",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Dogs talking in English (real)\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Motionflare",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Turn your website into a stunning launch video in minutes\n Discussion \n |\n Link"
+  },
+  {
+    "name": "MAI Image 2.7",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Microsoft's image model with precise edits and Canvas\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Inkling 2 Mini",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "26B looped model for coding on your laptop\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Orpheus",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Run all your Claude subscriptions from one place\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Hydrilla",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Generate production-ready 3D assets with AI\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Replit Missions",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Set a budget, coordinate teams of AI agents,\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Mobile Agent Testers",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Free open-source AI agents that beta-test your app on phones\n Discussion \n |\n Link"
+  },
+  {
+    "name": "freddy",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Private health data server: talk to your health with any AI\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Polylane Swarms",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "A team of AI agents on your roughest production incidents\n Discussion \n |\n Link"
+  },
+  {
+    "name": "TeaserKit",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "your coding agent directs your launch video\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Ulika",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Visual editor for sites built with Claude, Cursor, or Codex\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Webless Agents",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Agents you want to put in front of customers\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Squint",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Explains whatever you're looking at, now on Mac\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Yoroll",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Build playable stories without a game engine\n Discussion \n |\n Link"
+  },
+  {
+    "name": "oovi",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Your own team of AI on your desktop\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Omi CLI",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "AI coding agents that work while you're away.\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Resurf",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Personal Knowledge Base & Bookmark Manager for Mac\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Zapyso",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Free meeting notes and dictation that stay on your Mac\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Zed Industries",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Zed Industries | North America, South America, Europe REMOTE | https:&#x2F;&#x2F;zed.dev&#x2F; Zed is a company for developers, by developers. All 3 of our founders have spent years in the trenches wr"
+  },
+  {
+    "name": "TheraPlug",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "TheraPlug | Founding CTO &#x2F; Technical Lead | Detroit preferred; remote considered | Equity-first, pre-funding I’m Marcelus Brice, founder of TheraPlug ( https:&#x2F;&#x2F;theraplug.health ). We’re"
+  },
+  {
+    "name": "3ive",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "3ive | Senior&#x2F;Staff Software Engineer | REMOTE (Europe) | Full-time | Python, TypeScript, React, AI Agents We’re building Cursor for mechanical engineering. Imagine an AI that doesn’t just answer"
+  },
+  {
+    "name": "Zefr",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Zefr | Los Angeles, CA (Marina del Rey) | Site Reliability Engineer | Full-time | On-site 2-3x per week | $100,000 - $130,000 | https:&#x2F;&#x2F;zefr.com Company Zefr is the leading global technology"
+  },
+  {
+    "name": "Sumble",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Sumble | Multiple Roles | Remote (US)| Full-time "
+  },
+  {
+    "name": "Mastra",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.844Z",
+    "description": "Mastra | Founding Sales (Founding AE) | US Remote | Full-time Mastra is the open-source TypeScript framework for building AI agents (agents, workflows, memory, evals, tracing). From the team behind Ga"
+  },
+  {
+    "name": "*Confidential Healthcare AI Startup",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "*Confidential Healthcare AI Startup | Senior Full Stack Engineer (Frontend-Leaning) | NYC | Hybrid (3 days onsite) | Full-Time | $160K–$200K + Equity* I'm an independent recruiter sourcing for a ventu"
+  },
+  {
+    "name": "Uncountable",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Uncountable | NY, SF, London (UK) & Toronto (CA) (In-Person) | Full-Stack Engineering https:&#x2F;&#x2F;www.uncountable.com&#x2F;hiring&#x2F;hn Uncountable accelerates R&D for industrial scientists ac"
+  },
+  {
+    "name": "Oscilar.com",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Oscilar.com | Sr&#x2F;Staff Software Engineers, Data Scientist, FDE, PM| REMOTE (US&#x2F;Canada&#x2F;Brazil&#x2F;Poland&#x2F;UK&#x2F;India) Full-time AI Risk Decisioning™ platform that helps organizat"
+  },
+  {
+    "name": "FutureSearch",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "FutureSearch | Multiple senior roles | REMOTE (London, SF) | Full-time | $130k–$250k + equity | https:&#x2F;&#x2F;futuresearch.ai FutureSearch builds AI that predicts the future. You can see our publi"
+  },
+  {
+    "name": "Search Atlas",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Search Atlas | Product Engineer (PM) | REMOTE (anywhere, EST hours) | Full-time | $23-34&#x2F;hr We're ~160 people building an AI marketing platform. Our main product, OTTO, runs a site's SEO on its o"
+  },
+  {
+    "name": "Mesmer",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Mesmer (YC P25) | Founding Engineer | Berlin | ONSITE | VISA + relocation | €100–140k + 0.5–1% equity Mesmer builds software factories for engineering teams. Keeping a team at the state of the art wit"
+  },
+  {
+    "name": "Scento",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Scento | Paris, Berlin | REMOTE (EU) or ONSITE | Full-time | https:&#x2F;&#x2F;www.scento.com&#x2F;careers Scento is Europe's largest perfume decant website: more than 1,000 original designer and nich"
+  },
+  {
+    "name": "Alternative Payments",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Alternative Payments | Senior Software Engineer, Alti (AI agents) | REMOTE (Brazil) | Full-time | $90k–105k + equity We’re building the financial operating system for service-based SMBs (accounts rece"
+  },
+  {
+    "name": "Polymath",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Polymath | Founding MTS, Full-Stack | San Francisco | ONSITE (5 days) | $160K–$220K + 0.75%–1.5% equity | https:&#x2F;&#x2F;polymathmade.com Polymath builds AI agents that read engineering drawings, g"
+  },
+  {
+    "name": "Baserow",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Baserow ( https:&#x2F;&#x2F;baserow.io ) | Product Specialist | REMOTE (Europe) | Full-time | German-speaking We're building an open-source no-code platform for agents, databases, applications, and au"
+  },
+  {
+    "name": "Clad",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Clad (YC W23) | Software Engineer | NYC | withclad.com"
+  },
+  {
+    "name": "AetherGrid",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "AetherGrid | Founding GTM Lead | REMOTE (Worldwide) | Paid, Fractional &#x2F; Contract AetherGrid ( https:&#x2F;&#x2F;www.aethergrid.co.ke ) is an open-source control plane for distributed AI workload"
+  },
+  {
+    "name": "Prior Labs",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Prior Labs | Berlin, Freiburg, NYC | ONSITE | Full-time | https:&#x2F;&#x2F;priorlabs.ai We build foundation models for tables. TabPFN takes your whole dataset as context and predicts in one forward p"
+  },
+  {
+    "name": "Genentech",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Genentech | 2027 Interns | PD Data Sciences & Analytics | ONSITE (South San Francisco, CA USA) Want to find out how data shapes medicines for patients?"
+  },
+  {
+    "name": "LiveKit",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "LiveKit| http:&#x2F;&#x2F;livekit.io&#x2F; | VoiceAI | webRTC | Remote | Full Time LiveKit is building the infrastructure layer for the voice-driven era of computing. Our platform gives developers eve"
+  },
+  {
+    "name": "Juro",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Juro | AI Engineer (Agentic team) | London, UK | REMOTE (UK) | Full-time | £115k + equity Juro is an AI contract automation platform used by in-house legal and business teams. Our Agentic team builds "
+  },
+  {
+    "name": "eventfirst",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "eventfirst | Senior Full-Stack Engineer | Berlin, Germany | REMOTE (CET) | Full-time | eventfirst.com We are applying AI to organize corporate events. We are looking for a senior engineer with at leas"
+  },
+  {
+    "name": "Taxnova",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Taxnova | London | Hybrid"
+  },
+  {
+    "name": "Justworks",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Justworks | NYC + Toronto (most roles require 2+ days in office) | Full-time | Salary + equity in every offer | https:&#x2F;&#x2F;www.justworks.com&#x2F;careers Justworks is a PEO and HR platform for "
+  },
+  {
+    "name": "SwingVision",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "SwingVision | Berkeley, CA | Full time + Internships SwingVision uses computer vision to turn a single phone camera into an automated stats, highlights, and line-calling system for tennis, pickleball,"
+  },
+  {
+    "name": "Sunsave",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Sunsave | Product Engineer (Mid-Level &#x2F; Senior) | London, United Kingdom (Holborn) | ONSITE (hybrid, 3 days&#x2F;week in office) | Full-time Sunsave is building what replaces your energy supplier"
+  },
+  {
+    "name": "NetBird",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "NetBird | Berlin, Germany (or remote, CET overlap) | Full-time https:&#x2F;&#x2F;netbird.io&#x2F;careers NetBird is open source networking and access control WireGuard-based overlay networks with zero"
+  },
+  {
+    "name": "ThreatMark",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "ThreatMark | Security, Machine Learning | REMOTE(World) &#x2F; Brno, Czech Republic | Equity ThreatMark protects >60M end users from finacial fraud and saves > $1.2M every day in losses. We are workin"
+  },
+  {
+    "name": "Odette Technologies",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Odette Technologies | Senior Integration Engineer, Data&#x2F;ML Engineer, Product Lead | HYBRID (NC) &#x2F; REMOTE | Full-time | US citizens, clearable, East Coast-based | https:&#x2F;&#x2F;odettetech"
+  },
+  {
+    "name": "Shepherd",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Shepherd (Series B) | ONSITE | San Francisco, CA At Shepherd, we're pursuing the most ambitious technical vision in commercial insurance: fully autonomous underwriting. Shepherd is an AI-native commer"
+  },
+  {
+    "name": "Silkline",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Silkline | Software Engineer, Deployment Strategist | Chicago, Seattle | ONSITE | $150k-$225k + equity | https:&#x2F;&#x2F;silkline.ai PO #HN-2611"
+  },
+  {
+    "name": "Seal",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Seal (YC S20) | Forward Deployed Engineer, Founding Product Engineer | London | ONSITE | Full-time | £50k–£120k + equity We build AI software that biotech and pharma manufacturers use to run their lab"
+  },
+  {
+    "name": "AI x Healthcare Startup",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "AI x Healthcare Startup | bracehealth.com | Boston, MA Onsite | Full-time | Early Engineer We're looking for a backend-leaning fullstack dev. You will be one of the first engineers outside of the foun"
+  },
+  {
+    "name": "Vohuman - Agentastic",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Vohuman - Agentastic | San Francisco, Onsite | Full time | $200k+ USD + equity Hey folks, i'm the founder. Vohuman is an early stage startup focused on building aligned collective intelligence. I'm lo"
+  },
+  {
+    "name": "Proofline",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Proofline | Founding Staff &#x2F; Principal Engineer | REMOTE (Worldwide, Berlin timezone overlap preferred) | Full-time | €120k-€200k + equity | https:&#x2F;&#x2F;proofline.sh&#x2F;careers&#x2F;found"
+  },
+  {
+    "name": "Sudowrite",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Sudowrite | https:&#x2F;&#x2F;sudowrite.com | √ REMOTE (US) | √ PMF | √ PROFITABLE | Full-Time Kind, smart, low-drama people, seeking the same to help make writing tools authors dream about. Our users"
+  },
+  {
+    "name": "Piramidal",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Piramidal (YC W24) | Senior Backend Engineer | New York, NY | $200K-$300K + equity | www.piramidal.ai We’ve built the first-of-its-kind foundation model for brainwave data. Our goal is Intelligence Am"
+  },
+  {
+    "name": "Antithesis",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Antithesis | Washington, DC, London | Remote or In Office (US, UK) | Design Engineer We create an expert system that verifies software and becomes an essential part of agentic workflows. https:&#x2F;&"
+  },
+  {
+    "name": "Starbridge",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Starbridge | Senior Product Engineer | NYC | Full-time |"
+  },
+  {
+    "name": "Coder",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Coder | https:&#x2F;&#x2F;coder.com&#x2F; | Multiple roles | Multiple locations | Full-time Coder is an AI software development company leading the future of autonomous coding. We empower teams to bui"
+  },
+  {
+    "name": "Elm AI",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Elm AI | Forward-Deployed Product Engineer | New York &#x2F; London (REMOTE US&#x2F;Europe considered) | Full-time We build AI agents that help companies work with their suppliers. Looking for someone"
+  },
+  {
+    "name": "humans&",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "humans& | Product Engineer (Member of Technical Staff) | San Francisco | ONSITE | Full-time humans& is a human-centric frontier AI lab. Our view is that AI should help people work together, so it has "
+  },
+  {
+    "name": "myDataValue",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "myDataValue | Founding Product Engineer | London (Canary Wharf) | HYBRID, 2 days&#x2F;week in office | up to £90k + up to 1% equity | https:&#x2F;&#x2F;www.mydatavalue.com&#x2F;founding-product-engine"
+  },
+  {
+    "name": "Baton",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Baton | San Francisco, CA (Hybrid) | Full-Time Baton (baton.io) is Ryder's in-house product development group focused on harnessing emerging technologies to redefine transportation and logistics. With"
+  },
+  {
+    "name": "update  - this position has been filled. VALIS",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "update (Nov 20, 2026) - this position has been filled. VALIS (Valis Insights) | Software Engineer, new product line | REMOTE (US, East Coast hours) | Full-time | $125k-$155k + equity I'm Caleb, co-fou"
+  },
+  {
+    "name": "Hatch",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Hatch | Staff Backend Engineer | REMOTE (US&#x2F;Canada, Pacific Time hours) | Full-time | https:&#x2F;&#x2F;hatch.co Hatch makes smart sleep devices and science-backed content to help people build he"
+  },
+  {
+    "name": "Sendery",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Sendery ( https:&#x2F;&#x2F;sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, US&#x2F;Canada remote available) | Contract Sendery is a transactional email platform built for global teams. W"
+  },
+  {
+    "name": "We The Flywheel",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "We The Flywheel | Remote | Brand Identity Designer (AI-agent team) | Hourly, flexible hours We build and run our own brands (race finders, training tools, AI guides, sports media) with a small remote "
+  },
+  {
+    "name": "CoreWeave",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "CoreWeave | Senior Specialist Field Engineers (Kubernetes, Security, Storage, Compute Infrastructure) | Full-time | Hybrid, 3 days&#x2F;week in office: San Francisco CA, Sunnyvale CA, or Bellevue WA |"
+  },
+  {
+    "name": "Distru",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Distru ( https:&#x2F;&#x2F;www.distru.com ) | AI Product Engineer | AI Product Manager | VP of Product (AI focus) | REMOTE (Americas & Europe) | Full-Time"
+  },
+  {
+    "name": "Perry",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Perry | Founding Commercial Hire, Founding Account Executive (US), Product Designer, Legal Engineer | London (and New York for US AE) | ONSITE | Full-time Perry is the legal OS for private capital. We"
+  },
+  {
+    "name": "Sidekick Labs",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Sidekick Labs | Senior Technical Product Manager | REMOTE (US Timezones) | Full-time | $170k to $230k Base + Equity + Health Sidekick builds AI security software for enterprises. Our sensors observe A"
+  },
+  {
+    "name": "Memorang",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Memorang | Product Engineers + Design Engineers + Technical Project Manager + Sales Engineer | Full-Time | US Based Candidates Only Memorang is an \"AI stack for education\" that helps organizations bui"
+  },
+  {
+    "name": "Head of Global GTM + Regional Sales Partners",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Head of Global GTM + Regional Sales Partners | REMOTE (worldwide) | Commission based ABOUT US We are an early stage B2B SaaS company in the IT security and resilience space. The openings is first sale"
+  },
+  {
+    "name": "ArtCraft",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "ArtCraft | Senior Engineers | SF (Onsite) &#x2F; Atlanta (Onsite) | $150-$250k + Equity | https:&#x2F;&#x2F;getartcraft.com Those fucking rent-seeking hyperscalers took the internet away from you, and"
+  },
+  {
+    "name": "Meta",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Meta | Security Engineer (Senior &#x2F; Staff) | ONSITE Bellevue, Menlo Park, New York, Washington DC — Staff role also REMOTE (US) | Full-time Meta's Central Security team is hiring Security Engineer"
+  },
+  {
+    "name": "Railway",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "Railway | Senior Growth Marketer, Senior Product Marketer, Account Executive, Scale, Senior Product Eng (full-stack) | REMOTE (Worldwide) | https:&#x2F;&#x2F;railway.com&#x2F;careers Do you feel scare"
+  },
+  {
+    "name": "MixRank",
+    "sources": [
+      "hn"
+    ],
+    "tiers": [
+      "hn_hiring"
+    ],
+    "nominated_at": "2026-11-25T07:23:23.845Z",
+    "description": "MixRank (YC S11) | Software Engineers | 100% Remote (Global) | Full-Time MixRank processes petabytes of data every month through web crawling. Hundreds of customers use our data products, including Go"
+  }
+]

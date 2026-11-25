@@ -1,0 +1,2326 @@
+{
+  "version": 1,
+  "listings": {
+    "figma|director product design ai context": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "figma|director product design systems infrastructure": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "twilio|principal product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "coinbase|group product manager ai foundations": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "coinbase|group product manager compliance automation": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "coinbase|group product manager core infrastructure reliability": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "coinbase|group product manager customer engagement experience": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "coinbase|group product manager money movement": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "coinbase|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "coinbase|senior product manager payments": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "coinbase|senior product manager payments trust network": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "coinbase|senior product manager risk": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "coinbase|senior product manager simple trading": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "coinbase|senior product manager workspace and multi user": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "gitlab|director of product management agentic software delivery": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "gitlab|director of product management platforms": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "gitlab|senior product manager switchboard": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "stripe|head of product sales payouts": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "stripe|product lead payments": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "stripe|product lead support experience": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "datadog|director product design": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "datadog|group product manager code security": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "datadog|senior director product management platforms": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "datadog|senior product manager agent observability": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "datadog|senior product manager application performance monitoring": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "datadog|senior product manager chat video and collaboration integrations": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "datadog|senior product manager feature flagging": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "datadog|senior product manager journey monitoring": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "cloudflare|principal product manager certificate authority": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "cloudflare|senior product manager agentic search": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "cloudflare|senior product manager cloudflare workers": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "cloudflare|senior product manager email security": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "cloudflare|senior product manager new database product": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "cloudflare|senior product manager observability": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "cloudflare|senior product manager signals data products": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "cloudflare|senior product manager threat intel": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "cloudflare|senior product manager zero day protection": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "cloudflare|senior product manager dashboards configuration": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "notion|ai product manager growth marketing": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "elastic|director of product management observability": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "elastic|principal product manager agents and context elasticsearch": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "elastic|principal product manager ii ai vectors elasticsearch": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "elastic|principal product manager security pricing and packaging security solutions": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "elastic|senior director of product management endpoint security xdr": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "elastic|senior director of product marketing observability": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "elastic|senior product manager control plane platform": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "elastic|senior product manager self service cloud": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "elastic|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "databricks|senior product manager compute platform": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "databricks|senior product manager databricks ai": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "databricks|senior product manager databricks free edition": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "databricks|senior product manager databricks repos": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "databricks|senior product manager data engineering": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "databricks|senior product manager data governance": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "databricks|senior product manager employee experience": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "databricks|senior product manager lakebase lakehouse": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "databricks|senior product manager lakeflow": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "databricks|senior technology partner director product partnerships": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "rippling|director product marketing": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "rippling|director of product": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "rippling|product lead ai semantics governance": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "rippling|product lead analytics": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "rippling|product lead benefits marketplace peo": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "rippling|product lead employee data lifecycle": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "rippling|product lead finance accounting": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "rippling|product lead finance experience": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "rippling|product lead payments": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "rippling|product lead reporting and analytics": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "rippling|product lead talent products": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "rippling|product lead ui platform": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "rippling|senior director of product app platform": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "freshworks|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "spotify|principal product manager audio and media playback": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "spotify|principal product manager core experience platform": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "spotify|principal product manager format foundations": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "spotify|principal product manager tv desktop": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "spotify|senior product manager audiobooks format foundations": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "spotify|senior product manager free and premium conversion": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "spotify|senior product manager spotify connect": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "spotify|senior product manager subscriptions": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "spotify|vp head of product advertising": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "mongodb|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "mongodb|senior product manager developer and agentic experience": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "mongodb|senior product manager marketing ai": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "mongodb|senior product manager order to cash": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "mongodb|senior product manager technical services engineering": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "webflow|senior product manager cloud infrastructure": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "asana|lead product manager apis and mcp": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "asana|lead product manager enterprise services management": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "asana|senior product manager ai studio": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "intercom|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "intercom|staff ai product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "okta|director product communications": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "okta|director product manager okta identity threat detection and response products": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "okta|director product security psirt": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "okta|principal product manager enterprise ai": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "okta|senior product manager ai products": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "okta|senior product manager auth0": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "okta|senior product manager auth0 ai and identity products": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "okta|senior product manager cloud infrastructure": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "okta|senior product manager okta customer identity": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "okta|senior product manager okta for ai agents": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "okta|senior product manager okta identity governance": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "okta|senior product manager policies": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager ai agent": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager campaign manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager digital asset management": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager falcon writer": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager lims": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager medical inquiry": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager patient crm": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager platform": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager promomats": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager sap erp integrations": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager vault crm med tech": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager vault crm service center": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager vault crm suite": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager vault platform access control": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager vault qms": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager veeva clinical operations": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "veeva|senior product manager veeva labs": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "harvey|senior product manager embedded experiences": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "harvey|api product lead": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "scale ai|ai product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "scale ai|senior ai product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "servicenow|senior director product autonomous data analytics": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "servicenow|principal product manager network security": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "servicenow|director product management security and risk partnerships": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "servicenow|senior director product analytics": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "servicenow|director product management": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "servicenow|senior director product unified security and exposure management": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "servicenow|director": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "servicenow|director product innovation business workflows": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "pylon|lead product manager customer experience": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "pylon|lead product manager capital markets pricing": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "pylon|lead product manager api platform": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "pylon|lead product manager agent platform": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "reducto|head of product engineering": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "legora|senior product manager enterprise": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "legora|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "probably genetic|product lead": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "luminai|senior product manager platform": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "luminai|senior product manager applied ai": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "taktile|senior product manager platform": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "permitflow|head of product operations": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "thinkific|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "revenuecat|senior product manager user acquisition": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "wrapbook|senior product manager ii vendor spend": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "codepath|senior product manager learner platform experience": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "apaleo|senior product manager ai products agentic hospitality": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "6sense|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "oportun|senior director of product management": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "eliseai|eliseaifounding senior product manager healthcarenew york united statesai nativefull timeadded todayverified": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "vahan (s19)|director of product": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "instrumentl (s16)|head of product": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "saturn (s24)|lead product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "gosats (w22)|senior product manager cards payments": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "solo (w21)|head of product": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "roe (w24)|head of product management": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "gogograndparent (s16)|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "adentris (p25)|director of product rcm services healthcare": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "vouch (s19)|senior product manager ai pod": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "middesk (w19)|group product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "karat financial (w20)|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "asha health (f24)|head of product ai": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "kastle (s24)|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "almedia|director of product design": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "lemon markets|senior product manager investing": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "proton|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "pennylane sas|senior product manager bookkeeping": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "axon|senior product manager ii": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "exotec|senior product manager asrs": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "datasnipper|senior product manager financial statement suite": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "mai labs|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:18:39.814Z"
+    },
+    "testmu ai|ai product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "fixxly|product lead customer experience": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:18:39.814Z"
+    },
+    "rippling|lead product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:18:39.814Z"
+    },
+    "full-time|ai product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "full-time|group product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "full-time|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "full-time|lead product manager card products": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "quality assurance remotegatsby developer remotemanual softwa|director of product design remote": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "quality assurancegatsby developermanual software testingdock|director of product design": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "shree balaji employment services pvt|group product manager senior product executive senior product manager gpm": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "cadila pharmaceuticals|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "aditya birla group|senior product manager lead product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "luxoft|senior product manager product owner": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "pworld jobs & education|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    ".css-8rdtm5{font-size:var(--chakra-fontsizes-md);font-weight|senior product manager": {
+      "first_seen": "2026-11-25T07:18:39.814Z",
+      "last_seen": "2026-11-25T07:18:39.814Z"
+    },
+    "juicebox|growth product lead": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "latent|senior product manager": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "prosper|senior product manager core experience": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "mercury|head of product personal banking": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "mercury|head of product business banking": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "oportun|senior product manager": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "metamask|senior product manager universal kyc": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "wrike|senior product manager ai platform ecosystem": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "upstart|director of product machine learning decisioning platforms": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "lattice|lead product manager engagement": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "clover health|director of product clover r d": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "zoominfo technologies|principal product manager person data": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "smartsheet|senior product manager field systems": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "tebra|senior product manager": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "yubico|senior product manager": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "nacre capital|head of product": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "customer.io|senior product manager workflows": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "firy|head of product beamable": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "patchstack|senior product manager": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    "acura solution|senior product manager credit cards mumbai": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    },
+    ".css-8rdtm5{font-size:var(--chakra-fontsizes-md);font-weight|senior product manager experiences": {
+      "first_seen": "2026-11-25T07:37:25.419Z",
+      "last_seen": "2026-11-25T07:37:25.419Z"
+    }
+  },
+  "pm_counts": {
+    "Dropbox": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Figma": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 4
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 4
+      }
+    ],
+    "Twilio": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 4
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 4
+      }
+    ],
+    "Coinbase": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 20
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 20
+      }
+    ],
+    "GitLab": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 6
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 6
+      }
+    ],
+    "Anthropic": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 10
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 10
+      }
+    ],
+    "Stripe": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 48
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 48
+      }
+    ],
+    "Datadog": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 10
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 10
+      }
+    ],
+    "Ramp": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Cloudflare": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 14
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 14
+      }
+    ],
+    "Linear": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 2
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 2
+      }
+    ],
+    "Notion": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 2
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 2
+      }
+    ],
+    "Vercel": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 6
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 6
+      }
+    ],
+    "OpenAI": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 10
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 10
+      }
+    ],
+    "Cohere": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 2
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 2
+      }
+    ],
+    "Elastic": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 29
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 29
+      }
+    ],
+    "Databricks": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 27
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 27
+      }
+    ],
+    "Palantir": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Rippling": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 13
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 13
+      }
+    ],
+    "Freshworks": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 3
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 3
+      }
+    ],
+    "Zapier": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Airtable": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Spotify": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 10
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 10
+      }
+    ],
+    "Canva": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Remote": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "MongoDB": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 16
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 16
+      }
+    ],
+    "Miro": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Webflow": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 2
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 2
+      }
+    ],
+    "Asana": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 9
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 9
+      }
+    ],
+    "Intercom": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 6
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 6
+      }
+    ],
+    "Perplexity": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 7
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 7
+      }
+    ],
+    "Okta": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 12
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 12
+      }
+    ],
+    "Veeva": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 92
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 92
+      }
+    ],
+    "Harvey": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 10
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 10
+      }
+    ],
+    "Scale AI": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 9
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 9
+      }
+    ],
+    "Writer": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "ServiceNow": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 30
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 30
+      }
+    ],
+    "Rally": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Topline Pro": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Complif": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Pylon": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 5
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 5
+      }
+    ],
+    "LiteLLM": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Reducto": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 1
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 1
+      }
+    ],
+    "Auctor": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 1
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 1
+      }
+    ],
+    "Juro": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Antithesis": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Legora": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 4
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 4
+      }
+    ],
+    "UpCodes": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Verse Medical": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Probably Genetic": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 1
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 1
+      }
+    ],
+    "Luminai": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 2
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 2
+      }
+    ],
+    "Taktile": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 1
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 1
+      }
+    ],
+    "Camber": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Triomics": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "PermitFlow": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 2
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 2
+      }
+    ],
+    "Serif Health": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "PostEra": [
+      {
+        "at": "2026-11-25T07:18:39.814Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Spade": [
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 2
+      }
+    ],
+    "Juicebox": [
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 2
+      }
+    ],
+    "Infisical": [
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 1
+      }
+    ],
+    "Metriport": [
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Latent": [
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 2
+      }
+    ],
+    "GovDash": [
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Tennr": [
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 1
+      }
+    ],
+    "Pirros": [
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Arini": [
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Vector": [
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Tamarind Bio": [
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Clarion": [
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Codes Health": [
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Usul": [
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "AfterQuery": [
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 1
+      }
+    ],
+    "Retell AI": [
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 0
+      }
+    ],
+    "Prosper": [
+      {
+        "at": "2026-11-25T07:37:25.419Z",
+        "count": 1
+      }
+    ]
+  },
+  "ats_cache": {
+    "Stripe": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "stripe"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Figma": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "figma"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Databricks": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "databricks"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Anthropic": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "anthropic"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Coinbase": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "coinbase"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Dropbox": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "dropbox"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "GitLab": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "gitlab"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Twilio": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "twilio"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Cloudflare": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "cloudflare"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Datadog": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "datadog"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Elastic": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "elastic"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "MongoDB": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "mongodb"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Ramp": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "ramp"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Notion": {
+      "platform": "ashby",
+      "config": {
+        "slug": "notion"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "OpenAI": {
+      "platform": "ashby",
+      "config": {
+        "slug": "openai"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Linear": {
+      "platform": "ashby",
+      "config": {
+        "slug": "linear"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Vercel": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "vercel"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Cohere": {
+      "platform": "ashby",
+      "config": {
+        "slug": "cohere"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Palantir": {
+      "platform": "lever",
+      "config": {
+        "slug": "palantir"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Spotify": {
+      "platform": "lever",
+      "config": {
+        "slug": "spotify"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Veeva": {
+      "platform": "lever",
+      "config": {
+        "slug": "veeva"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Hugging Face": {
+      "platform": "workable",
+      "config": {
+        "slug": "huggingface"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Rippling": {
+      "platform": "rippling",
+      "config": {
+        "slug": "rippling"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "ServiceNow": {
+      "platform": "smartrecruiters",
+      "config": {
+        "id": "servicenow"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Freshworks": {
+      "platform": "smartrecruiters",
+      "config": {
+        "id": "freshworks"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Airtable": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "airtable"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Zapier": {
+      "platform": "ashby",
+      "config": {
+        "slug": "zapier"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Okta": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "okta"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Canva": {
+      "platform": "smartrecruiters",
+      "config": {
+        "id": "canva"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Remote": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "remote"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Intercom": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "intercom"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Asana": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "asana"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Miro": {
+      "platform": "ashby",
+      "config": {
+        "slug": "miro"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Webflow": {
+      "platform": "ashby",
+      "config": {
+        "slug": "webflow"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Scale AI": {
+      "platform": "greenhouse",
+      "config": {
+        "slug": "scaleai"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Perplexity": {
+      "platform": "ashby",
+      "config": {
+        "slug": "perplexity"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Writer": {
+      "platform": "ashby",
+      "config": {
+        "slug": "writer"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Harvey": {
+      "platform": "ashby",
+      "config": {
+        "slug": "harvey"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Jasper": {
+      "platform": "workable",
+      "config": {
+        "slug": "jasper"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "NVIDIA": {
+      "platform": "workday",
+      "config": {
+        "host": "nvidia.wd5.myworkdayjobs.com",
+        "tenant": "nvidia",
+        "site": "NVIDIAExternalCareerSite"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Salesforce": {
+      "platform": "workday",
+      "config": {
+        "host": "salesforce.wd12.myworkdayjobs.com",
+        "tenant": "salesforce",
+        "site": "External_Career_Site"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Adobe": {
+      "platform": "workday",
+      "config": {
+        "host": "adobe.wd5.myworkdayjobs.com",
+        "tenant": "adobe",
+        "site": "external_experienced"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "IQVIA": {
+      "platform": "workday",
+      "config": {
+        "host": "iqvia.wd1.myworkdayjobs.com",
+        "tenant": "iqvia",
+        "site": "IQVIA"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Topline Pro": {
+      "platform": "ashby",
+      "config": {
+        "slug": "topline-pro"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Complif": {
+      "platform": "ashby",
+      "config": {
+        "slug": "complif"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Rally": {
+      "platform": "ashby",
+      "config": {
+        "slug": "rallyuxr"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "LiteLLM": {
+      "platform": "ashby",
+      "config": {
+        "slug": "litellm"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Pylon": {
+      "platform": "ashby",
+      "config": {
+        "slug": "pylon"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Reducto": {
+      "platform": "ashby",
+      "config": {
+        "slug": "reducto"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Legora": {
+      "platform": "ashby",
+      "config": {
+        "slug": "legora"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Auctor": {
+      "platform": "ashby",
+      "config": {
+        "slug": "auctor"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Brickanta": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Paces": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Peakflo": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Datrics": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "BIK": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Zaymo": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Juro": {
+      "platform": "ashby",
+      "config": {
+        "slug": "juro"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Antithesis": {
+      "platform": "ashby",
+      "config": {
+        "slug": "antithesis"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Landed": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Synthio Labs": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Verse Medical": {
+      "platform": "ashby",
+      "config": {
+        "slug": "versemedical"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "UpCodes": {
+      "platform": "ashby",
+      "config": {
+        "slug": "upcodes"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Baserow": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Seal": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Elm AI": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Probably Genetic": {
+      "platform": "ashby",
+      "config": {
+        "slug": "probablygenetic"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "PostEra": {
+      "platform": "lever",
+      "config": {
+        "slug": "postera"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "We The Flywheel": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Taktile": {
+      "platform": "ashby",
+      "config": {
+        "slug": "taktile"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Within": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Ankr Health": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Luminai": {
+      "platform": "ashby",
+      "config": {
+        "slug": "luminai"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Camber": {
+      "platform": "ashby",
+      "config": {
+        "slug": "camber"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Triomics": {
+      "platform": "ashby",
+      "config": {
+        "slug": "triomics"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Serif Health": {
+      "platform": "ashby",
+      "config": {
+        "slug": "serifhealth"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "PermitFlow": {
+      "platform": "ashby",
+      "config": {
+        "slug": "permitflow"
+      },
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "GroMo": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Search Atlas": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "JustAI": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Sully": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Bot MD": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "Eden": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:18:39.814Z"
+    },
+    "GovDash": {
+      "platform": "ashby",
+      "config": {
+        "slug": "govdash"
+      },
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Spade": {
+      "platform": "ashby",
+      "config": {
+        "slug": "spade"
+      },
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Juicebox": {
+      "platform": "ashby",
+      "config": {
+        "slug": "juicebox"
+      },
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Vector": {
+      "platform": "ashby",
+      "config": {
+        "slug": "vector"
+      },
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Pirros": {
+      "platform": "ashby",
+      "config": {
+        "slug": "pirros"
+      },
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Metriport": {
+      "platform": "ashby",
+      "config": {
+        "slug": "metriport"
+      },
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Tennr": {
+      "platform": "ashby",
+      "config": {
+        "slug": "tennr"
+      },
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Latent": {
+      "platform": "ashby",
+      "config": {
+        "slug": "latent"
+      },
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Curacel": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Cogram": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Infisical": {
+      "platform": "ashby",
+      "config": {
+        "slug": "infisical"
+      },
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Clarion": {
+      "platform": "ashby",
+      "config": {
+        "slug": "clarion"
+      },
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Tamarind Bio": {
+      "platform": "ashby",
+      "config": {
+        "slug": "tamarindbio"
+      },
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Retell AI": {
+      "platform": "ashby",
+      "config": {
+        "slug": "retell-ai"
+      },
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Pasito": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Codes Health": {
+      "platform": "ashby",
+      "config": {
+        "slug": "codes-health"
+      },
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Accend": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Readily": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Coval": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Domu Technology Inc.": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Prosper": {
+      "platform": "lever",
+      "config": {
+        "slug": "prosper"
+      },
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Strada": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Usul": {
+      "platform": "ashby",
+      "config": {
+        "slug": "usul"
+      },
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Arini": {
+      "platform": "ashby",
+      "config": {
+        "slug": "arini"
+      },
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "AfterQuery": {
+      "platform": "ashby",
+      "config": {
+        "slug": "afterquery"
+      },
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Elyos AI": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Wordware": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Beglaubigt.de": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Revyl": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Cekura": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "F2": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Granular.Build": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Viktor Code": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Clam AI": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Fleetify": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Replit Missions": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Mobile Agent Testers": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Polylane Swarms": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Omi CLI": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    },
+    "Webless Agents": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-25T07:37:25.419Z"
+    }
+  },
+  "company_flags": {},
+  "runs": [
+    {
+      "at": "2026-11-25T07:18:39.814Z",
+      "fetched": 557,
+      "matched": 259,
+      "new": 190,
+      "ms": 355776
+    },
+    {
+      "at": "2026-11-25T07:37:25.419Z",
+      "fetched": 590,
+      "matched": 279,
+      "new": 21,
+      "ms": 130478
+    }
+  ],
+  "last_discovery": "2026-11-25T07:18:39.814Z"
+}

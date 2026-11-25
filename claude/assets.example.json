@@ -1,0 +1,399 @@
+{
+  "listing_id": "example0001",
+  "company": "ExampleCo",
+  "title": "Senior Product Manager, AI Platform",
+  "resume": {
+    "name": "Iman Sadhu",
+    "headline": "Group Product Manager · AI Product Portfolio · Regulated MarTech",
+    "contact": "Bangalore, India · imansadhu2010@gmail.com · +91 9686567059 · linkedin.com/in/imansadhu",
+    "summary": "Senior Product Manager, 12 years across six industries and five global regions. Owns two production **LLM-powered** platforms serving global pharma brands, with a focus on evaluation, deterministic testing and explainability.",
+    "kpis": [
+      {
+        "figure": "USD 4M+",
+        "caption": "SaaS licence revenue\nfrom the product suite"
+      },
+      {
+        "figure": "~USD 0.6M",
+        "caption": "cumulative client cost savings\n2022 to Aug 2026"
+      },
+      {
+        "figure": "28+",
+        "caption": "cross-functional team\nacross four regions"
+      },
+      {
+        "figure": "3 → 26",
+        "caption": "team scaled\nfrom zero-to-one product"
+      }
+    ],
+    "skills": [
+      {
+        "label": "AI / GenAI",
+        "text": "LLM product design · evaluation frameworks · guardrails · RAG · vector databases · multi-agent architecture · explainability"
+      },
+      {
+        "label": "Product",
+        "text": "Product strategy and roadmap · suite strategy · PRDs · release governance · stakeholder management"
+      },
+      {
+        "label": "Tools",
+        "text": "Jira · AHA · Figma · Claude · Microsoft Copilot"
+      }
+    ],
+    "role_line": {
+      "title": "Senior Product Manager",
+      "company": "Indegene",
+      "dates": "Feb 2025 to Present",
+      "context": "Commercial-content suite for a top-10 US biopharmaceutical company"
+    },
+    "story_rows": [
+      {
+        "label": "The value",
+        "bullets": [
+          {
+            "text": "Earned **USD 4M+** in SaaS licence revenue from a three-product suite.",
+            "ach": [
+              "ACH-064"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 1
+          },
+          {
+            "text": "Delivered about **USD 0.6M** in cumulative client cost savings across 20+ countries.",
+            "ach": [
+              "ACH-069"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 2
+          },
+          {
+            "text": "Grew adoption across **ELMAC markets** for a UK biopharmaceutical company.",
+            "ach": [
+              "ACH-070"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 9
+          },
+          {
+            "text": "Reported client value and **satisfaction** metrics to account leadership.",
+            "ach": [
+              "ACH-007"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 14
+          }
+        ]
+      },
+      {
+        "label": "The strategy",
+        "bullets": [
+          {
+            "text": "Won leadership buy-in for the **GenAI email** and banner roadmaps.",
+            "ach": [
+              "ACH-065"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 5
+          },
+          {
+            "text": "Owned **two production AI products** end-to-end across four client tracks.",
+            "ach": [
+              "ACH-001"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 3
+          },
+          {
+            "text": "Cut engineering effort with **MVP-led validation** before full build.",
+            "ach": [
+              "ACH-067"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 12
+          },
+          {
+            "text": "Froze requirements only after **problem validation** with the business.",
+            "ach": [
+              "ACH-025"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 18
+          }
+        ]
+      },
+      {
+        "label": "What I built",
+        "bullets": [
+          {
+            "text": "Defined the **RAG workflow** for AI email creation with engineering.",
+            "ach": [
+              "ACH-057"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 4
+          },
+          {
+            "text": "Set the **vector database** strategy for the GenAI email platform.",
+            "ach": [
+              "ACH-055"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 6
+          },
+          {
+            "text": "Shaped an end-to-end **agentic** email-authoring architecture.",
+            "ach": [
+              "ACH-071"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 7
+          },
+          {
+            "text": "Specified **cluster selection** and ranking logic for content retrieval.",
+            "ach": [
+              "ACH-058"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 15
+          },
+          {
+            "text": "Framed how this platform thinking maps to **AI platform** buyers.",
+            "ach": [
+              "ACH-077"
+            ],
+            "type": "G1",
+            "flag": "GEN",
+            "requirement": "platform fit",
+            "rank": 20
+          }
+        ]
+      },
+      {
+        "label": "How I made it trustworthy",
+        "bullets": [
+          {
+            "text": "Built a GenAI **evaluation framework** for accuracy, precision and recall.",
+            "ach": [
+              "ACH-002"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 8
+          },
+          {
+            "text": "Scoped **deterministic testing** for a multi-agent GenAI workflow.",
+            "ach": [
+              "ACH-044"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 10
+          },
+          {
+            "text": "Added **explainability** tracing so stakeholders could audit outputs.",
+            "ach": [
+              "ACH-013"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 11
+          },
+          {
+            "text": "Designed layered **per-agent evaluation** plus end-to-end checks.",
+            "ach": [
+              "ACH-074"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 16
+          }
+        ]
+      },
+      {
+        "label": "How I delivered",
+        "bullets": [
+          {
+            "text": "Ran **release gating** across Product, Engineering, QA and Business.",
+            "ach": [
+              "ACH-026"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 13
+          },
+          {
+            "text": "Held scope across **four accounts** through escalation and descoping.",
+            "ach": [
+              "ACH-053"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 19
+          },
+          {
+            "text": "Decomposed epics into **stories at scale** with AI-assisted tooling.",
+            "ach": [
+              "ACH-050"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 21
+          }
+        ]
+      },
+      {
+        "label": "Whom I led",
+        "bullets": [
+          {
+            "text": "Lead a team of **3 (2 PMs, 1 BA)** with structured coaching.",
+            "ach": [
+              "ACH-060"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 17
+          },
+          {
+            "text": "Coached PMs on **requirements** and release scoping.",
+            "ach": [
+              "ACH-061"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "",
+            "rank": 22
+          }
+        ]
+      }
+    ],
+    "prior_role": {
+      "title": "Product Manager",
+      "company": "Indegene",
+      "dates": "Jul 2020 to Jan 2025",
+      "label": "Zero to one",
+      "bullets": [
+        "Built a product from **zero to 30+ users** and scaled the team from 3 to 26."
+      ]
+    },
+    "earlier": [
+      "EY, India | 2019 to 2020:: Manager — AI bot product for tax filing.",
+      "Sprintly Works, Finland | 2019:: Strategy Consulting Manager — demand-optimisation tool.",
+      "EY, India | 2014 to 2018:: Consultant and Software Engineer."
+    ],
+    "education": "General Management, Indian School of Business · B.Tech, VIT University, Vellore"
+  },
+  "cover_letter": {
+    "hook": "ExampleCo's push to make its AI platform dependable for enterprise teams is the problem I have spent the last two years solving in production. I am applying for the Senior Product Manager, AI Platform role because my strongest work sits where LLM capability meets evaluation, guardrails and adoption.",
+    "sections": [
+      {
+        "heading": "The value I have delivered",
+        "bullets": [
+          "My product suite earned **USD 4M+** in SaaS licence revenue from a top-10 US biopharmaceutical company.",
+          "The email platform delivered about **USD 0.6M** in cumulative client cost savings across 20+ countries.",
+          "I own **two production AI products** delivered by a 28+ person team across four regions."
+        ]
+      },
+      {
+        "heading": "How I build AI that holds up",
+        "bullets": [
+          "Defined the **RAG workflow** and vector database strategy with engineering.",
+          "Built an **evaluation framework** covering accuracy, precision and recall.",
+          "Scoped **deterministic testing** and AI-safety checks for a multi-agent workflow.",
+          "Added **explainability** tracing so reviewers could see why content was chosen."
+        ]
+      },
+      {
+        "heading": "How I work",
+        "bullets": [
+          "I validate problems with an **MVP** before committing engineering effort.",
+          "I hold scope with clear **release gating** across product, engineering, QA and business.",
+          "I lead a team of **3 (2 PMs, 1 BA)** and coach on requirements discipline."
+        ]
+      }
+    ],
+    "gap_paragraph": "My domain so far is regulated pharma marketing rather than horizontal developer platforms. What carries over is the practice: evaluation, guardrails and staged rollout for LLM products that must be right every time.",
+    "close": "I would welcome a conversation about where ExampleCo is taking its platform next."
+  },
+  "linkedin_message": "Saw ExampleCo's recent work on evaluation tooling for enterprise AI agents. I run evaluation and deterministic testing for two production LLM products in regulated pharma marketing, so the problem space is close to mine. Would be glad to connect.",
+  "company_info": {
+    "overview": "ExampleCo builds an AI platform for enterprise teams (placeholder example).",
+    "products": [
+      "Agent platform",
+      "Evaluation tooling"
+    ],
+    "market_position": "Mid-market and enterprise AI platform vendor.",
+    "recent_developments": [
+      "2026-10: launched evaluation tooling (source: company blog)"
+    ],
+    "relevance": [
+      "Evaluation frameworks — ACH-002, ACH-074",
+      "Agentic architecture — ACH-071"
+    ],
+    "sources": [
+      "https://example.com/blog"
+    ]
+  },
+  "deck": {
+    "slides": [
+      {
+        "title": "Making enterprise agents dependable",
+        "lines": [
+          "Your agents now run real workflows for enterprise teams.",
+          "Trust is earned per stage, not per demo.",
+          "I have shipped this for two production LLM products.",
+          "Layered evaluation plus deterministic tests caught variance early.",
+          "Here is how that could apply to your platform."
+        ]
+      },
+      {
+        "title": "A plausible problem",
+        "lines": [
+          "Customers need evidence an agent behaves the same way twice.",
+          "Stage-level I/O contracts make each step inspectable."
+        ]
+      },
+      {
+        "title": "What I would bring",
+        "lines": [
+          "Per-agent and end-to-end evaluation design (ACH-074).",
+          "Deterministic-testing scope for multi-agent flows (ACH-044).",
+          "Explainability tracing for stakeholder review (ACH-013)."
+        ]
+      }
+    ]
+  },
+  "open_items": [
+    "G1 line on AI platform buyers — confirm wording (ACH-077)."
+  ]
+}

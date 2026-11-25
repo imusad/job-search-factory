@@ -1,0 +1,15 @@
+{
+  "_comment": "JSF-104 product-domain taxonomy. weight = relevance of the domain to the owner's experience (0–1). Tune freely.",
+  "domains": {
+    "ai_platform": { "weight": 1.0, "keywords": ["llm", "large language models", "generative ai", "genai", "ai platform", "ai agents", "agents", "agentic", "rag", "retrieval", "embeddings", "machine learning", "foundation model", "ai safety", "inference", "vector"] },
+    "life_sciences_tech": { "weight": 1.0, "keywords": ["pharma", "pharmaceutical", "life sciences", "biopharma", "clinical", "healthcare", "medical", "regulatory", "hcp", "patient"] },
+    "martech_content": { "weight": 0.9, "keywords": ["marketing", "content", "email", "campaign", "creative", "personalisation", "personalization", "customer engagement", "advertising", "brand"] },
+    "enterprise_saas": { "weight": 0.7, "keywords": ["enterprise", "workflow", "automation", "crm", "saas", "productivity", "work management", "collaboration", "customer service", "itsm"] },
+    "data_infra": { "weight": 0.6, "keywords": ["data platform", "database", "observability", "analytics", "lakehouse", "search", "data"] },
+    "developer_tools": { "weight": 0.5, "keywords": ["developer", "devops", "api", "apis", "frontend", "issue tracking", "code"] },
+    "fintech": { "weight": 0.4, "keywords": ["payments", "fintech", "finance", "spend management", "cards", "crypto", "cryptocurrency", "banking"] },
+    "hr_tech": { "weight": 0.4, "keywords": ["hr", "payroll", "employer of record", "workforce", "recruiting"] },
+    "security": { "weight": 0.3, "keywords": ["security", "identity", "access management", "zero trust"] },
+    "consumer": { "weight": 0.2, "keywords": ["consumer", "streaming", "music", "social", "gaming", "audio"] }
+  }
+}

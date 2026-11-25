@@ -1,0 +1,655 @@
+[
+  {
+    "name": "Stripe",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "stripe"
+    },
+    "remote_global": true,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": true,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "Payments infrastructure and financial APIs for internet businesses; fintech platform",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Figma",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "figma"
+    },
+    "remote_global": false,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": false,
+    "funding_stage": "public",
+    "ticker": "FIG",
+    "description": "Collaborative design and prototyping SaaS platform with AI features",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Databricks",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "databricks"
+    },
+    "remote_global": false,
+    "india_gcc": true,
+    "visa_sponsor": true,
+    "india_presence": true,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "Data and AI platform: lakehouse, machine learning, generative AI and LLM tooling",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Anthropic",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "anthropic"
+    },
+    "remote_global": false,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": false,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "AI safety company building Claude large language models and enterprise AI products",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Coinbase",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "coinbase"
+    },
+    "remote_global": true,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": true,
+    "funding_stage": "public",
+    "ticker": "COIN",
+    "description": "Cryptocurrency exchange and fintech platform",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Dropbox",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "dropbox"
+    },
+    "remote_global": true,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": false,
+    "funding_stage": "public",
+    "ticker": "DBX",
+    "description": "Cloud content collaboration SaaS with AI search (Dash)",
+    "uk_legal_names": []
+  },
+  {
+    "name": "GitLab",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "gitlab"
+    },
+    "remote_global": true,
+    "india_gcc": false,
+    "visa_sponsor": false,
+    "india_presence": true,
+    "funding_stage": "public",
+    "ticker": "GTLB",
+    "description": "DevSecOps platform, developer tools with AI assistant",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Twilio",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "twilio"
+    },
+    "remote_global": true,
+    "india_gcc": true,
+    "visa_sponsor": true,
+    "india_presence": true,
+    "funding_stage": "public",
+    "ticker": "TWLO",
+    "description": "Customer engagement platform, communications APIs, marketing automation and AI agents",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Cloudflare",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "cloudflare"
+    },
+    "remote_global": false,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": false,
+    "funding_stage": "public",
+    "ticker": "NET",
+    "description": "Connectivity cloud, network security and developer platform with AI inference",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Datadog",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "datadog"
+    },
+    "remote_global": false,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": false,
+    "funding_stage": "public",
+    "ticker": "DDOG",
+    "description": "Observability and monitoring SaaS including LLM observability",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Elastic",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "elastic"
+    },
+    "remote_global": true,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": true,
+    "funding_stage": "public",
+    "ticker": "ESTC",
+    "description": "Search AI platform, vector database, observability and security analytics",
+    "uk_legal_names": []
+  },
+  {
+    "name": "MongoDB",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "mongodb"
+    },
+    "remote_global": false,
+    "india_gcc": true,
+    "visa_sponsor": true,
+    "india_presence": true,
+    "funding_stage": "public",
+    "ticker": "MDB",
+    "description": "Developer data platform and database with vector search for AI applications",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Ramp",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "ramp"
+    },
+    "remote_global": false,
+    "india_gcc": false,
+    "visa_sponsor": false,
+    "india_presence": false,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "Finance automation platform: corporate cards, spend management, AI agents for finance",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Notion",
+    "ats": "ashby",
+    "ats_config": {
+      "slug": "notion"
+    },
+    "remote_global": false,
+    "india_gcc": true,
+    "visa_sponsor": true,
+    "india_presence": true,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "Connected workspace, productivity SaaS with Notion AI agents",
+    "uk_legal_names": []
+  },
+  {
+    "name": "OpenAI",
+    "ats": "ashby",
+    "ats_config": {
+      "slug": "openai"
+    },
+    "remote_global": false,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": true,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "AI research and deployment company: ChatGPT, GPT models, enterprise AI platform",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Linear",
+    "ats": "ashby",
+    "ats_config": {
+      "slug": "linear"
+    },
+    "remote_global": true,
+    "india_gcc": false,
+    "visa_sponsor": false,
+    "india_presence": false,
+    "funding_stage": "series_c",
+    "ticker": null,
+    "description": "Product development and issue tracking SaaS with AI workflows",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Vercel",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "vercel"
+    },
+    "remote_global": true,
+    "india_gcc": false,
+    "visa_sponsor": false,
+    "india_presence": false,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "Frontend cloud and AI SDK developer platform",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Cohere",
+    "ats": "ashby",
+    "ats_config": {
+      "slug": "cohere"
+    },
+    "remote_global": false,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": false,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "Enterprise large language models, retrieval (RAG), embeddings and agents platform",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Palantir",
+    "ats": "lever",
+    "ats_config": {
+      "slug": "palantir"
+    },
+    "remote_global": false,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": false,
+    "funding_stage": "public",
+    "ticker": "PLTR",
+    "description": "Data analytics and AI platform (AIP) for enterprises and government",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Spotify",
+    "ats": "lever",
+    "ats_config": {
+      "slug": "spotify"
+    },
+    "remote_global": false,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": false,
+    "funding_stage": "public",
+    "ticker": "SPOT",
+    "description": "Audio streaming consumer platform with personalisation and recommendation",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Veeva",
+    "ats": "lever",
+    "ats_config": {
+      "slug": "veeva"
+    },
+    "remote_global": true,
+    "india_gcc": true,
+    "visa_sponsor": true,
+    "india_presence": true,
+    "funding_stage": "public",
+    "ticker": "VEEV",
+    "description": "Life sciences cloud software: CRM, content management, commercial and regulatory for pharma",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Hugging Face",
+    "ats": "workable",
+    "ats_config": {
+      "slug": "huggingface"
+    },
+    "remote_global": true,
+    "india_gcc": false,
+    "visa_sponsor": false,
+    "india_presence": false,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "Open-source AI platform for machine learning models, datasets and LLM hosting",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Rippling",
+    "ats": "rippling",
+    "ats_config": {
+      "slug": "rippling"
+    },
+    "remote_global": false,
+    "india_gcc": true,
+    "visa_sponsor": true,
+    "india_presence": true,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "Workforce management platform: HR, IT, payroll and spend SaaS",
+    "uk_legal_names": []
+  },
+  {
+    "name": "ServiceNow",
+    "ats": "smartrecruiters",
+    "ats_config": {
+      "id": "servicenow"
+    },
+    "remote_global": false,
+    "india_gcc": true,
+    "visa_sponsor": true,
+    "india_presence": true,
+    "funding_stage": "public",
+    "ticker": "NOW",
+    "description": "Enterprise workflow automation platform with generative AI agents",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Freshworks",
+    "ats": "smartrecruiters",
+    "ats_config": {
+      "id": "freshworks"
+    },
+    "remote_global": false,
+    "india_gcc": true,
+    "visa_sponsor": true,
+    "india_presence": true,
+    "funding_stage": "public",
+    "ticker": "FRSH",
+    "description": "Customer service and IT service management SaaS with AI copilot",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Airtable",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "airtable"
+    },
+    "remote_global": false,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": false,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "Low-code app platform and AI-native workflow SaaS",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Zapier",
+    "ats": "ashby",
+    "ats_config": {
+      "slug": "zapier"
+    },
+    "remote_global": true,
+    "india_gcc": false,
+    "visa_sponsor": false,
+    "india_presence": false,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "Workflow automation platform with AI agents and integrations",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Okta",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "okta"
+    },
+    "remote_global": false,
+    "india_gcc": true,
+    "visa_sponsor": true,
+    "india_presence": true,
+    "funding_stage": "public",
+    "ticker": "OKTA",
+    "description": "Identity and access management security SaaS",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Canva",
+    "ats": "smartrecruiters",
+    "ats_config": {
+      "id": "canva"
+    },
+    "remote_global": false,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": false,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "Visual communication and design platform with generative AI (Magic Studio)",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Remote",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "remote"
+    },
+    "remote_global": true,
+    "india_gcc": false,
+    "visa_sponsor": false,
+    "india_presence": true,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "Global HR, employer of record and payroll platform",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Intercom",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "intercom"
+    },
+    "remote_global": false,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": false,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "AI customer service platform with Fin AI agent",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Asana",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "asana"
+    },
+    "remote_global": false,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": false,
+    "funding_stage": "public",
+    "ticker": "ASAN",
+    "description": "Work management SaaS with AI teammates",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Miro",
+    "ats": "ashby",
+    "ats_config": {
+      "slug": "miro"
+    },
+    "remote_global": false,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": false,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "Visual collaboration platform with AI innovation workspace",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Webflow",
+    "ats": "ashby",
+    "ats_config": {
+      "slug": "webflow"
+    },
+    "remote_global": true,
+    "india_gcc": false,
+    "visa_sponsor": false,
+    "india_presence": false,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "Website experience platform, no-code web builder with AI",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Scale AI",
+    "ats": "greenhouse",
+    "ats_config": {
+      "slug": "scaleai"
+    },
+    "remote_global": false,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": false,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "AI data labelling, evaluation and generative AI platform",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Perplexity",
+    "ats": "ashby",
+    "ats_config": {
+      "slug": "perplexity"
+    },
+    "remote_global": false,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": false,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "AI-powered answer engine and search",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Writer",
+    "ats": "ashby",
+    "ats_config": {
+      "slug": "writer"
+    },
+    "remote_global": true,
+    "india_gcc": false,
+    "visa_sponsor": false,
+    "india_presence": false,
+    "funding_stage": "series_c",
+    "ticker": null,
+    "description": "Enterprise generative AI platform for regulated industries, AI agents and content governance",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Harvey",
+    "ats": "ashby",
+    "ats_config": {
+      "slug": "harvey"
+    },
+    "remote_global": false,
+    "india_gcc": false,
+    "visa_sponsor": true,
+    "india_presence": false,
+    "funding_stage": "late",
+    "ticker": null,
+    "description": "Generative AI platform for legal and professional services",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Jasper",
+    "ats": "workable",
+    "ats_config": {
+      "slug": "jasper"
+    },
+    "remote_global": true,
+    "india_gcc": false,
+    "visa_sponsor": false,
+    "india_presence": false,
+    "funding_stage": "series_a",
+    "ticker": null,
+    "description": "AI marketing content generation platform for enterprise marketing teams",
+    "uk_legal_names": []
+  },
+  {
+    "name": "NVIDIA",
+    "ats": "workday",
+    "ats_config": {
+      "host": "nvidia.wd5.myworkdayjobs.com",
+      "tenant": "nvidia",
+      "site": "NVIDIAExternalCareerSite"
+    },
+    "remote_global": false,
+    "india_gcc": true,
+    "visa_sponsor": true,
+    "india_presence": true,
+    "funding_stage": "public",
+    "ticker": "NVDA",
+    "description": "Accelerated computing, GPUs and AI platform software",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Salesforce",
+    "ats": "workday",
+    "ats_config": {
+      "host": "salesforce.wd12.myworkdayjobs.com",
+      "tenant": "salesforce",
+      "site": "External_Career_Site"
+    },
+    "remote_global": false,
+    "india_gcc": true,
+    "visa_sponsor": true,
+    "india_presence": true,
+    "funding_stage": "public",
+    "ticker": "CRM",
+    "description": "CRM SaaS with Agentforce AI agents, marketing cloud and life sciences cloud",
+    "uk_legal_names": []
+  },
+  {
+    "name": "Adobe",
+    "ats": "workday",
+    "ats_config": {
+      "host": "adobe.wd5.myworkdayjobs.com",
+      "tenant": "adobe",
+      "site": "external_experienced"
+    },
+    "remote_global": false,
+    "india_gcc": true,
+    "visa_sponsor": true,
+    "india_presence": true,
+    "funding_stage": "public",
+    "ticker": "ADBE",
+    "description": "Creative, document and experience cloud software with Firefly generative AI; marketing content supply chain",
+    "uk_legal_names": []
+  },
+  {
+    "name": "IQVIA",
+    "ats": "workday",
+    "ats_config": {
+      "host": "iqvia.wd1.myworkdayjobs.com",
+      "tenant": "iqvia",
+      "site": "IQVIA"
+    },
+    "remote_global": false,
+    "india_gcc": true,
+    "visa_sponsor": true,
+    "india_presence": true,
+    "funding_stage": "public",
+    "ticker": "IQV",
+    "description": "Life sciences analytics, clinical research and pharma commercial technology",
+    "uk_legal_names": []
+  }
+]

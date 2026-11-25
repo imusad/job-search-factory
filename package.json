@@ -1,0 +1,27 @@
+{
+  "name": "job-search-factory",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "discover": "node src/cli/run-discovery.js",
+    "semantic:export": "node src/cli/semantic-export.js",
+    "semantic:apply": "node src/cli/semantic-apply.js",
+    "assets:pending": "node src/cli/assets-pending.js",
+    "assets:publish": "node src/cli/assets-publish.js",
+    "assets:validate": "node src/cli/assets-validate.js",
+    "schedule:report": "node src/cli/schedule-report.js",
+    "notify:failure": "node src/cli/notify-failure.js",
+    "oauth": "node scripts/oauth.js",
+    "test": "node --test tests/unit/*.test.js",
+    "test:live": "node --test --test-concurrency=4 tests/live/*.test.js",
+    "test:google": "node --test --test-concurrency=1 tests/google/*.test.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "docx": "^9.5.0",
+    "fast-xml-parser": "^4.5.0",
+    "googleapis": "^144.0.0"
+  }
+}

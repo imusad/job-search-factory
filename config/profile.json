@@ -1,0 +1,28 @@
+{
+  "_comment": "Canonical profile for the ATS answer pack (JSF-408). Fields marked TODO are not in the master experience file — fill them in once.",
+  "name": "Iman Sadhu",
+  "email": "imansadhu2010@gmail.com",
+  "phone": "+91 9686567059",
+  "linkedin": "linkedin.com/in/imansadhu",
+  "location": "Bangalore, India",
+  "headline": "Senior Product Manager, AI / GenAI Products",
+  "work_history": [
+    { "title": "Senior Product Manager", "company": "Indegene", "start": "Feb 2025", "end": "Present", "location": "India" },
+    { "title": "Product Manager", "company": "Indegene", "start": "Jul 2020", "end": "Jan 2025", "location": "India" },
+    { "title": "Manager", "company": "EY", "start": "Nov 2019", "end": "Jul 2020", "location": "India" },
+    { "title": "Strategy Consulting Manager", "company": "Sprintly Works", "start": "Jan 2019", "end": "May 2019", "location": "Finland" },
+    { "title": "Consultant", "company": "EY", "start": "May 2017", "end": "Dec 2018", "location": "India" },
+    { "title": "Software Engineer", "company": "EY", "start": "Jul 2014", "end": "May 2017", "location": "India" }
+  ],
+  "education": [
+    { "degree": "General Management", "school": "Indian School of Business", "years": "2016 to 2017" },
+    { "degree": "B.Tech", "school": "VIT University, Vellore", "years": "2010 to 2014" }
+  ],
+  "skills": ["Product strategy and roadmap", "LLM product design", "Evaluation frameworks", "Guardrails and responsible AI", "RAG and vector databases", "Multi-agent architecture", "Release governance", "Stakeholder management", "Jira", "Figma", "Claude"],
+  "visa_status": "TODO: e.g. Indian citizen; requires sponsorship outside India",
+  "notice_period": "TODO",
+  "salary_expectation": "TODO",
+  "relocation": "Open to relocation (Dubai, Malaysia, Malta)",
+  "willing_to_travel": "TODO",
+  "gender_ethnicity_disability": "Prefer not to say (edit if you wish)"
+}

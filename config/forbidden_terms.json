@@ -1,0 +1,4 @@
+{
+  "_comment": "Security rule R5: terms that must never appear in any generated asset. Add real client names here (they are deliberately not stored in the master file). Matching is word-boundary, case-insensitive.",
+  "terms": ["Boehringer Ingelheim", "Boehringer", "NCCA", "NCCI", "Peak D", "top-5", "top 5"]
+}

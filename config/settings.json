@@ -1,0 +1,56 @@
+{
+  "_comment": "Tunable configuration. Every value here is read at runtime; no code change needed to tune.",
+  "owner": {
+    "name": "Iman Sadhu",
+    "home_countries": ["India"],
+    "relocation_ok": ["United Arab Emirates", "Dubai", "Malaysia", "Malta"]
+  },
+  "titles": {
+    "_comment": "OD-2 resolved per Solution Design recommendation: Director/Head of Product included. Remove the last two entries to revert.",
+    "include": [
+      "\\b(senior|sr\\.?)\\s+product\\s+manager\\b",
+      "\\bai\\s+product\\s+manager\\b",
+      "\\bgroup\\s+product\\s+manager\\b",
+      "\\bprincipal\\s+product\\s+manager\\b",
+      "\\blead\\s+product\\s+manager\\b",
+      "\\bproduct\\s+lead\\b",
+      "\\bdirector,?\\s+(of\\s+)?product(\\s+management)?\\b",
+      "\\bhead\\s+of\\s+product\\b"
+    ],
+    "exclude_terms": ["intern", "internship", "junior", "apm"],
+    "pm_count_pattern": "\\bproduct\\s+(manager|lead|director)\\b|\\b(director|head)\\s+of\\s+product\\b"
+  },
+  "veto_terms": [
+    "unable to sponsor",
+    "will not sponsor",
+    "not able to sponsor",
+    "no visa sponsorship",
+    "cannot sponsor",
+    "does not sponsor",
+    "us citizens only",
+    "u\\.s\\. citizenship is required",
+    "security clearance",
+    "must be a us citizen"
+  ],
+  "weights": {
+    "work_model": 0.15,
+    "velocity": 0.10,
+    "visa": 0.10,
+    "funding": 0.08,
+    "layoff": 0.07,
+    "financial": 0.05,
+    "experience": 0.30,
+    "domain": 0.15
+  },
+  "work_model_points": { "Remote-Verified": 15, "Remote-Geo-Restricted": 10, "Hybrid": 5, "Onsite": 0, "Unknown": 0 },
+  "funding_stage_scores": { "public": 1.0, "late": 0.9, "series_c": 0.85, "series_b": 0.7, "series_a": 0.5, "seed": 0.3, "pre_seed": 0.2, "unknown": 0 },
+  "semantic": { "shortlist_size": 50, "experience_raw_min": 1, "experience_raw_max": 3.5, "domain_raw_min": 1, "domain_raw_max": 3.5 },
+  "thresholds": { "above_threshold_total": 0.45, "above_threshold_phase1": 0.25, "ghost_days": 90, "freeze_min_previous": 10 },
+  "time_model_minutes": { "approval": 1, "resume_review": 3, "message_review": 1, "application": 4 },
+  "http": { "timeout_ms": 20000, "probe_timeout_ms": 6000, "concurrency": 10, "aggregator_delay_ms": 1500, "user_agent": "JobSearchFactory/1.0 (personal job search; public job-board APIs only)" },
+  "aggregators": { "adzuna_countries": ["in", "gb", "us", "sg", "ae"], "max_queries": 8, "results_per_page": 50 },
+  "discovery": { "max_new_candidates_per_run": 40, "ats_retry_days": 14 },
+  "excluded_hosts": ["naukri.com", "www.naukri.com", "indeed.com", "www.indeed.com", "glassdoor.com", "www.glassdoor.com", "ziprecruiter.com", "www.ziprecruiter.com", "dice.com", "www.dice.com", "coresignal.com", "brightdata.com"],
+  "sheet": { "title": "Job Search Factory — Tracker", "drive_folder_name": "Job Search Factory", "max_jd_files": 600, "jd_retention_days": 120 },
+  "assets": { "resume_bullets_min": 20, "resume_bullets_max": 24, "linkedin_max_chars": 300, "deck_slides_min": 3, "deck_slides_max": 4, "deck_hook_lines": 5 }
+}
