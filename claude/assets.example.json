@@ -6,18 +6,42 @@
     "name": "Iman Sadhu",
     "headline": "Group Product Manager · AI Product Portfolio · Regulated Enterprise SaaS",
     "contact": "Bangalore, India · imansadhu2010@gmail.com · +91 9686567059 · linkedin.com/in/imansadhu",
-    "summary": "Product leader with 12 years across six industries and five global regions, starting as a software engineer. Lead a 3-product commercial-content suite for global pharma, owning the suite strategy and two production LLM products; the suite earned USD 4M+ in licence revenue. Focus: shipping AI that compliance teams can trust, through deterministic testing, false-positive measurement, explainability and auditability.",
+    "summary": "Product leader with 12 years across six industries and five global regions, starting as a software engineer. Lead a 3-product commercial-content suite for global pharma, owning the suite strategy and two production LLM products. The suite earned **USD 4M+** in licence revenue. Focussed on shipping AI that compliance teams can trust: deterministic testing, false-positive measurement and explainability.",
     "kpis": [
-      { "figure": "USD 4M+", "caption": "Suite licence revenue" },
-      { "figure": "~USD 598K", "caption": "Cumulative client cost savings\n2022 to Aug 2026" },
-      { "figure": "60", "caption": "Deterministic and safety tests\nacross a multi-agent workflow" },
-      { "figure": "~87%", "caption": "AI output accuracy\nup from ~67%" }
+      {
+        "figure": "USD 4M+",
+        "caption": "Suite licence revenue"
+      },
+      {
+        "figure": "~USD 598K",
+        "caption": "Cumulative client cost savings\n2022 to Aug 2026"
+      },
+      {
+        "figure": "60",
+        "caption": "Deterministic and safety tests\nacross a multi-agent workflow"
+      },
+      {
+        "figure": "~87%",
+        "caption": "AI output accuracy\nup from ~67%"
+      }
     ],
     "skills": [
-      { "label": "Product leadership", "text": "Product and portfolio strategy · Roadmap ownership · Discovery and prioritisation · Go-to-market · KPIs / OKRs · Release governance · Stakeholder management (VP / Director)" },
-      { "label": "Trust and safety", "text": "Deterministic testing · AI safety, red-team and prompt-injection testing · False-positive / false-negative metrics · Explainability (XAI) · Auditability · LLM observability (Langfuse)" },
-      { "label": "AI / GenAI", "text": "Multi-agent architecture · RAG and vector databases · LLM evaluation frameworks · Guardrails · Prompt management · API payload analysis" },
-      { "label": "Tools", "text": "Jira · AHA · Figma · Mural · Claude · Microsoft Copilot · Langfuse" }
+      {
+        "label": "Product leadership",
+        "text": "Product and portfolio strategy · Suite roadmap · Discovery and prioritisation · Go-to-market · KPIs / OKRs · Release governance · Stakeholder management (VP / Director) · Agile / Scrum"
+      },
+      {
+        "label": "Trust and safety",
+        "text": "Deterministic testing · AI safety, red-team and prompt-injection testing · False-positive / false-negative metrics · Explainability (XAI) · Auditability · LLM observability (Langfuse)"
+      },
+      {
+        "label": "AI / GenAI",
+        "text": "Multi-agent architecture · RAG and vector databases · LLM evaluation frameworks · Guardrails and responsible AI · Model selection and runtime switching · API payload analysis"
+      },
+      {
+        "label": "Tools",
+        "text": "Jira · AHA · Figma · Mural · Claude · Microsoft Copilot · Langfuse"
+      }
     ],
     "role_line": {
       "title": "Senior Product Manager",
@@ -27,57 +51,275 @@
     },
     "story_rows": [
       {
-        "label": "Value generated via products",
+        "label": "Value generated via Products",
         "bullets": [
-          { "text": "Suite earned **USD 4M+** in licence revenue from a top-10 US biopharmaceutical company, with 50 to 60 daily users.", "ach": ["ACH-064"], "type": "Fact", "flag": "USE", "requirement": "Commercial impact (scope check)", "rank": 1 },
-          { "text": "Email product I owned saved a UK biopharmaceutical company **~USD 598K** between 2022 and Aug 2026.", "ach": ["ACH-069"], "type": "Fact", "flag": "USE", "requirement": "Commercial impact (anchor)", "rank": 2 },
-          { "text": "Cut digital marketing asset turnaround **50%** with a production GenAI content pipeline.", "ach": ["ACH-066"], "type": "Fact", "flag": "USE", "requirement": "Ship faster with AI (culture)", "rank": 12 },
-          { "text": "Client satisfaction (PSAT) rose **3.63 to 3.93 of 4** between Jun 2025 and Jun 2026.", "ach": ["ACH-007"], "type": "Fact", "flag": "USE", "requirement": "Customer experience ownership", "rank": 13 }
-        ]
-      },
-      {
-        "label": "How I made it trustworthy",
-        "bullets": [
-          { "text": "Scoped **deterministic testing** agent by agent: 60 tests across retrieval, agent decisions, flow and safety.", "ach": ["ACH-044"], "type": "Fact", "flag": "USE", "requirement": "Testing before enforcement", "rank": 3 },
-          { "text": "Separated what must never vary (approved claims, templates) from **LLM variance** that must be measured.", "ach": ["ACH-044"], "type": "Fact", "flag": "USE", "requirement": "Safe deployment of protections", "rank": 6 },
-          { "text": "Raised content-selection accuracy **~67% to ~87%** with an SME-scored evaluation framework.", "ach": ["ACH-002"], "type": "Fact", "flag": "USE", "requirement": "Detection quality", "rank": 4 },
-          { "text": "Designed per-agent metrics, incl. validator **false-positive and false-negative** rates, plus an end-to-end score.", "ach": ["ACH-074"], "type": "Fact", "flag": "USE", "requirement": "False-positive management", "rank": 5 },
-          { "text": "Built **prompt-injection** and red-team cases into the safety tests, with auditability checks per agent.", "ach": ["ACH-011", "ACH-044"], "type": "Fact", "flag": "USE", "requirement": "Security testing, auditability", "rank": 10 },
-          { "text": "Made explainability a product standard so **compliance reviewers** can verify every output.", "ach": ["ACH-003"], "type": "Fact", "flag": "USE", "requirement": "Customers understand what events mean", "rank": 7 },
-          { "text": "Traced every agent decision in **Langfuse** so outputs can be replayed and audited after the fact.", "ach": ["ACH-013"], "type": "Fact", "flag": "USE", "requirement": "Auditability, logs", "rank": 16 }
+          {
+            "text": "Suite earned **USD 4M+** in licence revenue from a top-10 US biopharmaceutical company, with 50 to 60 daily users.",
+            "ach": [
+              "ACH-064"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Commercial impact (scope check)",
+            "rank": 1
+          },
+          {
+            "text": "Email product I owned saved a UK biopharmaceutical company **~USD 598K** between 2022 and Aug 2026.",
+            "ach": [
+              "ACH-069"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Commercial impact (anchor)",
+            "rank": 2
+          },
+          {
+            "text": "Client satisfaction (PSAT) rose **3.63 to 3.93 of 4** between Jun 2025 and Jun 2026.",
+            "ach": [
+              "ACH-007"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Customer experience ownership",
+            "rank": 14
+          },
+          {
+            "text": "Countries seeing cost savings in marketing operations rose from **15 to 22**.",
+            "ach": [
+              "ACH-070"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Adoption breadth",
+            "rank": 16
+          },
+          {
+            "text": "Cut digital marketing asset turnaround **50%** with a production GenAI content pipeline.",
+            "ach": [
+              "ACH-066"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Ship faster with AI (culture)",
+            "rank": 12
+          }
         ]
       },
       {
         "label": "The strategy",
         "bullets": [
-          { "text": "Product decision point for **VP, AVP and Director** stakeholders on scope, releases and risk.", "ach": ["ACH-004"], "type": "Fact", "flag": "USE", "requirement": "Synthesise input into clear product decisions", "rank": 11 },
-          { "text": "Won buy-in, budget and teams for **three roadmaps** through market assessment and competitive benchmarking.", "ach": ["ACH-065"], "type": "Fact", "flag": "USE", "requirement": "Strategy and roadmap ownership", "rank": 14 }
+          {
+            "text": "My strategy was to merge three separate, effort-intensive product workflows into a single **AI-native workflow**, pulling the suite out of the pre-GenAI world.",
+            "ach": [
+              "ACH-087"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Strategy and roadmap ownership",
+            "rank": 3
+          },
+          {
+            "text": "Pharma brand teams with small marketing budgets could then create emails, banners and e-details at **half the effort** it used to take to build each one by hand in a separate editor.",
+            "ach": [
+              "ACH-087"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Customer empathy, product judgement",
+            "rank": 4
+          },
+          {
+            "text": "Reduced engineering overhead and won buy-in and budget for **three roadmaps** through market assessment and competitive benchmarking.",
+            "ach": [
+              "ACH-087",
+              "ACH-065"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Strategy, prioritisation",
+            "rank": 9
+          },
+          {
+            "text": "Championed the **explainability (XAI) practice** beyond my own two products.",
+            "ach": [
+              "ACH-092"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Customers understand what events mean",
+            "rank": 7
+          },
+          {
+            "text": "Product decision point for **VP, AVP and Director** stakeholders on scope, releases and risk.",
+            "ach": [
+              "ACH-004"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Synthesise input into clear decisions",
+            "rank": 11
+          }
         ]
       },
       {
         "label": "What I built",
         "bullets": [
-          { "text": "Directed an **eight-agent** flow with engineering that turns one prompt into a validated, brand-ready email.", "ach": ["ACH-071"], "type": "Fact", "flag": "USE", "requirement": "Technical fluency, detection systems", "rank": 8 },
-          { "text": "Kept retrieval **algorithmic, with no LLM**, so the same query always returns the same content.", "ach": ["ACH-071"], "type": "Fact", "flag": "USE", "requirement": "Predictable protection behaviour", "rank": 15 },
-          { "text": "Analysed raw upstream **API payloads**, caught mistagged data and turned it into product rules.", "ach": ["ACH-048"], "type": "Fact", "flag": "USE", "requirement": "Technical fluency (HTTP/API)", "rank": 20 }
+          {
+            "text": "Conversational AI product that converts pharma campaign goals into compliant **emails, banners and e-details**.",
+            "ach": [
+              "ACH-088"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Technical fluency, product ownership",
+            "rank": 5
+          },
+          {
+            "text": "Directed an **eight-agent RAG architecture** with engineering: semantic-graph query, content retrieval and output generation.",
+            "ach": [
+              "ACH-089"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Detection systems, architecture",
+            "rank": 6
+          },
+          {
+            "text": "Defined the model selection framework, **runtime model switching** and a generative UI driven by the LLM response.",
+            "ach": [
+              "ACH-090"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Technical depth, cost control",
+            "rank": 15
+          },
+          {
+            "text": "Kept retrieval **algorithmic, with no LLM**, so the same query always returns the same content.",
+            "ach": [
+              "ACH-071"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Predictable protection behaviour",
+            "rank": 10
+          }
         ]
       },
       {
-        "label": "How I shipped safely",
+        "label": "How I made it trustworthy",
         "bullets": [
-          { "text": "Direct a **28+ person** cross-functional delivery across four regions and four client tracks.", "ach": ["ACH-001"], "type": "Fact", "flag": "USE", "requirement": "Cross-functional leadership", "rank": 9 },
-          { "text": "Held a customer announcement until a **template-breakage risk** was confirmed after a library change.", "ach": ["ACH-052"], "type": "Fact", "flag": "USE", "requirement": "Customer communications during incidents", "rank": 17 },
-          { "text": "Ran **release gating** across Product, Engineering, QA and Business for two email releases.", "ach": ["ACH-026"], "type": "Fact", "flag": "USE", "requirement": "Rollout governance", "rank": 21 },
-          { "text": "Turned the test scope into **owned workstreams** across two engineering teams and QA.", "ach": ["ACH-045"], "type": "Fact", "flag": "USE", "requirement": "Cross-functional delivery", "rank": 23 },
-          { "text": "Triaged client-reviewer feedback into **bugs, feature requests** and design limitations.", "ach": ["ACH-019"], "type": "Fact", "flag": "USE", "requirement": "Feedback loops with Support and customers", "rank": 24 }
+          {
+            "text": "Scoped **deterministic testing** agent by agent: 60 tests across retrieval, agent decisions, flow and safety, separating what must never vary from where LLM variance is measured.",
+            "ach": [
+              "ACH-044"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Testing before enforcement",
+            "rank": 8
+          },
+          {
+            "text": "Raised content-selection accuracy **~67% to ~87%** with an SME-scored evaluation framework.",
+            "ach": [
+              "ACH-002"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Detection quality",
+            "rank": 13
+          },
+          {
+            "text": "Designed per-agent metrics, incl. validator **false-positive and false-negative** rates, plus an end-to-end score.",
+            "ach": [
+              "ACH-074"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "False-positive management",
+            "rank": 17
+          },
+          {
+            "text": "Built **prompt-injection** and red-team cases into the safety tests, with every agent decision traced and replayable in Langfuse.",
+            "ach": [
+              "ACH-011",
+              "ACH-013"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Security testing, auditability",
+            "rank": 18
+          }
+        ]
+      },
+      {
+        "label": "How I delivered",
+        "bullets": [
+          {
+            "text": "Direct a **28+ person** cross-functional delivery across four regions and four client tracks.",
+            "ach": [
+              "ACH-001"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Cross-functional leadership",
+            "rank": 19
+          },
+          {
+            "text": "Held a customer announcement until a **template-breakage risk** was confirmed after a library change.",
+            "ach": [
+              "ACH-052"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Customer communications in incidents",
+            "rank": 20
+          },
+          {
+            "text": "Ran **release gating** across Product, Engineering, QA and Business for two email releases.",
+            "ach": [
+              "ACH-026"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Rollout governance",
+            "rank": 21
+          },
+          {
+            "text": "Used Claude to automate **sprint performance tracking** and risk flagging.",
+            "ach": [
+              "ACH-094"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "AI-native curiosity",
+            "rank": 22
+          }
         ]
       },
       {
         "label": "Whom I led",
         "bullets": [
-          { "text": "Built and lead a product team of **3 (2 PMs, 1 BA)**, each PM owning one product.", "ach": ["ACH-060"], "type": "Fact", "flag": "USE", "requirement": "Leadership", "rank": 18 },
-          { "text": "Designed the team's **PDLC workflow with Claude**: onboarding, PRDs, prototypes and user stories.", "ach": ["ACH-076"], "type": "Fact", "flag": "USE", "requirement": "AI-native curiosity", "rank": 19 },
-          { "text": "Coached PMs on **problem-first discovery**, P1 to P4 prioritisation and PRD sign-off.", "ach": ["ACH-061"], "type": "Fact", "flag": "USE", "requirement": "Discovery and prioritisation", "rank": 22 }
+          {
+            "text": "Built and lead a product team of **3 (2 PMs, 1 BA)**, each PM owning one product.",
+            "ach": [
+              "ACH-060"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Leadership",
+            "rank": 24
+          },
+          {
+            "text": "Coached PMs on **problem-first discovery**, P1 to P4 prioritisation and PRD sign-off.",
+            "ach": [
+              "ACH-061"
+            ],
+            "type": "Fact",
+            "flag": "USE",
+            "requirement": "Discovery and prioritisation",
+            "rank": 25
+          }
         ]
       }
     ],
@@ -87,15 +329,45 @@
       "dates": "Jul 2020 to Jan 2025",
       "label": "Built and scaled",
       "bullets": [
-        { "text": "Took a product **0 to 30+ users** in 18 months; scaled the cross-functional team from 3 to 26; NPS 8.66.", "ach": ["ACH-037"] },
-        { "text": "Won a **USD 1M** phased contract with a major German biopharmaceutical company.", "ach": ["ACH-075"] },
-        { "text": "Owned roadmap and releases for **four global pharma accounts**, with WCAG-compliant components.", "ach": ["ACH-038"] }
+        {
+          "text": "Indegene's **first** email and banner authoring B2B web applications, servicing pharma brand teams.",
+          "ach": [
+            "ACH-096"
+          ]
+        },
+        {
+          "text": "Took a product **0 to 30+ users** in 18 months; scaled the cross-functional team from 3 to 26; NPS 8.66.",
+          "ach": [
+            "ACH-037"
+          ]
+        },
+        {
+          "text": "Won a **USD 1M** phased contract with a major German biopharmaceutical company.",
+          "ach": [
+            "ACH-075"
+          ]
+        },
+        {
+          "text": "Owned roadmap and releases for **four global pharma accounts**.",
+          "ach": [
+            "ACH-038"
+          ]
+        }
       ]
     },
     "earlier": [
-      { "lead": "Manager | EY, India | 2019 to 2020", "text": "Led an AI bot product for tax filing, from 0 to 1." },
-      { "lead": "Strategy Consulting Manager | Sprintly Works, Finland | 2019", "text": "Generated EUR 28K revenue (28% of annual) in 2.5 months; built a demand-optimisation tool reaching 97% service levels." },
-      { "lead": "Consultant & Software Engineer | EY, India | 2014 to 2018", "text": "Contributed to India's Ease of Doing Business rank 100 to 77; land platform 99.15% digitised; Guidewire ClaimCenter configuration for a US insurer." }
+      {
+        "lead": "Manager | EY, India | 2019 to 2020",
+        "text": "Led an AI bot product for tax filing, from 0 to 1."
+      },
+      {
+        "lead": "Strategy Consulting Manager | Sprintly Works, Finland | 2019",
+        "text": "Achieved EUR 28K startup revenue (28% of annual) in 2.5 months; built an inventory optimisation model for Finland's biggest coffee manufacturer."
+      },
+      {
+        "lead": "Consultant & Software Engineer | EY, India | 2014 to 2018",
+        "text": "Contributed to India's Ease of Doing Business rank 100 to 77 by a Port Community System for Indian ports; land platform for a State Government, 99.15% digitised; Guidewire migration for a US insurer."
+      }
     ],
     "education": "General Management, Indian School of Business · B.Tech, VIT University, Vellore"
   },
@@ -253,8 +525,9 @@
     "KNOCKOUT CHECK: the listing says 'Remote within: US, Canada, UK, Portugal'. The profile lists Bangalore, with relocation open to Dubai, Malaysia and Malta. Confirm eligibility before applying.",
     "Export control: an offer may depend on authorisation under US export laws without sponsorship. Check before investing more time.",
     "Gap (R12): no WAF, managed-rules, detection-engineering or security-research evidence in the master file. The cover letter states this plainly; the resume does not claim it.",
-    "Resume: all 24 bullets are Fact; no G1/G2 lines were needed. KPI tiles 3 and 4 (60 tests, ~87% accuracy) were chosen because the role centres on testing before enforcement and false-positive management.",
-    "R10: ACH-011 and ACH-044 overlap; merged into one bullet that cites both.",
+    "CONFLICT (ACH-099 vs ACH-070): your resume calls the 15-to-22 figure 'brand teams'; the client dashboards record it as countries with savings. This resume uses 'countries' (dashboard-sourced). Please confirm which is right.",
+    "Resume: all 25 bullets are Fact; no G1/G2 lines were needed. KPI tiles 3 and 4 (60 tests, ~87% accuracy) replace your 'Direct reports' tile because this role centres on testing before enforcement; the team fact appears in 'Whom I led'.",
+    "R10 merges: ACH-087 with ACH-065 (three roadmaps); ACH-011 with ACH-013 (safety tests + tracing); ACH-094 used instead of ACH-068. ACH-095 ('3 client tracks') omitted to avoid clashing with the 'four client tracks' delivery line.",
     "CONFIRM-FIRST skipped: ACH-072 (red-team assessment, role to confirm). Red-team wording comes from ACH-044 instead.",
     "Cover letter G1/G2 phrasing to confirm: 'an output that breaks a compliance rule is an incident, not a bug' (framing) and 'still analyse raw API payloads myself' (ACH-048 records two payloads analysed).",
     "Deck: the Resolution slide is a hypothesis built from public changelog data, labelled as such; it makes no claim about Cloudflare's internal plans."

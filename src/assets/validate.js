@@ -68,8 +68,19 @@ export function validateResume(r, cfg = settings().assets) {
     if (!['Fact', 'G1', 'G2'].includes(b.type)) e.push(`bullet ${i + 1} type must be Fact, G1 or G2`);
     if (/\bresponsible for\b|\bhelped to\b/i.test(b.text)) e.push(`bullet ${i + 1} uses banned phrasing (R9)`);
     if ((b.text.match(/\*\*/g) || []).length > 2) e.push(`bullet ${i + 1} has more than one bold anchor (R9)`);
-    if (plain(b.text).length > cfg.resume_bullet_max_chars) e.push(`bullet ${i + 1} is ${plain(b.text).length} chars — it will wrap; keep each bullet to one line (≤${cfg.resume_bullet_max_chars}, R9)`);
+    if (plain(b.text).length > cfg.resume_bullet_hard_max_chars) e.push(`bullet ${i + 1} is ${plain(b.text).length} chars — over two lines (max ${cfg.resume_bullet_hard_max_chars}, R9)`);
   });
+  // R9 (revised 25 Nov 2026): most bullets one line; up to a quarter may run to two lines where they carry product thinking
+  const long = bullets.filter((b) => plain(b.text).length > cfg.resume_bullet_max_chars);
+  if (long.length > Math.ceil(bullets.length / 4)) e.push(`${long.length} bullets run to two lines (max ${Math.ceil(bullets.length / 4)}, about a quarter — R9)`);
+  // R11: keep the story arc and the balance of Iman's finalised resume
+  const rows = r.story_rows || [];
+  const fat = rows.filter((row) => (row.bullets || []).length > cfg.story_row_bullets_max);
+  for (const row of fat) e.push(`row "${row.label}" has ${row.bullets.length} bullets (max ${cfg.story_row_bullets_max}, R11) — tailor by rewording, not by piling bullets into one row`);
+  const strategy = rows.find((row) => /strateg/i.test(row.label));
+  if (!strategy) e.push('story spine is missing the strategy row (R11) — it carries the product thinking');
+  else if (strategy.bullets.length < cfg.strategy_row_bullets_min) e.push(`strategy row has ${strategy.bullets.length} bullets (min ${cfg.strategy_row_bullets_min}, R11) — never collapse it to make space`);
+  else if (!strategy.bullets.some((b) => plain(b.text).length > cfg.resume_bullet_max_chars)) e.push('strategy row needs at least one two-line bullet that states the bet, the before-and-after or who benefits (R9)');
   // 10.9: no bullet-opening verb more than twice
   const openers = {}; for (const b of bullets) { const v = plain(b.text).split(/\s+/)[0].toLowerCase(); openers[v] = (openers[v] || 0) + 1; }
   for (const [v, c] of Object.entries(openers)) if (c > 2) e.push(`"${v}" opens ${c} bullets (max 2, Part 10.9)`);

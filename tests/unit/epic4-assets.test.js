@@ -60,9 +60,21 @@ test('TC-402 resume: bullets 20–24, ACH-traced, R5, story spine, keyword echo,
   const labels = a.resume.story_rows.map((r) => r.label);
   assert.ok(labels.length >= 5 && new Set(labels).size === labels.length, 'five or more distinct story rows');
   assert.match(labels[0], /value/i, 'story opens with the value row (R11)');
-  // story-writing standard: one-line bullets, one bold anchor, no task labels, no verb opening more than twice
-  const tooLong = structuredClone(a.resume); tooLong.story_rows[0].bullets[0].text += ' and then a great deal more words so that this bullet wraps onto a second line';
-  assert.match(validateResume(tooLong).join(), /one line/);
+  // story-writing standard (R9 revised 25 Nov 2026): most bullets one line, about a quarter may run to two
+  const long = resumeBullets(a.resume).filter((b) => b.text.replace(/\*\*/g, '').length > 112);
+  assert.ok(long.length && long.length <= Math.ceil(resumeBullets(a.resume).length / 4), `two-line bullets=${long.length}`);
+  const strategyRow = a.resume.story_rows.find((r) => /strateg/i.test(r.label));
+  assert.ok(strategyRow.bullets.some((b) => b.text.replace(/\*\*/g, '').length > 112), 'strategy row carries the product thinking');
+  const thin = structuredClone(a.resume); thin.story_rows.find((r) => /strateg/i.test(r.label)).bullets.length = 2;
+  assert.match(validateResume(thin).join(), /strategy row has 2 bullets/);
+  const terse = structuredClone(a.resume);
+  terse.story_rows.find((r) => /strateg/i.test(r.label)).bullets.forEach((b) => { b.text = 'Won **buy-in** for three roadmaps.'; });
+  assert.match(validateResume(terse).join(), /two-line bullet that states the bet/);
+  const fat = structuredClone(a.resume);
+  fat.story_rows[3].bullets = [...fat.story_rows[3].bullets, ...fat.story_rows[3].bullets].slice(0, 7);
+  assert.match(validateResume(fat).join(), /has 7 bullets \(max 5/);
+  const tooLong = structuredClone(a.resume); tooLong.story_rows[0].bullets[0].text += ' and then a great many more words indeed, so that this single bullet spills well past the two-line budget and keeps on going past it';
+  assert.match(validateResume(tooLong).join(), /over two lines/);
   const twoBold = structuredClone(a.resume); twoBold.story_rows[0].bullets[0].text = 'Earned **USD 4M+** from **three** products.';
   assert.match(validateResume(twoBold).join(), /more than one bold anchor/);
   const repeats = structuredClone(a.resume); repeats.story_rows[1].bullets.slice(0, 3).forEach((b) => { b.text = `Designed ${b.text}`; });

@@ -15,8 +15,14 @@ each product's capability map (fresh-build rule), keeping this voice.
 3. **Strategy bullets explain the thinking**, in plain first-person-implied prose: what the bet was, who it was for and
    why ("Pharma brand teams with small marketing budgets could create… at half the effort…").
 4. **Names the real thing**: eight agents, 60 tests, Veeva Vault, knowledge graph, VP/AVP/Director, 3 client tracks.
-5. **One bold anchor per bullet**, about 15–18 words, one line each. 20–24 bullets in the current role.
-6. **The page is full.** Header, summary, 4 KPI tiles (figure + caption + a context line), 3–4 skills rows, current role
+5. **One bold anchor per bullet.** Most bullets are one line (15–18 words); **about a quarter run to two lines**
+   (25–32 words) where the point is the thinking, not a fact. The strategy row carries most of those. A bullet earns its
+   second line by stating the bet, the before-and-after, or who benefits and by how much — never by padding.
+6. **Row balance.** Value 5 · strategy 5 · built 4 · trustworthy 3 · delivered 5 · led 2 = 24 bullets. Tailor by
+   rewording and by moving a row up one place, not by piling bullets into one row; no row goes past 5, and the strategy
+   row never shrinks below 4. (A first Cloudflare build put 7 bullets in the trust row and 2 in strategy; it read as a
+   test lead's plan, not a product leader's story.)
+7. **The page is full.** Header, summary, 4 KPI tiles (figure + caption + a context line), 3–4 skills rows, current role
    in 5–6 labelled rows, prior role in one row of 3–4 bullets, earlier roles as "Title | Company | Years: result" lines.
 
 ## The reference text

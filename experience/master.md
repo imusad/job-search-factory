@@ -80,9 +80,9 @@
 | R6 | **Team scaling and reports.** Write "scaled the cross-functional team" for the 3-to-26 claim; that team is not direct reports. Separately, Iman leads 3 people (2 Product Managers, 1 Business Analyst; confirmed 25 Nov 2026 on Iman's finalised GPM resume, reverting the "5 (4 PMs, 1 BA)" recorded 13 Oct to Nov 2026): write "lead a team of 3 (2 PMs, 1 BA)" and never extend it to the cross-functional team. Source of truth is the ACH-060 entry body. |
 | R7 | **Titles and dates.** Take them from Part 3 only. The EY and Sprintly dates were corrected on 17 Oct 2026 (EY Consultant & Software Engineer ends Dec 2018); never use "Dec 2019" for them. **On the page (set 24 Nov 2026, Iman):** the two Indegene roles carry month dates. Every role in EARLIER EXPERIENCE is written year-only and in one consistent format — "EY, India | 2014 to 2018", "Sprintly Works, Finland | 2019", "EY, India | 2019 to 2020". This is accurate and it keeps the unexplained five-month 2019 gap (Part 3 note) off the page; Iman still answers for it in interview. **Education carries no years** (removes the graduation-year age signal). Part 3 and Part 9 keep the full month dates and years as the source of truth — this rule governs output only. |
 | R8 | **Length.** One page. Judge length by lines, not bullet counts: the current role carries about 26 to 31 one-line bullets across its story rows (R11) (reduced from 30-36 on 24 Nov 2026, when body type went to 10 pt and margins to 0.3 in), the prior role 2 to 3 lines, each older role 1 to 2 lines. Fit the page by shortening wording, never by dropping a must-have or supporting fact. (Updated 15 Oct 2026; the old 3-to-5-bullet cap forced many facts into a few long bullets.) |
-| R9 | **Style (result first, consultant-style).** Lead with the outcome or number, then how it was achieved ("Cut content turnaround 50% with a production GenAI pipeline."); if the entry states no result, lead with an action verb. One sentence per bullet that fits on one line (about 15 to 18 words). When an entry holds two facts, write two one-line bullets rather than one long one. No stacked em-dashes, no chains of semicolons. When the evidence shows a design was built with engineering, say so ("with engineering", "co-designed with engineering"); credit Iman for the product decisions, not the engineering build. Bold one anchor per bullet (the number or key term), never several. No first person. No "responsible for" or "helped to". Name a tool only where the evidence shows it was used. (Updated 15 Oct 2026.) |
+| R9 | **Style (result first, consultant-style).** Lead with the outcome or number, then how it was achieved ("Cut content turnaround 50% with a production GenAI pipeline."); if the entry states no result, lead with an action verb. **Bullet length (revised 25 Nov 2026, Iman — the earlier "every bullet fits on one line" rule made generated resumes read thinner than Iman's own):** most bullets are one line (about 15 to 18 words), and **up to about a quarter may run to two lines (about 25 to 32 words)** where the point is the product thinking rather than a fact — the strategy row above all, and architecture bullets that name real components. A two-line bullet must earn it: say the bet, the before-and-after, or who benefits and by how much ("merging three separate, effort-intensive product workflows into a single AI-native workflow"), never pad a fact with adjectives. When an entry holds two unrelated facts, write two one-line bullets rather than one long one. No stacked em-dashes, no chains of semicolons. When the evidence shows a design was built with engineering, say so ("with engineering", "co-designed with engineering"); credit Iman for the product decisions, not the engineering build. Bold one anchor per bullet (the number or key term), never several. No first person. No "responsible for" or "helped to". Name a tool only where the evidence shows it was used. (Updated 15 Oct 2026.) |
 | R10 | **No duplicates.** Do not use two entries that describe the same work (for example ACH-011 overlaps ACH-044 and ACH-045; pick one or merge). |
-| R11 | **Layout (Iman's preferred format, set 15 Oct 2026).** One page. Header (name, headline, contact), then Summary, an "Impact at a glance" strip of 4 headline figures from Part 6 (reduced from 6 on 24 Nov 2026): 2 fixed tiles (suite revenue, cumulative cost savings) and 2 chosen for relevance to the product, each with a one-line reason in the hand-over note (updated 18 Oct 2026; each tile is a figure plus a caption that says what moved and from where, e.g. "~87%: content-selection accuracy, up from ~67%"; prefer business figures such as revenue, revenue share, savings and satisfaction over process figures), Skills as labelled rows, Experience for the current role told as a story in labelled rows, using the default rows below as a menu, not a fixed list (updated 18 Oct 2026). Row titles, order and count come from the capability map (step 1b): lead with the row that answers what this product's team cares about most (for example trust and compliance first for fintech, architecture and APIs first for a platform, adoption and growth first for product-led growth), merge or drop rows the product does not need, and rename rows in the product's own terms. Keep the story logic: answer first, then mandate, build, quality, delivery, people. Default menu, answer first: The value (revenue, savings, satisfaction, scale), The strategy (business and product strategy only: roadmap ownership, budget and team, suite strategy, market assessment and benchmarking, product-market-fit validation, release phasing; architecture and platform choices such as the vector database belong in What I built), What I built, How I made it trustworthy (evaluation, deterministic testing, AI safety, explainability), How I delivered, Whom I led, How I work (AI-native across the product lifecycle: name the AI tool used for each task). A product leader should be able to read the rows top to bottom and follow mandate, build, quality, delivery and impact. The prior role as one labelled row, Earlier experience as compact one-liners, Education. Readability: body text 10 pt, nothing in the file below 9 pt, margins 0.3 in on all sides, visible spacing between rows, one bold anchor per bullet; fit the page by shortening wording or cutting a bullet, never by shrinking type, spacing or margins (updated 24 Nov 2026). Build the file from the layout specification in Part 10.9, not from an existing document. Produce a plain single-column, no-table version only when the user asks for an ATS-only file. |
+| R11 | **Layout (Iman's preferred format, set 15 Oct 2026).** One page. Header (name, headline, contact), then Summary, an "Impact at a glance" strip of 4 headline figures from Part 6 (reduced from 6 on 24 Nov 2026): 2 fixed tiles (suite revenue, cumulative cost savings) and 2 chosen for relevance to the product, each with a one-line reason in the hand-over note (updated 18 Oct 2026; each tile is a figure plus a caption that says what moved and from where, e.g. "~87%: content-selection accuracy, up from ~67%"; prefer business figures such as revenue, revenue share, savings and satisfaction over process figures), Skills as labelled rows, Experience for the current role told as a story in labelled rows, using the default rows below as a menu, not a fixed list (updated 18 Oct 2026). **Default order and balance (set 25 Nov 2026 from Iman's finalised resume; this is the shape to keep):** Value generated via Products (5 bullets) · The strategy (5) · What I built (4) · How I made it trustworthy (3) · How I delivered (5) · Whom I led (2). Row titles and emphasis are still tailored from the capability map (step 1b) — rename rows in the product's own terms, and a product whose team cares most about one theme may move that row up one place and gain a bullet or two. **But keep the arc and the balance:** never collapse the strategy row to make space, and never let one row exceed about 5 bullets. A resume where testing or architecture swells to 7 bullets while strategy shrinks to 2 reads as a specialist's plan, not a product leader's story (seen 25 Nov 2026 on the first Cloudflare build). Keep the story logic: answer first, then mandate, build, quality, delivery, people. Default menu, answer first: The value (revenue, savings, satisfaction, scale), The strategy (business and product strategy only: roadmap ownership, budget and team, suite strategy, market assessment and benchmarking, product-market-fit validation, release phasing; architecture and platform choices such as the vector database belong in What I built), What I built, How I made it trustworthy (evaluation, deterministic testing, AI safety, explainability), How I delivered, Whom I led, How I work (AI-native across the product lifecycle: name the AI tool used for each task). A product leader should be able to read the rows top to bottom and follow mandate, build, quality, delivery and impact. The prior role as one labelled row, Earlier experience as compact one-liners, Education. Readability: body text 10 pt, nothing in the file below 9 pt, margins 0.3 in on all sides, visible spacing between rows, one bold anchor per bullet; fit the page by shortening wording or cutting a bullet, never by shrinking type, spacing or margins (updated 24 Nov 2026). Build the file from the layout specification in Part 10.9, not from an existing document. Produce a plain single-column, no-table version only when the user asks for an ATS-only file. |
 | R12 | **Gaps.** If the file has no evidence for a requirement (for example scale or revenue figures, Part 11), say so in Open items. Do not fill the gap: never claim the missing number, certification, tool, outcome or domain experience. A relevance bridge (R14, type G1) may say what transfers from Iman's recorded work; it may not say the missing thing exists. |
 | R13 | **Cover letters — REVISED 25 Nov 2026 (Iman): write a real letter in prose, not resume points.** The 15 Oct bullet-section format below is superseded. Format: date, recipient line, "Dear <Company> <team>," then 4 to 6 short prose paragraphs (250 to 380 words), "Kind regards," and the name. Order: (1) a specific observation about the company's product or a recent, dated, public development, and why that problem is the reason for applying; (2) one story told properly (situation, what Iman decided and did, result), chosen because it mirrors that problem; (3) a second, shorter proof point tied to what the role asks for; (4) scope in one or two sentences (revenue, team, leadership); (5) the honest gap and what transfers; (6) a two-sentence close inviting a conversation about the product. Never repeat resume bullets as sentences: tell the story behind them. No lists, no bold, no clichés ("I am writing to express", "passionate", "perfect fit"). R1 to R6, R10 and R14 still apply; list the ACH IDs behind each paragraph in the Selection log. The rest of this cell is the superseded 15 Oct format, kept for history. **Superseded — Cover letters (Iman's preferred format, set 15 Oct 2026).** Same standards as the resume: R1 to R6 and R10 apply (only facts in Parts 2 to 9, mandated client wording, targets never results), and so do steps 3b and 4b (headline value figures and named keywords even if the listing did not ask). One page, about 250 to 320 words, same header style as the resume. Write for a hiring manager or product leader as a short story, in this order: (1) a 2 to 3 sentence hook naming the role and the single strongest match between Iman's work and the company's problem; (2) "The value I have delivered": 2 to 3 one-line bullets with the headline figures (suite revenue, client cost savings, satisfaction); (3) "How I build AI that holds up": 4 to 5 one-line bullets (architecture, evaluation results, deterministic and AI-safety testing, explainability); (4) "How I work": 3 to 4 one-line bullets (prototyping, requirements discipline, stakeholder communication, staying close to the models); (5) one short, honest paragraph naming the main gap against the listing and what transfers; (6) a one-line close. Sentences follow R9: result first, one idea per sentence, one bold anchor per bullet. Never state a purpose, outcome or effect that the entry does not record (for example, do not add "so the team built the right thing first time"); this applies to generated lines too. The hook and the "what carries over" paragraph may use R14 lines (G1 and G2), highlighted yellow in the review copy. Same layout specification as the resume (Part 10.9); build from it, not from an existing document. |
 | R14 | **Generated content (added 19 Oct 2026, Iman).** The resume may carry content the file does not state, so it reads as written for the product, within these rules. **Types.** G1 relevance line: links a recorded fact to what the product needs, its users or its language; it describes the practice and why it fits, and does not claim an effect of Iman's work. G2 implied practice: something the cited entry's own verbs imply but the file does not record (for example, an entry that says Iman set QA sample standards implies working with QA on test data). A G2 line must follow from a named ACH entry and be something Iman could say in an interview. **Marking.** Every G1 and G2 line is highlighted yellow in the review .docx, flagged `GEN`, and listed in the hand-over with its type, source ACH IDs and what Iman must confirm (true, reword or delete). **Limits.** (a) Never generate the classes in R1. (b) Never in the header, KPI strip, dates, Education or Earlier experience. (c) At most about a quarter of the bullets in the current role. (d) No outcome words ("so that", "resulting in", "reducing", "improving") unless the entry records that outcome. (e) Vendor-neutral wording; name a tool only where R9 allows. (f) A generated line never fills a hard gap (R12). **After review.** Approved lines stay in that one resume. They are not added to Parts 4 or 5 and are never treated as facts by later resumes. |
@@ -272,6 +272,19 @@ Scan this table first. Pick entries by Tags, Theme and Role, then read the full 
 | ACH-084 | Built taxonomy-aware test prompts for cluster selection evaluation | GenAI, evaluation and responsible AI | Sr PM, Indegene | #llm-evaluation #genai #knowledge-graph | High | `USE` |
 | ACH-085 | Defined parent–related claim hierarchy handling from the approved-content library | Product development and release management | PM to Sr PM, Indegene | #requirements #technical #knowledge-graph | High | `USE-SOFT` |
 | ACH-086 | Tracked upstream retrieval accuracy against product benchmark | GenAI, evaluation and responsible AI | Sr PM, Indegene | #llm-evaluation #stakeholder #knowledge-graph | High | `CONFIRM-FIRST` |
+| ACH-087 | Suite strategy: three workflows merged into one AI-native workflow | Ownership and business impact | Sr PM, Indegene | #vision #roadmap #gtm #genai #product-suite | Resume | `USE` |
+| ACH-088 | Conversational-AI product converting campaign goals into compliant assets | GenAI, evaluation and responsible AI | Sr PM, Indegene | #genai #architecture #requirements #ux | Resume | `USE` |
+| ACH-089 | Eight-agent RAG architecture: named stages | Technical depth | Sr PM, Indegene | #genai #architecture #technical #knowledge-graph | Resume | `USE` |
+| ACH-090 | Model selection framework, runtime model switching, generative UI | Technical depth | Sr PM, Indegene | #genai #technical #architecture #ux #requirements | Resume | `USE` |
+| ACH-091 | Veeva Vault and knowledge-graph integration points | Technical depth | Sr PM, Indegene | #technical #architecture #requirements #knowledge-graph | Resume | `USE` |
+| ACH-092 | Championed the explainability (XAI) practice across the commercial-content space | GenAI, evaluation and responsible AI | Sr PM, Indegene | #xai #responsible-ai #leadership #vision | Resume | `USE` |
+| ACH-093 | Pushed UX delivery of UI differentiators | Leadership and people | Sr PM, Indegene | #leadership #ux #stakeholder | Resume | `USE` |
+| ACH-094 | Claude-automated sprint performance tracking and risk flagging | AI tools and innovation | Sr PM, Indegene | #ai-tools #release-mgmt #backlog | Resume | `USE` |
+| ACH-095 | Stakeholder-management discipline across three client tracks | Stakeholder management | Sr PM, Indegene | #stakeholder #release-mgmt #exec-comms | Resume | `USE` |
+| ACH-096 | Indegene's first email and banner authoring web applications | Product Manager role, 2020 to 2025 | PM, Indegene | #0-to-1 #gtm #product-suite | Resume | `USE` |
+| ACH-097 | Port Community System for Indian ports | Earlier career, 2014 to 2020 | Consultant, EY | #consulting #digital-transformation #metrics | Resume | `USE` |
+| ACH-098 | Inventory optimisation model for Finland's largest coffee manufacturer | Earlier career, 2014 to 2020 | Sprintly Works | #consulting #analytics #technical #metrics | Resume | `USE` |
+| ACH-099 | Brand teams seeing cost savings rose from 15 to 22 in 2026 | Ownership and business impact | PM and Sr PM, Indegene | #metrics #gtm #roadmap | Resume | `USE` (conflict with ACH-070 — read the entry) |
 
 ---
 
@@ -1482,6 +1495,204 @@ Scan this table first. Pick entries by Tags, Theme and Role, then read the full 
   - **Wording:** "a US insurer", "personal auto, homeowners and commercial lines", "Guidewire ClaimCenter", "configuration developer", "change-management documentation", "worked with client IT". Never name the client.
   - **Do not claim:** policy administration, product-model, rating, underwriting-rule or form configuration; rate manuals, filings or underwriting guidelines; underwriters or actuaries as stakeholders; a Guidewire or insurance certification. None were stated. QA, not Iman, tested the work.
   - **VERIFY:** whether the configuration covered product definitions (coverages, rules) or only claims workflows; the migration's scale and outcome; the exact start and end dates; whether any Guidewire or insurance certification or training exists (not answered on 19 Oct 2026); whether "led" holds.
+
+---
+
+### 5.10 From Iman's finalised GPM resume (added 25 Nov 2026)
+
+**Source:** `Sample Resume/Iman Sadhu - Resume.docx`, Iman's own finalised Group PM resume, supplied 25 Nov 2026 as the approved standard for story writing. Every entry below is a line Iman wrote and approved about his own work, so confidence is **Resume** and the flag is `USE`. Added because a generated resume was found to be thinner than Iman's own: these facts existed only on the resume, not in this file, so no generated resume could use them (R1 forbids inventing them). Wording notes mark the few places where a claim needs care.
+
+#### ACH-087 | Suite strategy: three workflows merged into one AI-native workflow
+- **Role:** Senior Product Manager, Indegene
+- **Period:** Feb 2025 to Present
+- **Theme:** Ownership and business impact
+- **Tags:** #vision #roadmap #gtm #genai #product-suite
+- **Long:** Set the suite strategy: pull the suite out of the pre-GenAI world by merging three separate, effort-intensive product workflows into a single AI-native workflow, so that pharma brand teams with small marketing budgets can create their emails, banners and e-details at about half the effort it used to take to build each one by hand in a separate editor; this reduced engineering overhead and won buy-in and budget for three roadmaps.
+- **Short:** Merged three effort-intensive workflows into one AI-native workflow so small-budget brand teams build emails, banners and e-details at half the effort.
+- **Metrics:** 3 workflows merged into 1; about half the effort; 3 roadmaps funded.
+- **Confidence:** Resume (Iman's finalised GPM resume, 25 Nov 2026)
+- **Evidence:** Sample resume, "The strategy" row
+- **Flag:** `USE`
+- **Notes:**
+  - **Why it matters:** this is the clearest statement of Iman's product *thinking* (the bet, the before-and-after and who benefits) rather than a delivery fact. Lead the strategy row with it.
+  - **Wording:** "about half the effort" — the resume says "at half the effort it used to take"; keep the comparison to building each asset by hand in a separate editor. Do not convert it into a percentage time saving; that is ACH-066's separate 50% turnaround figure.
+  - **Overlap (R10):** the "three roadmaps" buy-in is ACH-065; use one or the other on a resume, or this entry for the strategy and ACH-065 for the stakeholder story.
+
+#### ACH-088 | Conversational-AI product converting campaign goals into compliant assets
+- **Role:** Senior Product Manager, Indegene
+- **Period:** Feb 2025 to Present
+- **Theme:** GenAI, evaluation and responsible AI
+- **Tags:** #genai #architecture #requirements #ux
+- **Long:** Built a conversational-AI driven product that converts pharma campaign goals into compliant emails, banners and e-details.
+- **Short:** Built a conversational-AI product that turns pharma campaign goals into compliant emails, banners and e-details.
+- **Metrics:** 3 asset types (email, banner, e-detail).
+- **Confidence:** Resume (finalised GPM resume, 25 Nov 2026)
+- **Evidence:** Sample resume, "What I built" row
+- **Flag:** `USE`
+- **Notes:**
+  - **Wording:** the resume writes "Conversation AI driven product"; write "conversational AI" on generated resumes. This is the plain-language description of what the product *is* — use it before the architecture bullets (ACH-089), which describe how it works.
+  - **Overlap (R10):** same system as ACH-071 and ACH-077.
+
+#### ACH-089 | Eight-agent RAG architecture: named stages
+- **Role:** Senior Product Manager, Indegene
+- **Period:** Feb 2025 to Present
+- **Theme:** Technical depth
+- **Tags:** #genai #architecture #technical #knowledge-graph
+- **Long:** Directed an eight-agent RAG architecture with engineering, spanning semantic-graph query, content retrieval and output generation.
+- **Short:** Directed an eight-agent RAG architecture with engineering: semantic-graph query, content retrieval, output generation.
+- **Metrics:** 8 agents; 3 named stages.
+- **Confidence:** Resume (finalised GPM resume, 25 Nov 2026); the agent count is corroborated by ACH-071
+- **Evidence:** Sample resume, "What I built" row; ACH-071 (EV-047, SRC-11)
+- **Flag:** `USE`
+- **Notes:**
+  - **Wording:** "with engineering" is required (R9): Iman owns the product decisions, engineering owns the build.
+  - **Use this phrasing** when a listing values architecture: naming the three stages is more credible than "an eight-agent flow".
+  - **Overlap (R10):** ACH-071 (the eight-agent design) and ACH-077 (the production architecture). Pick one per resume.
+
+#### ACH-090 | Model selection framework, runtime model switching and LLM-driven generative UI
+- **Role:** Senior Product Manager, Indegene
+- **Period:** Feb 2025 to Present
+- **Theme:** Technical depth
+- **Tags:** #genai #technical #architecture #ux #requirements
+- **Long:** Defined the model selection framework, runtime model switching, and a generative UI driven by the LLM response.
+- **Short:** Defined the model selection framework, runtime model switching and an LLM-driven generative UI.
+- **Metrics:** None
+- **Confidence:** Resume (finalised GPM resume, 25 Nov 2026)
+- **Evidence:** Sample resume, "What I built" row; related: ACH-059 (dynamic LLM-generated UI), ACH-077 (multi-model inference: GPT-4o, GPT-4o mini, GPT-5 mini)
+- **Flag:** `USE`
+- **Notes:**
+  - **Why it matters:** cost-and-capability model routing is a strong signal for AI-platform and AI-infrastructure roles. ACH-077 records the actual models, so the claim is corroborated.
+  - **Do not claim** a measured cost saving from model switching; none is recorded.
+
+#### ACH-091 | Veeva Vault and knowledge-graph integration points
+- **Role:** Senior Product Manager, Indegene
+- **Period:** Feb 2025 to Present
+- **Theme:** Technical depth
+- **Tags:** #technical #architecture #requirements #knowledge-graph
+- **Long:** Collaborated with Veeva on defining integration points with Veeva Vault and the upstream knowledge-graph.
+- **Short:** Defined Veeva Vault and upstream knowledge-graph integration points with Veeva.
+- **Metrics:** None
+- **Confidence:** Resume (finalised GPM resume, 25 Nov 2026)
+- **Evidence:** Sample resume, "What I built" row; related: ACH-081 (upstream retrieval integration contract)
+- **Flag:** `USE`
+- **Notes:**
+  - **R5 check:** Veeva is a named software vendor and partner, not a client, so it may appear on resumes. Client names stay aliased.
+  - **Wording:** "collaborated with Veeva on defining integration points" — not "integrated with Veeva" and not "partnered with Veeva" at company level.
+
+#### ACH-092 | Championed the explainability (XAI) practice across the commercial-content space
+- **Role:** Senior Product Manager, Indegene
+- **Period:** Feb 2025 to Present
+- **Theme:** GenAI, evaluation and responsible AI
+- **Tags:** #xai #responsible-ai #leadership #vision
+- **Long:** Championed the explainability (XAI) practice for all products in the commercial-content space at Indegene, beyond the two products owned directly.
+- **Short:** Championed the explainability (XAI) practice across all commercial-content products at Indegene.
+- **Metrics:** None (scope stated as the commercial-content space)
+- **Confidence:** Resume (finalised GPM resume, 25 Nov 2026)
+- **Evidence:** Sample resume, "The strategy" row; related: ACH-003, ACH-013
+- **Flag:** `USE`
+- **Notes:**
+  - **Why it matters:** this is influence beyond Iman's own products, which answers the "leading without authority" hiring-manager question (Part 10.1 Gate 5). ACH-003 is the feature; this entry is the practice.
+  - **Overlap (R10):** do not use with ACH-003 as two separate explainability claims; combine or choose.
+
+#### ACH-093 | Pushed UX delivery of UI differentiators
+- **Role:** Senior Product Manager, Indegene
+- **Period:** Feb 2025 to Present
+- **Theme:** Leadership and people
+- **Tags:** #leadership #ux #stakeholder
+- **Long:** Pushed the UI/UX team to deliver innovative UI differentiators.
+- **Short:** Pushed the UI/UX team to deliver UI differentiators.
+- **Metrics:** None
+- **Confidence:** Resume (finalised GPM resume, 25 Nov 2026)
+- **Evidence:** Sample resume, "How I delivered" row; related: ACH-033 (protecting UX delivery capacity)
+- **Flag:** `USE`
+- **Notes:**
+  - **Wording limit:** no differentiator is named and no outcome is recorded. Do not say which feature, and do not claim a competitive win.
+
+#### ACH-094 | Claude-automated sprint performance tracking and risk flagging
+- **Role:** Senior Product Manager, Indegene
+- **Period:** Feb 2025 to Present
+- **Theme:** AI tools and innovation
+- **Tags:** #ai-tools #release-mgmt #backlog
+- **Long:** Used Claude to automate sprint performance tracking and risk flagging.
+- **Short:** Automated sprint performance tracking and risk flagging with Claude.
+- **Metrics:** None
+- **Confidence:** Resume (finalised GPM resume, 25 Nov 2026)
+- **Evidence:** Sample resume, "How I delivered" row
+- **Flag:** `USE`
+- **Notes:**
+  - **Overlap (R10):** this is the resume wording for the same work as ACH-068 (Claude-powered Jira dashboard) and overlaps ACH-046 (sprint-risk intervention). Use one.
+  - **Wording limit (carried from ACH-068):** do not describe it as a multi-agent system or as generating user stories.
+
+#### ACH-095 | Stakeholder-management discipline across three client tracks
+- **Role:** Senior Product Manager, Indegene
+- **Period:** Feb 2025 to Present
+- **Theme:** Stakeholder management
+- **Tags:** #stakeholder #release-mgmt #exec-comms
+- **Long:** Maintained stakeholder-management discipline for three client tracks.
+- **Short:** Held stakeholder-management discipline across three client tracks.
+- **Metrics:** 3 client tracks.
+- **Confidence:** Resume (finalised GPM resume, 25 Nov 2026)
+- **Evidence:** Sample resume, "How I delivered" row
+- **Flag:** `USE`
+- **Notes:**
+  - **Number check:** the same resume says "four regions and four client tracks" in the delivery line and "3 client tracks" here, and ACH-001 and ACH-053 say four accounts or tracks. Both appear on Iman's own approved resume, so treat 3 as the stakeholder-discipline scope and 4 as the delivery scope. **VERIFY** with Iman, and never write both numbers for the same thing on one resume.
+
+#### ACH-096 | Indegene's first email and banner authoring web applications
+- **Role:** Product Manager, Indegene
+- **Period:** Jul 2020 to Jan 2025
+- **Theme:** Product Manager role, 2020 to 2025
+- **Tags:** #0-to-1 #gtm #product-suite
+- **Long:** Built Indegene's first email and banner authoring B2B web applications, serving pharma brand teams.
+- **Short:** Built Indegene's first email and banner authoring B2B web applications for brand teams.
+- **Metrics:** 2 applications; first of their kind at Indegene.
+- **Confidence:** Resume (finalised GPM resume, 25 Nov 2026)
+- **Evidence:** Sample resume, prior-role row
+- **Flag:** `USE`
+- **Notes:**
+  - **Why it matters:** "first at the company" is the strongest 0-to-1 framing available and sets up ACH-037 (0 to 30+ users). Lead the prior role with it.
+
+#### ACH-097 | Port Community System for Indian ports (EY Consultant)
+- **Role:** Consultant, EY India
+- **Period:** May 2017 to Dec 2018
+- **Theme:** Earlier career, 2014 to 2020
+- **Tags:** #consulting #digital-transformation #metrics
+- **Long:** Contributed to India's Ease of Doing Business rank improving from 100 to 77 through a Port Community System for Indian ports.
+- **Short:** Contributed to India's Ease of Doing Business rank 100 to 77 via a Port Community System for Indian ports.
+- **Metrics:** rank 100 to 77.
+- **Confidence:** Resume (finalised GPM resume, 25 Nov 2026)
+- **Evidence:** Sample resume, earlier-experience line
+- **Flag:** `USE`
+- **Notes:**
+  - **Supersedes the vaguer wording:** this names the programme behind ACH-041. Use this entry; keep ACH-041 as the same fact without the programme name.
+
+#### ACH-098 | Inventory optimisation model for Finland's largest coffee manufacturer (Sprintly Works)
+- **Role:** Strategy Consulting Manager, Sprintly Works, Finland
+- **Period:** Jan 2019 to May 2019
+- **Theme:** Earlier career, 2014 to 2020
+- **Tags:** #consulting #analytics #technical #metrics
+- **Long:** Built an inventory-optimisation model for Finland's largest coffee manufacturer, alongside generating EUR 28K of startup revenue (28% of annual) in 2.5 months.
+- **Short:** Built an inventory-optimisation model for Finland's largest coffee manufacturer.
+- **Metrics:** EUR 28K (28% of annual revenue) in 2.5 months; 97% inventory service levels (ACH-040).
+- **Confidence:** Resume (finalised GPM resume, 25 Nov 2026)
+- **Evidence:** Sample resume, earlier-experience line; ACH-040 (service levels, wastage, supplier renegotiation)
+- **Flag:** `USE`
+- **Notes:**
+  - **Client wording:** Iman's own resume names the client only as "Finland's biggest Coffee Manufacturer" (a category, not a company). ACH-040 says "a leading Nordic coffee manufacturer". Either is safe; prefer the resume wording.
+  - **Overlap (R10):** merge with ACH-040 into one earlier-experience line.
+
+#### ACH-099 | Brand teams seeing cost savings rose from 15 to 22 in 2026
+- **Role:** Product Manager and Senior Product Manager, Indegene
+- **Period:** 2022 to 2026
+- **Theme:** Ownership and business impact
+- **Tags:** #metrics #gtm #roadmap
+- **Long:** The number of brand teams seeing cost savings in marketing operations rose from 15 to 22 in 2026.
+- **Short:** Brand teams seeing marketing-operations cost savings rose from 15 to 22 in 2026.
+- **Metrics:** 15 to 22 brand teams (2026).
+- **Confidence:** Resume (finalised GPM resume, 25 Nov 2026)
+- **Evidence:** Sample resume, "Value generated via Products" row
+- **Flag:** `USE` — **but see the conflict below**
+- **Notes:**
+  - **CONFLICT TO RESOLVE (flagged 25 Nov 2026):** ACH-070 records the same 15-to-22 figure as **countries** with non-zero savings (from the client dashboards, SRC-10: 15, 19, 20, 22). This entry, from Iman's own resume, calls them **brand teams**. One of the two labels is wrong. Until Iman confirms which, write the figure only once on a resume and prefer the dashboard-sourced wording (ACH-070, "countries with savings"), or omit the figure. Never write both claims on one resume.
 
 ---
 

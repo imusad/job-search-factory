@@ -52,5 +52,5 @@
   "discovery": { "max_new_candidates_per_run": 40, "ats_retry_days": 14 },
   "excluded_hosts": ["naukri.com", "www.naukri.com", "indeed.com", "www.indeed.com", "glassdoor.com", "www.glassdoor.com", "ziprecruiter.com", "www.ziprecruiter.com", "dice.com", "www.dice.com", "coresignal.com", "brightdata.com"],
   "sheet": { "title": "Job Search Factory — Tracker", "drive_folder_name": "Job Search Factory", "applications_folder_name": "Applications", "max_jd_files": 600, "jd_retention_days": 120 },
-  "assets": { "resume_bullets_min": 20, "resume_bullets_max": 24, "resume_bullet_max_chars": 112, "linkedin_max_chars": 300, "deck_slides_min": 4, "deck_slides_max": 6, "deck_hook_lines": 5, "cover_letter_words_min": 250, "cover_letter_words_max": 380, "cover_letter_paragraphs_min": 4, "cover_letter_paragraphs_max": 6 }
+  "assets": { "resume_bullets_min": 20, "resume_bullets_max": 24, "resume_bullet_max_chars": 112, "resume_bullet_hard_max_chars": 215, "story_row_bullets_max": 5, "strategy_row_bullets_min": 4, "linkedin_max_chars": 300, "deck_slides_min": 4, "deck_slides_max": 6, "deck_hook_lines": 5, "cover_letter_words_min": 250, "cover_letter_words_max": 380, "cover_letter_paragraphs_min": 4, "cover_letter_paragraphs_max": 6 }
 }
