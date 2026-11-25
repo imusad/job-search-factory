@@ -43,7 +43,8 @@ npm test                  # 41 offline unit tests (TC-101..TC-707)
 npm run test:live         # live endpoint checks (network)
 npm run test:google       # Google integration (needs GOOGLE_* + OWNER_EMAIL env)
 npm run discover -- --no-google   # full discovery dry run without Sheet/email
-npm run oauth             # one-time: get a Google refresh token
+npm run oauth -- url      # Google sign-in link (works from iPad Safari)
+npm run oauth -- exchange <code>   # turn the code into a refresh token
 npm run assets:validate -- claude/assets.example.json
 ```
 

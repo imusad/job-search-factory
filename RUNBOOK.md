@@ -52,11 +52,18 @@ State lives in three places only: the GitHub repo (`data/`), the Google Sheet, a
 
 > Refresh tokens issued while the OAuth consent screen is in **Testing** mode expire after **7 days**. The app must be set to **In production** (see §8). Being unverified is fine for a single user.
 
-1. In Safari, open `myaccount.google.com` → **Security** → **Third-party apps with account access**. Remove "Job Search Factory" if it is listed.
-2. Get a new refresh token. You can do this from the iPad by starting a Claude Code cloud session on this repo and asking it to run `npm run oauth` with your client ID and secret. Open the URL it prints, approve, and copy the code from the redirect. Or, if the Mac is still available, run `GOOGLE_CLIENT_ID=… GOOGLE_CLIENT_SECRET=… npm run oauth` there.
-3. On GitHub, open the repo → **Settings** → **Secrets and variables** → **Actions** → **GOOGLE_REFRESH_TOKEN** → **Update**.
-4. Update the same value in the Claude cloud environment: claude.ai/code → Environments → "job-search-factory" → Environment variables.
-5. **Actions** → **Discovery** → **Run workflow** to confirm it works.
+Everything below is done on the iPad. No Mac is needed.
+
+1. In Safari, open `myaccount.google.com/permissions`. Remove "Job Search Factory" if it is listed.
+2. In the Claude iOS app, start a Claude Code cloud session on this repo, using the "job-search-factory" environment, which already holds `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET`. Ask it to run `npm run oauth -- url`.
+3. Open the link it prints in Safari and approve. If Google says **"Google hasn't verified this app"**, tap **Advanced** → **Go to Job Search Factory (unsafe)** → **Continue**. This is expected for your own app.
+4. Safari lands on `imusad.github.io/job-search-factory-site/oauth.html`, which shows a one-time code. Tap **Copy code**.
+5. Back in the session, ask it to run `npm run oauth -- exchange <paste code>`. The code expires within minutes, so do this straight away. It prints the new `GOOGLE_REFRESH_TOKEN` once.
+6. On GitHub, open the repo → **Settings** → **Secrets and variables** → **Actions** → **GOOGLE_REFRESH_TOKEN** → **Update**, and paste the token.
+7. Update the same value in the Claude cloud environment: claude.ai/code → Environments → "job-search-factory" → Environment variables.
+8. **Actions** → **Discovery** → **Run workflow** to confirm it works.
+
+> The OAuth client must be a **Web application** client whose **Authorized redirect URI** is exactly `https://imusad.github.io/job-search-factory-site/oauth.html`. A "Desktop app" client can't be used: its redirect goes to the device's own `127.0.0.1`, which neither an iPad nor a cloud session can receive.
 
 **Claude routine token** (the Apps Script log shows `HTTP 401`):
 1. claude.ai/code/routines → "JSF asset generation" → API trigger → **Regenerate token** (the old token stops working).
@@ -90,7 +97,7 @@ State lives in three places only: the GitHub repo (`data/`), the Google Sheet, a
 
 | Credential | Stored in | Used by | Refresh path (iPad) |
 |---|---|---|---|
-| `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET` | GitHub Secrets, plus the Claude environment's variables | Discovery, semantic scoring, assets | console.cloud.google.com → APIs & Services → Credentials |
+| `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET` | GitHub Secrets, plus the Claude environment's variables | Discovery, semantic scoring, assets, sign-in | console.cloud.google.com → Google Auth Platform → Clients ("Web application" client, redirect URI on the GitHub Pages site) |
 | `GOOGLE_REFRESH_TOKEN` | GitHub Secrets, plus the Claude environment's variables | Same | §4 |
 | `OWNER_EMAIL` | GitHub Secrets, plus the Claude environment's variables | Digest and confirmation emails | Edit the secret |
 | `ADZUNA_APP_ID`, `ADZUNA_APP_KEY` | GitHub Secrets | Discovery (aggregator) | developer.adzuna.com |
