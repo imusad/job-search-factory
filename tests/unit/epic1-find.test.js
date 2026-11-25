@@ -37,7 +37,7 @@ test('TC-102 visa register: exact legal-name match, substring rejected, 24h cach
   assert.equal(isSponsor(set, 'Deloitte'), false, 'substring must not match');
   const [c] = applyVisaFlags([{ name: 'Stripe', uk_legal_names: ['Stripe Payments UK Ltd'] }], set);
   assert.equal(c.visa_sponsor, true);
-  const f = new URL('../fixtures/fresh.csv', import.meta.url).pathname; fs.writeFileSync(f, 'x');
+  const f = `${fs.mkdtempSync('/tmp/jsf-')}/fresh.csv`; fs.writeFileSync(f, 'x');
   assert.equal(isStale(f), false, 'fresh cache → no re-download');
   assert.equal(isStale(f, Date.now() + 25 * 3600e3), true, '>24h → re-download');
   assert.equal(isStale('/nonexistent'), true);
