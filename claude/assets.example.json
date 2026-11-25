@@ -380,7 +380,7 @@
       "P5: ACH-043 (software engineer), ACH-048 (raw API payloads) — 'still analyse' is G2 wording; confirm"
     ]
   },
-  "linkedin_message": "Cloudflare's 18 Nov Java4Shell rules ship in Log by default — that Log-to-Block call is close to a problem I own in pharma AI: which agent outputs are safe to ship vs. hold. Built 60 deterministic tests for it. Curious how your team thinks about that threshold for WAF customers.",
+  "linkedin_message": "Hi, really interested in the work Cloudflare is doing in zero-day protection — shipping managed rules within hours of disclosure for 20% of the web is a genuinely hard product problem. Would love to connect.",
   "linkedin_target": [
     "First choice: the hiring manager. On LinkedIn search \"Cloudflare\" with \"Director, Product Management\" or \"Head of Product\" plus \"Application Security\" or \"WAF\".",
     "Second choice: a Product Manager on Cloudflare's WAF / Application Security team. They live the Log-to-Block problem and are likely to reply to a specific question.",

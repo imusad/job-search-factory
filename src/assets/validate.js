@@ -3,10 +3,10 @@ import fs from 'node:fs';
 import { readJson, settings, p } from '../lib/config.js';
 import { matchesTerm, firstMatch } from '../lib/match.js';
 
-export const SUPERLATIVES = ['amazing', 'incredible', 'awesome', 'fantastic', 'outstanding', 'exceptional', 'phenomenal', 'revolutionary', 'world-class', 'best-in-class', 'brilliant', 'stellar', 'unparalleled', 'impressive', 'love', 'huge fan', 'admire', 'passionate'];
+export const SUPERLATIVES = ['amazing', 'incredible', 'awesome', 'fantastic', 'outstanding', 'exceptional', 'phenomenal', 'revolutionary', 'world-class', 'best-in-class', 'brilliant', 'stellar', 'unparalleled', 'impressive', 'huge fan', 'admire', 'passionate'];
 export const ASKS = ['referral', 'refer me', 'refer', 'open role', 'open position', 'any openings', 'job opening', 'hiring manager', 'quick call', 'hop on a call', 'coffee', 'minutes of your time', 'your time', 'chat sometime', 'set up a call', 'apply', 'applied', 'resume', 'cv'];
 // Stock phrases that make a note read as a template (owner feedback, 25 Nov 2026: "generic and pathetic").
-export const GENERIC_NOTE = ['glad to connect', 'love to connect', 'keen to connect', 'happy to connect', 'would like to connect', "let's connect", 'lets connect', 'expand my network', 'grow my network', 'i came across', 'came across your', 'reaching out', 'problem space', 'synergy', 'pick your brain', 'your profile', 'great work', 'similar interests', 'like-minded', 'i am writing', 'hope this finds you', 'close to mine'];
+export const GENERIC_NOTE = ['glad to connect', 'keen to connect', 'happy to connect', "let's connect", 'lets connect', 'expand my network', 'grow my network', 'i came across', 'came across your', 'reaching out', 'problem space', 'synergy', 'pick your brain', 'your profile', 'great work', 'similar interests', 'like-minded', 'i am writing', 'hope this finds you', 'close to mine'];
 // Cover-letter clichés (owner feedback: it must read like a letter, not a list of resume points).
 export const LETTER_CLICHES = ['i am writing to express', 'i am excited to apply', 'perfect fit', 'ideal candidate', 'dream job', 'team player', 'hit the ground running', 'proven track record', 'passionate about', 'i believe i would be'];
 
