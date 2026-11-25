@@ -14,8 +14,8 @@
       "\\bprincipal\\s+product\\s+manager\\b",
       "\\blead\\s+product\\s+manager\\b",
       "\\bproduct\\s+lead\\b",
-      "\\bdirector,?\\s+(of\\s+)?product(\\s+management)?\\b",
-      "\\bhead\\s+of\\s+product\\b"
+      "\\bdirector,?\\s+(of\\s+)?product(\\s+management)?\\b(?!\\s+(design|designer|marketing|engineering|operations|analytics|data|support|sales|research))",
+      "\\bhead\\s+of\\s+product\\b(?!\\s+(design|designer|marketing|engineering|operations|analytics|data|support|sales|research))"
     ],
     "exclude_terms": ["intern", "internship", "junior", "apm"],
     "pm_count_pattern": "\\bproduct\\s+(manager|lead|director)\\b|\\b(director|head)\\s+of\\s+product\\b"

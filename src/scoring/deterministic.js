@@ -15,6 +15,8 @@ export function vetoReason(listing, cfg = settings()) {
 
 export const isHomeCountry = (loc, cfg = settings()) => cfg.owner.home_countries.some((c) => new RegExp(`\\b${c}\\b|\\b(bangalore|bengaluru|hyderabad|pune|mumbai|delhi|gurgaon|gurugram|noida|chennai)\\b`, 'i').test(loc || ''));
 
+export const isUkLocation = (loc) => /\b(uk|united kingdom|england|scotland|wales|london|manchester|edinburgh|cambridge|oxford|bristol|leeds|glasgow|belfast)\b/i.test(loc || '');
+
 /**
  * @param l listing with work_model, company signals {velocity, visa_sponsor, funding_stage, layoff_recent, hiring_freeze, financial_score}
  * @param ranges {velocity:{min,max}} computed across the run for min-max normalisation
@@ -26,7 +28,8 @@ export function phase1Score(l, ranges, cfg = settings()) {
   const c = {
     work_model: normalise(wmPoints[l.work_model] ?? 0, 0, maxWm),
     velocity: normalise(l.velocity ?? 0, ranges.velocity.min, ranges.velocity.max),
-    visa: l.visa_sponsor || isHomeCountry(l.hiring_location, cfg) ? 1 : 0,
+    // UK register data only says something about UK roles; home-country roles need no visa
+    visa: isHomeCountry(l.hiring_location, cfg) || (l.visa_sponsor && isUkLocation(l.hiring_location)) ? 1 : 0,
     funding: cfg.funding_stage_scores[l.funding_stage || 'unknown'] ?? 0,
     layoff: l.layoff_recent || l.hiring_freeze ? 0 : 1,
     financial: l.financial_score ?? 0,

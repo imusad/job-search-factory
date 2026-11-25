@@ -25,7 +25,9 @@ export function timeToClear({ pendingApprovals = 0, assetsToReview = 0 }, m = se
 export function digestEmail(s) {
   const mins = timeToClear(s);
   const stat = (n, label, color = '#0B2545') => `<td width="33%" align="center" style="padding:8px;"><div style="font-size:28px;font-weight:bold;color:${color};">${n}</div><div style="font-size:13px;color:#555;">${esc(label)}</div></td>`;
-  const failures = s.failures?.length ? row(`<div style="background:#fdecea;border-left:4px solid #c0392b;padding:10px 12px;"><b>${s.failures.length} source(s) failed this run</b><br>${s.failures.slice(0, 8).map((f) => `${esc(f.source)}: ${esc(f.error)}`).join('<br>')}</div>`) : '';
+  const notConfigured = (s.failures || []).filter((f) => /not configured/i.test(f.error));
+  const realFailures = (s.failures || []).filter((f) => !/not configured/i.test(f.error));
+  const failures = realFailures.length ? row(`<div style="background:#fdecea;border-left:4px solid #c0392b;padding:10px 12px;"><b>${realFailures.length} source(s) failed this run</b><br>${realFailures.slice(0, 8).map((f) => `${esc(f.source)}: ${esc(f.error)}`).join('<br>')}</div>`) : '';
   const fatal = s.fatal ? row(`<div style="background:#fdecea;border-left:4px solid #c0392b;padding:10px 12px;"><b>The run failed:</b> ${esc(s.fatal)}<br>Open the GitHub Actions log: ${s.runUrl ? `<a href="${esc(s.runUrl)}">${esc(s.runUrl)}</a>` : 'Actions tab'}</div>`) : '';
   const top = (s.top || []).slice(0, 5).map((l) => `<tr><td style="padding:6px 0;border-bottom:1px solid #eee;font-size:14px;"><b>${esc(l.title)}</b> · ${esc(l.employer)}<br><span style="color:#555;">${esc(l.work_model)} · ${esc(l.hiring_location).slice(0, 60)} · score ${Number(l.total_score).toFixed(2)}</span></td></tr>`).join('');
   return {
@@ -36,6 +38,8 @@ export function digestEmail(s) {
       row(`<b>Estimated time to clear: ~${mins} minutes</b><br><span style="color:#555;font-size:13px;">${s.pendingApprovals} approval decisions × 1 min + ${s.assetsToReview} asset sets × 8 min (3 resume review + 1 message review + 4 application)</span>`),
       top ? row(`<b>Top new listings</b><table role="presentation" width="100%">${top}</table>`) : '',
       failures,
+      notConfigured.length ? row(`<span style="color:#888;font-size:12px;">Not set up yet (optional): ${notConfigured.map((f) => esc(f.source)).join(', ')}</span>`) : '',
+      s.backlog > s.pendingApprovals ? row(`<span style="color:#555;font-size:13px;">Older backlog: ${s.backlog} undecided rows above threshold in the tracker. Optional; not counted in today's time.</span>`) : '',
       row(s.sheetUrl ? button(s.sheetUrl, 'Open tracker') : 'Tracker link unavailable'),
       row(`<span style="color:#888;font-size:12px;">Run ${esc(s.runAt)} · ${s.totalFetched ?? 0} listings fetched from ${s.sourcesOk ?? 0} sources · ${s.matched ?? 0} matched target titles</span>`),
     ].join('')),

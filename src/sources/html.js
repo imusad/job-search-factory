@@ -48,7 +48,6 @@ export const HTML_BOARDS = {
   shine: 'https://www.shine.com/job-search/senior-product-manager-jobs',
   wellfound: 'https://wellfound.com/role/product-manager',
   builtin: 'https://builtin.com/jobs/product?search=senior%20product%20manager',
-  simplyhired: 'https://www.simplyhired.com/search?q=senior+product+manager',
 };
 
 export const htmlBoards = Object.fromEntries(Object.entries(HTML_BOARDS).map(([name, url]) => [name, async (titleFilter) => {

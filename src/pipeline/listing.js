@@ -1,13 +1,19 @@
 // JSF-111: canonical listing object. Every source adapter must return objects built here.
-import { stripHtml, isoDate } from '../lib/normalize.js';
+import { stripHtml, isoDate, decodeEntities } from '../lib/normalize.js';
+
+/** Plain one-line text: no tags, entities or location glyphs leaking in from RSS/HTML sources. */
+export function cleanText(s) {
+  const t = stripHtml(decodeEntities(String(s || ''))).replace(/\u00a0/g, ' ');
+  return t.split(/\n|[⚲📍|•]/)[0].replace(/\s+/g, ' ').trim();
+}
 
 export const REQUIRED_FIELDS = ['application_url', 'title', 'employer', 'hiring_location', 'posting_date', 'first_seen_date', 'full_description'];
 export const NON_NULL_FIELDS = ['title', 'employer', 'application_url'];
 
 export function makeListing({ title, employer, url, location, posted, description, descriptionHtml, source, ats = null, remoteHint = null, raw_id = null }) {
   return {
-    title: (title || '').trim(),
-    employer: (employer || '').trim(),
+    title: cleanText(title),
+    employer: cleanText(employer),
     application_url: url || '',
     hiring_location: (Array.isArray(location) ? location.filter(Boolean).join(', ') : location || '').trim() || 'Unspecified',
     posting_date: isoDate(posted),

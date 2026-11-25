@@ -169,7 +169,10 @@ async function publishToGoogle(ranked, summary) {
   summary.sheetUrl = googleConfig().sheet_url || `https://docs.google.com/spreadsheets/d/${sheetId}`;
   const rows = await readRows(sheetId);
   const th = settings().thresholds;
-  summary.pendingApprovals = rows.filter((x) => !x.obj.approval && Number(x.obj.total_score) >= th.above_threshold_phase1).length;
+  // Daily workload = today's new above-threshold rows still undecided (the older backlog is optional browsing)
+  const dayAgo = new Date(Date.now() - 864e5).toISOString().slice(0, 10);
+  summary.pendingApprovals = rows.filter((x) => !x.obj.approval && Number(x.obj.total_score) >= th.above_threshold_phase1 && String(x.obj.first_seen_date) >= dayAgo).length;
+  summary.backlog = rows.filter((x) => !x.obj.approval && Number(x.obj.total_score) >= th.above_threshold_phase1).length;
   summary.assetsToReview = rows.filter((x) => x.obj.assets_generated && Date.now() - new Date(x.obj.assets_generated) < 864e5).length;
   summary.pendingActions = summary.pendingApprovals + summary.assetsToReview;
 }

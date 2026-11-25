@@ -71,7 +71,6 @@ export const jsonBoards = {
 const RSS = {
   weworkremotely: 'https://weworkremotely.com/categories/remote-product-jobs.rss',
   jobspresso: 'https://jobspresso.co/feed/?post_type=job_listing',
-  nodesk: 'https://nodesk.substack.com/feed',
 };
 
 export function parseRss(xml, source) {
