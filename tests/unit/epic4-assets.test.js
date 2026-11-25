@@ -71,7 +71,7 @@ test('TC-402 resume: bullets 20–24, ACH-traced, R5, story spine, keyword echo,
   terse.story_rows.find((r) => /strateg/i.test(r.label)).bullets.forEach((b) => { b.text = 'Won **buy-in** for three roadmaps.'; });
   assert.match(validateResume(terse).join(), /two-line bullet that states the bet/);
   const fat = structuredClone(a.resume);
-  fat.story_rows[3].bullets = [...fat.story_rows[3].bullets, ...fat.story_rows[3].bullets].slice(0, 7);
+  fat.story_rows[3].bullets = [...fat.story_rows[3].bullets, ...fat.story_rows[3].bullets, ...fat.story_rows[3].bullets].slice(0, 7);
   assert.match(validateResume(fat).join(), /has 7 bullets \(max 5/);
   const tooLong = structuredClone(a.resume); tooLong.story_rows[0].bullets[0].text += ' and then a great many more words indeed, so that this single bullet spills well past the two-line budget and keeps on going past it';
   assert.match(validateResume(tooLong).join(), /over two lines/);

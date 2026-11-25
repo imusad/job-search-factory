@@ -109,7 +109,7 @@
         "label": "The strategy",
         "bullets": [
           {
-            "text": "My strategy was to merge three separate, effort-intensive product workflows into a single **AI-native workflow**, pulling the suite out of the pre-GenAI world.",
+            "text": "Merged three separate, effort-intensive product workflows into a single **AI-native workflow**, pulling the suite out of the pre-GenAI world.",
             "ach": [
               "ACH-087"
             ],
@@ -119,7 +119,7 @@
             "rank": 3
           },
           {
-            "text": "Pharma brand teams with small marketing budgets could then create emails, banners and e-details at **half the effort** it used to take to build each one by hand in a separate editor.",
+            "text": "Pharma brand teams with small marketing budgets could create emails, banners and e-details at **half the effort** it used to take to build each one by hand.",
             "ach": [
               "ACH-087"
             ],
@@ -129,7 +129,7 @@
             "rank": 4
           },
           {
-            "text": "Reduced engineering overhead and won buy-in and budget for **three roadmaps** through market assessment and competitive benchmarking.",
+            "text": "Won buy-in and budget for **three roadmaps** through market assessment and competitive benchmarking.",
             "ach": [
               "ACH-087",
               "ACH-065"
@@ -210,7 +210,7 @@
         "label": "How I made it trustworthy",
         "bullets": [
           {
-            "text": "Scoped **deterministic testing** agent by agent: 60 tests across retrieval, agent decisions, flow and safety, separating what must never vary from where LLM variance is measured.",
+            "text": "Scoped **deterministic testing** agent by agent: 60 tests across retrieval, flow and safety.",
             "ach": [
               "ACH-044"
             ],
@@ -238,17 +238,6 @@
             "flag": "USE",
             "requirement": "False-positive management",
             "rank": 17
-          },
-          {
-            "text": "Built **prompt-injection** and red-team cases into the safety tests, with every agent decision traced and replayable in Langfuse.",
-            "ach": [
-              "ACH-011",
-              "ACH-013"
-            ],
-            "type": "Fact",
-            "flag": "USE",
-            "requirement": "Security testing, auditability",
-            "rank": 18
           }
         ]
       },
@@ -263,7 +252,7 @@
             "type": "Fact",
             "flag": "USE",
             "requirement": "Cross-functional leadership",
-            "rank": 19
+            "rank": 18
           },
           {
             "text": "Held a customer announcement until a **template-breakage risk** was confirmed after a library change.",
@@ -273,7 +262,7 @@
             "type": "Fact",
             "flag": "USE",
             "requirement": "Customer communications in incidents",
-            "rank": 20
+            "rank": 21
           },
           {
             "text": "Ran **release gating** across Product, Engineering, QA and Business for two email releases.",
@@ -283,7 +272,7 @@
             "type": "Fact",
             "flag": "USE",
             "requirement": "Rollout governance",
-            "rank": 21
+            "rank": 22
           },
           {
             "text": "Used Claude to automate **sprint performance tracking** and risk flagging.",
@@ -293,7 +282,7 @@
             "type": "Fact",
             "flag": "USE",
             "requirement": "AI-native curiosity",
-            "rank": 22
+            "rank": 23
           }
         ]
       },
@@ -308,7 +297,7 @@
             "type": "Fact",
             "flag": "USE",
             "requirement": "Leadership",
-            "rank": 24
+            "rank": 19
           },
           {
             "text": "Coached PMs on **problem-first discovery**, P1 to P4 prioritisation and PRD sign-off.",
@@ -318,7 +307,7 @@
             "type": "Fact",
             "flag": "USE",
             "requirement": "Discovery and prioritisation",
-            "rank": 25
+            "rank": 20
           }
         ]
       }
@@ -391,7 +380,7 @@
       "P5: ACH-043 (software engineer), ACH-048 (raw API payloads) — 'still analyse' is G2 wording; confirm"
     ]
   },
-  "linkedin_message": "Cloudflare's 18 Nov Java4Shell rules shipped in Log mode to limit false positives, so each customer makes the Log-to-Block call. I make a version of that call for production LLM agents in pharma: what must never vary, what gets measured, 60 tests to prove it. How do customers decide when to block?",
+  "linkedin_message": "Cloudflare's 18 Nov Java4Shell rules ship in Log by default — that Log-to-Block call is close to a problem I own in pharma AI: which agent outputs are safe to ship vs. hold. Built 60 deterministic tests for it. Curious how your team thinks about that threshold for WAF customers.",
   "linkedin_target": [
     "First choice: the hiring manager. On LinkedIn search \"Cloudflare\" with \"Director, Product Management\" or \"Head of Product\" plus \"Application Security\" or \"WAF\".",
     "Second choice: a Product Manager on Cloudflare's WAF / Application Security team. They live the Log-to-Block problem and are likely to reply to a specific question.",
