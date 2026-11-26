@@ -38,7 +38,7 @@ test('TC-103 live: YC + HN + Product Hunt nominate companies with tiers', { time
 });
 
 test('TC-105 live: Adzuna and JSearch endpoints respond (401/403 without key)', { timeout: 60000 }, async () => {
-  for (const [url, ok] of [['https://api.adzuna.com/v1/api/jobs/in/search/1?app_id=test&app_key=test&what=product', [401, 400, 403]], ['https://jsearch.p.rapidapi.com/search?query=product', [401, 403]]]) {
+  for (const [url, ok] of [['https://api.adzuna.com/v1/api/jobs/in/search/1?app_id=test&app_key=test&what=product', [401, 400, 403]], ['https://jsearch.p.rapidapi.com/search-v2?query=product', [401, 403]]]) {
     try { await http(url, { headers: { 'X-RapidAPI-Key': 'test' }, retries: 0 }); assert.fail('expected auth error'); }
     catch (e) { console.log(`  ${new URL(url).host}: HTTP ${e.status}`); assert.ok(e instanceof HttpError && ok.includes(e.status), `status ${e.status}`); }
   }

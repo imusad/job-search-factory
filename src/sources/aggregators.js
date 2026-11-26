@@ -17,10 +17,11 @@ export async function adzunaSearch(query, country = 'in') {
 
 export async function jsearchSearch(query) {
   const key = env('JSEARCH_API_KEY', true);
-  const d = await http(`https://jsearch.p.rapidapi.com/search?query=${encodeURIComponent(query)}&page=1&num_pages=1&date_posted=month`, {
+  // JSearch v5 retired /search (404); /search-v2 nests results under data.jobs
+  const d = await http(`https://jsearch.p.rapidapi.com/search-v2?query=${encodeURIComponent(query)}&num_pages=1&date_posted=month`, {
     headers: { 'X-RapidAPI-Key': key, 'X-RapidAPI-Host': 'jsearch.p.rapidapi.com' }, tag: 'jsearch',
   });
-  return (d.data || []).map((j) => makeListing({
+  return (d.data?.jobs || []).map((j) => makeListing({
     title: j.job_title, employer: j.employer_name, url: j.job_apply_link || j.job_google_link,
     location: [j.job_city, j.job_state, j.job_country].filter(Boolean).join(', ') || (j.job_is_remote ? 'Remote' : ''),
     posted: j.job_posted_at_datetime_utc, description: j.job_description, source: `jsearch:${(j.job_publisher || 'google').toLowerCase()}`,
