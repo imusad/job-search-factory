@@ -1,5 +1,5 @@
 {
-  "runAt": "2026-11-26T05:55:31.713Z",
+  "runAt": "2026-11-26T06:10:29.680Z",
   "failures": [
     {
       "source": "adzuna",
@@ -19,87 +19,87 @@
     "workingnomads": 0,
     "arbeitnow": 21,
     "jobspresso": 2,
+    "himalayas": 1,
+    "ycjobs": 24,
     "remoteok": 4,
     "mindtheproduct": 5,
-    "weworkremotely": 24,
-    "ycjobs": 24,
-    "aijobs": 0,
+    "weworkremotely": 26,
     "welcometothejungle": 0,
-    "hirist": 0,
     "foundit": 0,
-    "wellfound": 31,
+    "lennysjobs": 0,
+    "aijobs": 0,
+    "wellfound": 26,
     "builtin": 2,
     "iimjobs": 0,
+    "hirist": 0,
     "shine": 6,
-    "lennysjobs": 0,
-    "himalayas": 1,
-    "instahyre": 7,
+    "instahyre": 14,
     "jsearch": 25
   },
   "sponsorRows": 142855,
   "atsDetection": {
-    "companies": 96,
+    "companies": 89,
     "detected": 89,
-    "ms": 836
+    "ms": 0
   },
-  "totalFetched": 715,
-  "corpus": 14778,
+  "totalFetched": 719,
+  "corpus": 14776,
   "sourcesOk": 28,
   "invalid": 0,
-  "matched": 344,
-  "dedupRemoved": 68,
-  "newListings": 26,
-  "aboveThreshold": 1,
+  "matched": 349,
+  "dedupRemoved": 69,
+  "newListings": 7,
+  "aboveThreshold": 0,
   "top": [
     {
-      "id": "b8b953e7fa15",
-      "title": "Senior Product Manager, Enterprise Security Technology",
-      "employer": "Salesforce",
-      "total_score": 0.3
-    },
-    {
-      "id": "ec3c3bebc14c",
-      "title": "Senior Product Manager I, Expert Apply",
-      "employer": "BOLD",
+      "id": "f6aec04646ba",
+      "title": "Senior Product Manager I (Remote Eligible)",
+      "employer": "Smartsheet",
       "total_score": 0.23
     },
     {
-      "id": "76d8914ae40b",
+      "id": "b5a4527ef54e",
       "title": "Senior Product Manager",
-      "employer": "Everyday Speech",
-      "total_score": 0.23
+      "employer": "Locus.sh",
+      "total_score": 0.18
     },
     {
-      "id": "5ece648adc47",
-      "title": "Remote AI Product Manager: LLMs, MLOps & Governance",
-      "employer": "bounteous",
-      "total_score": 0.23
+      "id": "d72d8f7168b2",
+      "title": "Sr. Product Manager - B2B",
+      "employer": "Arintra",
+      "total_score": 0.18
     },
     {
-      "id": "fdf32dafe07a",
-      "title": "Senior Product Manager: Patient Engagement & AI",
-      "employer": "Equip Health",
-      "total_score": 0.23
+      "id": "3cc5466c3d37",
+      "title": "Senior Product Manager - 529 Prepaid",
+      "employer": "Full-time",
+      "total_score": 0.08
+    },
+    {
+      "id": "5c426791ccaa",
+      "title": "Senior Product Manager - Pharmaceutical Marketing - Senior Group Product Manager",
+      "employer": "APS",
+      "total_score": 0.08
     }
   ],
   "shortlist": 50,
   "sheet": {
-    "appended": 26,
-    "updated": 250
+    "appended": 7,
+    "updated": 273
   },
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1dxIxAi75S5kD8xsK5Y5qHbvpb8MG-_AGWympFldp_v4",
-  "pendingApprovals": 94,
-  "backlog": 94,
+  "pendingApprovals": 73,
+  "backlog": 73,
   "assetsToReview": 1,
-  "pendingActions": 95,
+  "pendingActions": 74,
   "stageMs": {
-    "visa": 2419,
-    "company_discovery": 1410,
-    "ats_fetch": 26096,
-    "boards": 15742,
-    "signals": 2567,
-    "google": 3059
+    "visa": 1065,
+    "company_discovery": 58,
+    "ats_fetch": 12887,
+    "boards": 10916,
+    "signals": 1091,
+    "google": 3468
   },
-  "durationMs": 51295,
-  "requests": 665
+  "durationMs": 29532,
+  "requests": 297
 }
