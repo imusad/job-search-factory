@@ -3,7 +3,7 @@
 // name, EAF0F6 label fill, C9D3DD borders, two-column story table (1417 / 9625 twips), real Word bullets with a hanging
 // indent, "Title | Company | Years:" lead-ins for earlier roles. Generated lines (R14 G1/G2) are highlighted yellow in the
 // review copy only; the clean copy (used for the PDF) has no highlights.
-import { Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell, WidthType, ShadingType, AlignmentType, BorderStyle, TableLayoutType, PageOrientation, LevelFormat } from 'docx';
+import { Document, Packer, Paragraph, TextRun, HeadingLevel, Table, TableRow, TableCell, WidthType, ShadingType, AlignmentType, BorderStyle, TableLayoutType, PageOrientation, LevelFormat } from 'docx';
 
 const NAVY = '0B2545'; const HEADLINE = '1F4E79'; const LABEL_FILL = 'EAF0F6'; const BORDER = 'C9D3DD'; const MUTED = '333333';
 const A4 = { width: 11906, height: 16838, orientation: PageOrientation.PORTRAIT };
@@ -82,8 +82,9 @@ function earlierLine(e) {
   return new Paragraph({ spacing: { before: 20 }, children: [...kids, ...rich(text)] });
 }
 
-/** @param review true → yellow highlight on generated (G1/G2) lines; false → clean copy for the PDF. */
-export function resumeDoc(r, { review = false } = {}) {
+/** @param padLines fit test only: reserve this many blank lines (page_safety_lines).
+ * @param review true → yellow highlight on generated (G1/G2) lines; false → clean copy for the PDF. */
+export function resumeDoc(r, { review = false, padLines = 0 } = {}) {
   const children = [
     ...header(r),
     sectionBar('Summary'), new Paragraph({ spacing: { before: 0, after: 0 }, children: rich(r.summary) }),
@@ -101,6 +102,42 @@ export function resumeDoc(r, { review = false } = {}) {
   children.push(sectionBar('Earlier experience and education'));
   for (const e of r.earlier || []) children.push(earlierLine(e));
   if (r.education) children.push(new Paragraph({ spacing: { before: 20 }, children: [run('Education:  ', { bold: true, color: NAVY }), run(r.education)] }));
+  // Fit test only (R8): blank 10 pt lines that reserve a safety margin, so the page still holds in Word, Pages and Google Docs.
+  for (let i = 0; i < padLines; i++) children.push(new Paragraph({ spacing: { before: 0, after: 0 }, children: [run('\u00A0')] }));
+  return page(children);
+}
+
+/**
+ * ATS file (R16, added 26 Nov 2026): the same content as the designed resume, built for applicant-tracking parsers.
+ * One column, no tables, text boxes, shading, images, headers or footers; contact line in the body; real headings
+ * (Summary, Skills, Experience, Education) and real list bullets. Same bullets as the designed resume, so no keyword
+ * appears here that is absent from it.
+ */
+export function resumeAtsDoc(r) {
+  const H = (t) => new Paragraph({ heading: HeadingLevel.HEADING_2, spacing: { before: 140, after: 40 }, children: [run(t, { bold: true, size: 11, color: '000000' })] });
+  const line = (kids, o = {}) => new Paragraph({ spacing: { before: o.before ?? 20, after: 0 }, children: kids });
+  const bullet = (b) => new Paragraph({ numbering: { reference: 'jsf-bullet', level: 0 }, children: rich(typeof b === 'string' ? b : b.text) });
+  const role = (x) => line([run([x.title, x.company, x.dates].join(SEP), { bold: true })], { before: 80 });
+  const children = [
+    new Paragraph({ children: [run(String(r.name).toUpperCase(), { bold: true, size: 15 })] }),
+    line([run(r.headline, { bold: true })]),
+    line([run(r.contact, { size: 10 })]),
+    H('Summary'), new Paragraph({ children: rich(r.summary) }),
+    H('Impact at a glance'),
+    ...(r.kpis || []).map((k) => line([run(`${k.figure}: `, { bold: true }), run(String(k.caption).replace(/\s*\n\s*/g, ', '))])),
+    H('Skills'), ...(r.skills || []).map((s) => line([run(`${s.label}: `, { bold: true }), run(s.text)])),
+    H('Experience'), role(r.role_line),
+    ...(r.role_line.context ? [line([run(r.role_line.context, { italics: true })])] : []),
+  ];
+  for (const row of r.story_rows || []) { children.push(line([run(row.label, { bold: true })], { before: 60 })); children.push(...row.bullets.map(bullet)); }
+  if (r.prior_role) {
+    children.push(role(r.prior_role));
+    if (r.prior_role.label) children.push(line([run(r.prior_role.label, { bold: true })], { before: 40 }));
+    children.push(...r.prior_role.bullets.map(bullet));
+  }
+  children.push(H('Earlier experience'));
+  for (const e of r.earlier || []) children.push(line([run(`${(e.lead || '').split(/\s*\|\s*/).join(SEP)}: `, { bold: true }), run(e.text || String(e))]));
+  children.push(H('Education'), new Paragraph({ children: [run(r.education || '')] }));
   return page(children);
 }
 

@@ -1,5 +1,6 @@
 // Deterministic guardrails for Claude-generated assets. Publishing refuses anything that fails here.
 import fs from 'node:fs';
+import path from 'node:path';
 import { readJson, settings, p } from '../lib/config.js';
 import { matchesTerm, firstMatch } from '../lib/match.js';
 
@@ -122,9 +123,65 @@ export function validateInfoSheet(s) {
   return e;
 }
 
-export function validateAssets(a) {
+/** Every visible resume string in one lowercase blob (what an ATS reads): headline, summary, tiles, skills, rows, roles. */
+export function resumeText(r = {}) {
+  const parts = [r.headline, r.summary, ...(r.kpis || []).map((k) => `${k.figure} ${k.caption}`),
+    ...(r.skills || []).map((s) => `${s.label} ${s.text}`), r.role_line?.title, r.role_line?.context,
+    ...(r.story_rows || []).flatMap((row) => [row.label, ...(row.bullets || []).map((b) => b.text)]),
+    r.prior_role?.title, r.prior_role?.label, ...(r.prior_role?.bullets || []).map((b) => b.text),
+    ...(r.earlier || []).map((e) => (typeof e === 'string' ? e : `${e.lead} ${e.text}`)), r.education];
+  return plain(parts.filter(Boolean).join(' \n ')).toLowerCase();
+}
+/** Whole-phrase, case-insensitive match; never inside another word (an ATS matches phrases, not fragments). */
+export const hasTerm = (hay, term) => new RegExp(`(?<![a-z0-9])${String(term).toLowerCase().replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}(?![a-z0-9])`).test(hay);
+
+/**
+ * R15 (added 26 Nov 2026): every keyword in the listing is accounted for. `keywords` = [{term, status:'used'|'gap', where|reason}].
+ * used → the listing's exact wording is on the resume (ATS matching is by phrase). gap → no evidence, so the term must NOT
+ * appear on the resume (never claim it) and a reason is recorded. When the listing text is supplied, every term must come from it.
+ */
+export function validateKeywords(a, jdText, cfg = settings().assets) {
+  const e = [];
+  const kws = a?.keywords;
+  if (!Array.isArray(kws) || !kws.length) return ['keywords missing: list every term from the listing as used or gap (R15)'];
+  if (kws.length < cfg.keywords_min) e.push(`keywords has ${kws.length} terms (min ${cfg.keywords_min}, R15) — extract every skill, method, domain and qualification from the listing`);
+  const hay = resumeText(a.resume);
+  const jd = jdText ? plain(jdText).toLowerCase() : null;
+  const seen = new Set();
+  for (const k of kws) {
+    const term = String(k?.term || '').trim();
+    if (!term) { e.push('keyword entry without a term'); continue; }
+    if (seen.has(term.toLowerCase())) e.push(`keyword "${term}" is listed twice`);
+    seen.add(term.toLowerCase());
+    if (!['used', 'gap'].includes(k.status)) { e.push(`keyword "${term}" status must be used or gap`); continue; }
+    if (jd && !hasTerm(jd, term)) e.push(`keyword "${term}" is not in the listing — list the listing's own words only`);
+    const onPage = hasTerm(hay, term);
+    if (k.status === 'used' && !onPage) e.push(`keyword "${term}" is marked used but its exact wording is not on the resume (ATS matches phrases)`);
+    if (k.status === 'used' && !String(k.where || '').trim()) e.push(`keyword "${term}" is used but has no "where" (Summary, Skills, bullet)`);
+    if (k.status === 'gap') {
+      if (String(k.reason || '').trim().length < 15) e.push(`keyword "${term}" is a gap but has no reason (R12)`);
+      if (onPage) e.push(`keyword "${term}" is marked gap but appears on the resume — if the evidence supports it mark it used, otherwise remove it (R1, R15)`);
+    }
+  }
+  return e;
+}
+
+/** Listing text for the keyword check: out/<id>/listing.json beside the bundle, else the stored JD (data/jd/<id>.json). */
+export function loadJdText(a, bundlePath) {
+  const files = [bundlePath && path.join(path.dirname(bundlePath), 'listing.json'), p(`data/jd/${a?.listing_id}.json`)].filter(Boolean);
+  for (const f of files) {
+    try {
+      const t = JSON.parse(fs.readFileSync(f, 'utf8')).full_description;
+      if (t) return String(t).replace(/&#0*43;|&plus;/g, '+').replace(/&#0*38;|&amp;/g, '&').replace(/&#0*39;|&apos;/g, "'").replace(/&nbsp;/g, ' ');
+    } catch { /* try the next source */ }
+  }
+  return null;
+}
+
+export function validateAssets(a, { jd } = {}) {
   const errors = [
     ...validateResume(a.resume || {}),
+    ...validateKeywords(a, jd),
     ...validateCoverLetter(a.cover_letter, a.resume),
     ...validateLinkedIn(a.linkedin_message, { company: a.company, products: a.company_info?.products }),
     ...validateInfoSheet(a.company_info),

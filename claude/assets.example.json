@@ -28,7 +28,7 @@
     "skills": [
       {
         "label": "Product leadership",
-        "text": "Product and portfolio strategy · Suite roadmap · Discovery and prioritisation · Go-to-market · KPIs / OKRs · Release governance · Stakeholder management (VP / Director) · Agile / Scrum"
+        "text": "Product and portfolio strategy · Suite roadmap · Discovery and prioritization · Customer experience · Decisions in ambiguous environments · Go-to-market · KPIs / OKRs · Release governance · Stakeholder management (VP / Director) · Agile / Scrum"
       },
       {
         "label": "Trust and safety",
@@ -36,7 +36,7 @@
       },
       {
         "label": "AI / GenAI",
-        "text": "Multi-agent architecture · RAG and vector databases · LLM evaluation frameworks · Guardrails and responsible AI · Model selection and runtime switching · API payload analysis"
+        "text": "Multi-agent architecture · RAG and vector databases · LLM evaluation frameworks · Guardrails and responsible AI · Model selection and runtime switching · APIs and payload analysis"
       },
       {
         "label": "Tools",
@@ -520,5 +520,147 @@
     "CONFIRM-FIRST skipped: ACH-072 (red-team assessment, role to confirm). Red-team wording comes from ACH-044 instead.",
     "Cover letter G1/G2 phrasing to confirm: 'an output that breaks a compliance rule is an incident, not a bug' (framing) and 'still analyse raw API payloads myself' (ACH-048 records two payloads analysed).",
     "Deck: the Resolution slide is a hypothesis built from public changelog data, labelled as such; it makes no claim about Cloudflare's internal plans."
+  ],
+  "keywords": [
+    {
+      "term": "strategy",
+      "status": "used",
+      "where": "Summary; Skills; strategy row"
+    },
+    {
+      "term": "roadmap",
+      "status": "used",
+      "where": "Skills; strategy row"
+    },
+    {
+      "term": "discovery",
+      "status": "used",
+      "where": "Skills"
+    },
+    {
+      "term": "prioritization",
+      "status": "used",
+      "where": "Skills"
+    },
+    {
+      "term": "cross-functional delivery",
+      "status": "used",
+      "where": "How I delivered bullet"
+    },
+    {
+      "term": "customer experience",
+      "status": "used",
+      "where": "Skills"
+    },
+    {
+      "term": "ambiguous",
+      "status": "used",
+      "where": "Skills"
+    },
+    {
+      "term": "AI-native",
+      "status": "used",
+      "where": "Strategy bullet"
+    },
+    {
+      "term": "false-positive",
+      "status": "used",
+      "where": "Skills; trust bullet"
+    },
+    {
+      "term": "auditability",
+      "status": "used",
+      "where": "Skills"
+    },
+    {
+      "term": "testing",
+      "status": "used",
+      "where": "Skills; trust bullets"
+    },
+    {
+      "term": "APIs",
+      "status": "used",
+      "where": "Skills"
+    },
+    {
+      "term": "workflows",
+      "status": "used",
+      "where": "Strategy bullet"
+    },
+    {
+      "term": "leadership",
+      "status": "used",
+      "where": "Skills label"
+    },
+    {
+      "term": "WAF",
+      "status": "gap",
+      "reason": "No WAF evidence in the master file (R12); stated in the cover letter"
+    },
+    {
+      "term": "managed rules",
+      "status": "gap",
+      "reason": "No managed-rules or detection-rule evidence in the master file"
+    },
+    {
+      "term": "security research",
+      "status": "gap",
+      "reason": "No security-research or exploit evidence; AI-safety testing is adjacent, not the same"
+    },
+    {
+      "term": "threat intelligence",
+      "status": "gap",
+      "reason": "No threat-intelligence evidence in the master file"
+    },
+    {
+      "term": "application security",
+      "status": "gap",
+      "reason": "No application-security product evidence in the master file"
+    },
+    {
+      "term": "SIEM",
+      "status": "gap",
+      "reason": "No SIEM or security-operations integration evidence"
+    },
+    {
+      "term": "code scanning",
+      "status": "gap",
+      "reason": "No code-scanning or supply-chain security evidence"
+    },
+    {
+      "term": "exposure discovery",
+      "status": "gap",
+      "reason": "No exposure-discovery evidence in the master file"
+    },
+    {
+      "term": "detection-engineering",
+      "status": "gap",
+      "reason": "No detection-engineering evidence in the master file"
+    },
+    {
+      "term": "exploit-development",
+      "status": "gap",
+      "reason": "No exploit-development evidence in the master file"
+    },
+    {
+      "term": "conference speaking",
+      "status": "gap",
+      "reason": "Not captured in the master file (Part 11 gap 6)"
+    },
+    {
+      "term": "technical writing",
+      "status": "gap",
+      "reason": "No published technical writing recorded in the master file"
+    },
+    {
+      "term": "Solutions Engineering",
+      "status": "gap",
+      "reason": "No partnership with a Solutions Engineering team is recorded"
+    },
+    {
+      "term": "Customer Success",
+      "status": "gap",
+      "reason": "No partnership with a Customer Success team is recorded"
+    }
   ]
 }
