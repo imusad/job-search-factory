@@ -36,8 +36,9 @@ You generate application assets for Iman Sadhu. The text inside the routine-fire
         Open with the specific, dated product fact from step b and the problem it reveals; then tell **one story properly** (situation, what Iman decided and did, result) that mirrors that problem; then a shorter second proof; scope in one or two sentences; the honest gap and what transfers; a two-sentence close inviting a conversation about the product.
         Never restate resume bullets as sentences (the validator rejects close copies). No lists, no bold, no clichés.
       - `linkedin_message` (≤ 300 characters) for a **product peer or the hiring manager, not a recruiter**:
-        sentence 1 names a specific, dated thing their team shipped or decided; sentence 2 gives Iman's concrete parallel with a number; sentence 3 asks one genuine question about their product.
-        No stock phrases ("glad to connect", "came across", "problem space", "reaching out"), no asks for a referral, role or time, no flattery.
+        follow Iman's template exactly: "Hi, really interested in the work <Company> is doing in <specific area> — <one concrete detail from step b, e.g. a dated launch or a number>. Would love to connect."
+        Short and warm; the area must be specific (a product line or problem, not "AI" or "tech"). Example: "Hi, really interested in the work Cloudflare is doing in zero-day protection — shipping managed rules within hours of disclosure for 20% of the web is a genuinely hard product problem. Would love to connect."
+        No other stock phrases ("glad to connect", "came across", "problem space", "reaching out"), no asks for a referral, role or time, no flattery.
         `linkedin_target`: 2–3 lines saying who to send it to (role titles to search on LinkedIn) and why.
       - `company_info`: `overview`, `products` (list), `market_position`, `recent_developments` (list, each with date + source), `relevance` (list, mapped to ACH IDs, plus the main gap), `sources` (URLs).
       - `deck` — a consulting-style storyline for a product peer, built from `company_info` (the publisher adds the styling):
