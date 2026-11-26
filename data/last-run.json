@@ -1,6 +1,10 @@
 {
-  "runAt": "2026-11-26T09:50:35.555Z",
+  "runAt": "2026-11-26T22:28:12.000Z",
   "failures": [
+    {
+      "source": "jobspresso",
+      "error": "HTTP 403 for https://jobspresso.co/feed/?post_type=job_listing"
+    },
     {
       "source": "adzuna",
       "error": "ADZUNA_APP_ID not configured (OD-5) — skipped"
@@ -16,90 +20,89 @@
     "workday": 59,
     "remotive": 0,
     "workingnomads": 0,
-    "jobicy": 48,
     "arbeitnow": 21,
-    "jobspresso": 2,
-    "remoteok": 2,
-    "mindtheproduct": 5,
-    "weworkremotely": 24,
+    "jobicy": 53,
+    "remoteok": 1,
+    "mindtheproduct": 1,
+    "weworkremotely": 25,
+    "lennysjobs": 0,
     "ycjobs": 24,
-    "aijobs": 0,
     "welcometothejungle": 0,
-    "himalayas": 2,
-    "shine": 6,
-    "wellfound": 31,
+    "aijobs": 0,
+    "himalayas": 0,
+    "wellfound": 26,
     "builtin": 2,
+    "shine": 6,
     "foundit": 0,
     "hirist": 0,
     "iimjobs": 0,
-    "lennysjobs": 0,
-    "instahyre": 16,
-    "jsearch": 18
+    "instahyre": 13,
+    "jsearch": 16
   },
-  "sponsorRows": 142855,
+  "sponsorRows": 142844,
   "atsDetection": {
     "companies": 89,
     "detected": 89,
-    "ms": 0
+    "ms": 1
   },
-  "totalFetched": 719,
-  "corpus": 14783,
-  "sourcesOk": 28,
+  "totalFetched": 706,
+  "corpus": 14749,
+  "sourcesOk": 27,
   "invalid": 0,
-  "matched": 346,
-  "dedupRemoved": 67,
-  "newListings": 6,
+  "matched": 345,
+  "dedupRemoved": 64,
+  "newListings": 17,
   "aboveThreshold": 0,
   "top": [
     {
-      "id": "202d068d8509",
-      "title": "Senior Product Manager, AI Adoption & Growth",
-      "employer": "Demandbase, Inc.",
+      "id": "507c898a9260",
+      "title": "Senior/Principal Product Manager - Storage",
+      "employer": "Radiant",
       "total_score": 0.23
     },
     {
-      "id": "0000993717da",
-      "title": "Lead Product Manager",
-      "employer": "hims &#038; hers",
+      "id": "c5855c9b9003",
+      "title": "Senior/Principal Product Manager - Infrastructure",
+      "employer": "Radiant",
       "total_score": 0.23
     },
     {
-      "id": "93ba460d28af",
-      "title": "Senior Product Manager - Conversations",
-      "employer": "HighLevel",
+      "id": "219809180853",
+      "title": "Senior/Principal Product Manager - MLOps",
+      "employer": "Radiant",
       "total_score": 0.23
     },
     {
-      "id": "8888840647f1",
-      "title": "Senior Product Manager",
-      "employer": "Luna",
-      "total_score": 0.18
+      "id": "b3a15b0dff42",
+      "title": "Senior Product Manager, Fulfilment",
+      "employer": "Nivoda",
+      "total_score": 0.23
     },
     {
-      "id": "335f4cb07a49",
-      "title": "Senior AI Product Manager",
-      "employer": "R Systems, Inc.",
-      "total_score": 0.08
+      "id": "862025e7d0c4",
+      "title": "Head of Product - Platform, Growth & Spend Management",
+      "employer": "Jeeves",
+      "total_score": 0.23
     }
   ],
   "shortlist": 50,
   "sheet": {
-    "appended": 7,
-    "updated": 272
+    "appended": 17,
+    "updated": 264
   },
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1dxIxAi75S5kD8xsK5Y5qHbvpb8MG-_AGWympFldp_v4",
-  "pendingApprovals": 73,
-  "backlog": 73,
-  "assetsToReview": 1,
-  "pendingActions": 74,
+  "pendingApprovals": 55,
+  "backlog": 55,
+  "assetsToReview": 12,
+  "pendingActions": 67,
   "stageMs": {
-    "visa": 1253,
-    "company_discovery": 58,
-    "ats_fetch": 13352,
-    "boards": 50620,
-    "signals": 746,
-    "google": 2955
+    "visa": 827,
+    "company_discovery": 50,
+    "ats_fetch": 12231,
+    "boards": 9573,
+    "signals": 883,
+    "google": 2388
   },
-  "durationMs": 68987,
-  "requests": 296
+  "durationMs": 25954,
+  "requests": 295
 }
