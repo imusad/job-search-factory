@@ -101,6 +101,8 @@ test('TC-412 page fit (R8): padding reserves spare lines in the fit test only; s
   const padded = count((await xmlOf(resumeDoc(a.resume, { padLines: 3 }))).xml);
   assert.equal(padded - base, 3, 'three spare lines reserved');
   assert.equal(count((await xmlOf(resumeDoc(a.resume, { padLines: 0 }))).xml), base, 'final document carries no padding');
+  const atsBase = count((await xmlOf(resumeAtsDoc(a.resume))).xml);
+  assert.equal(count((await xmlOf(resumeAtsDoc(a.resume, { padLines: 3 }))).xml) - atsBase, 3, 'the ATS twin reserves the same three spare lines');
   const s = settings().assets;
   assert.equal(s.page_safety_lines, 3);
   assert.equal(s.resume_bullets_floor, 16);
@@ -109,6 +111,8 @@ test('TC-412 page fit (R8): padding reserves spare lines in the fit test only; s
   const src = read('src/assets/publish.js');
   assert.match(src, /padLines: pad/, 'the fit loop tests the padded document');
   assert.match(src, /still \$\{pages\} pages with \$\{floor\} bullets left/, 'refuses to publish a two-page resume');
+  assert.match(src, /ATS resume is still \$\{pages\} pages/, 'refuses to publish a two-page ATS twin');
+  assert.match(src, /resumeAtsDoc\(twin, \{ padLines: pad \}\)/, 'the ATS twin is fitted with the same safety margin');
   assert.ok(!/flagged for owner review/.test(src), 'no more silent two-page fallback');
 });
 
@@ -138,6 +142,7 @@ test('TC-415 the written rules: master R15, R16, the page buffer, steps 1c and 4
   assert.match(m, /One page, always/);
   assert.match(m, /page_safety_lines/);
   assert.match(m, /resume_bullets_floor/);
+  assert.match(m, /two pages is never acceptable/);
   assert.match(m, /1c\. \*\*Keyword extraction/);
   assert.match(m, /4d\. \*\*Keyword coverage and ATS check/);
   assert.match(m, /never cuts the only bullet that carries a `used` keyword|never cut the only bullet that carries a `used` term/);

@@ -113,31 +113,31 @@ export function resumeDoc(r, { review = false, padLines = 0 } = {}) {
  * (Summary, Skills, Experience, Education) and real list bullets. Same bullets as the designed resume, so no keyword
  * appears here that is absent from it.
  */
-export function resumeAtsDoc(r) {
-  const H = (t) => new Paragraph({ heading: HeadingLevel.HEADING_2, spacing: { before: 140, after: 40 }, children: [run(t, { bold: true, size: 11, color: '000000' })] });
-  const line = (kids, o = {}) => new Paragraph({ spacing: { before: o.before ?? 20, after: 0 }, children: kids });
+export function resumeAtsDoc(r, { padLines = 0 } = {}) {
+  const H = (t) => new Paragraph({ heading: HeadingLevel.HEADING_2, spacing: { before: 60, after: 0 }, children: [run(t, { bold: true, size: 10.5, color: '000000' })] });
+  const line = (kids, o = {}) => new Paragraph({ spacing: { before: o.before ?? 0, after: 0 }, children: kids });
   const bullet = (b) => new Paragraph({ numbering: { reference: 'jsf-bullet', level: 0 }, children: rich(typeof b === 'string' ? b : b.text) });
-  const role = (x) => line([run([x.title, x.company, x.dates].join(SEP), { bold: true })], { before: 80 });
+  const role = (x) => line([run([x.title, x.company, x.dates].join(SEP), { bold: true })], { before: 50 });
   const children = [
     new Paragraph({ children: [run(String(r.name).toUpperCase(), { bold: true, size: 15 })] }),
     line([run(r.headline, { bold: true })]),
     line([run(r.contact, { size: 10 })]),
     H('Summary'), new Paragraph({ children: rich(r.summary) }),
-    H('Impact at a glance'),
-    ...(r.kpis || []).map((k) => line([run(`${k.figure}: `, { bold: true }), run(String(k.caption).replace(/\s*\n\s*/g, ', '))])),
+    // impact tiles as one plain line (a parser reads them; four separate lines would cost the page)
+    line([run('Impact: ', { bold: true }), run((r.kpis || []).map((k) => `${k.figure} ${String(k.caption).replace(/\s*\n\s*/g, ', ')}`).join(' · '))], { before: 20 }),
     H('Skills'), ...(r.skills || []).map((s) => line([run(`${s.label}: `, { bold: true }), run(s.text)])),
     H('Experience'), role(r.role_line),
     ...(r.role_line.context ? [line([run(r.role_line.context, { italics: true })])] : []),
   ];
-  for (const row of r.story_rows || []) { children.push(line([run(row.label, { bold: true })], { before: 60 })); children.push(...row.bullets.map(bullet)); }
+  for (const row of r.story_rows || []) { children.push(line([run(row.label, { bold: true })], { before: 20 })); children.push(...row.bullets.map(bullet)); }
   if (r.prior_role) {
     children.push(role(r.prior_role));
-    if (r.prior_role.label) children.push(line([run(r.prior_role.label, { bold: true })], { before: 40 }));
     children.push(...r.prior_role.bullets.map(bullet));
   }
   children.push(H('Earlier experience'));
   for (const e of r.earlier || []) children.push(line([run(`${(e.lead || '').split(/\s*\|\s*/).join(SEP)}: `, { bold: true }), run(e.text || String(e))]));
   children.push(H('Education'), new Paragraph({ children: [run(r.education || '')] }));
+  for (let i = 0; i < padLines; i++) children.push(new Paragraph({ spacing: { before: 0, after: 0 }, children: [run('\u00A0')] })); // fit test only (R8)
   return page(children);
 }
 

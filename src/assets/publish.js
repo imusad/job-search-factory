@@ -53,11 +53,35 @@ export async function buildOnePageResume(resume, name, folderId, keywords = []) 
   }
 }
 
-export function selectionLogBlocks(a, cut) {
+/**
+ * R16 + R8: the ATS twin is a resume too, so it is also one page with the same safety margin. It starts from the already
+ * fitted designed resume and, if its different layout needs it, drops further lowest-priority bullets from the TWIN ONLY
+ * (never the sole carrier of a used keyword). The final, unpadded Doc is what gets uploaded and exported.
+ */
+export async function buildOnePageAts(resume, name, folderId, keywords = []) {
+  const floor = settings().assets.resume_bullets_floor ?? 16;
+  const pad = settings().assets.page_safety_lines ?? 3;
+  const twin = structuredClone(resume);
+  const cut = [];
+  for (;;) {
+    const probe = await uploadDocxAsGoogleDoc(await toBuffer(resumeAtsDoc(twin, { padLines: pad })), `${name} (probe)`, folderId);
+    const pages = pdfPageCount(await exportPdf(probe.id));
+    await trash(probe.id);
+    if (pages <= 1) break;
+    if (resumeBullets(twin).length <= floor) throw new Error(`ATS resume is still ${pages} pages with ${floor} bullets left — shorten the summary or skills rows and rerun (R8, R16)`);
+    cut.push(cutLowestBullet(twin, keywords));
+  }
+  const doc = await uploadDocxAsGoogleDoc(await toBuffer(resumeAtsDoc(twin)), name, folderId);
+  const pdf = await exportPdf(doc.id);
+  return { doc, pdf, pages: pdfPageCount(pdf), cut };
+}
+
+export function selectionLogBlocks(a, cut, atsCut = []) {
   return [
     { heading: `Selection Log — ${a.company}, ${a.title}`, lines: ['Columns: Bullet | Type | ACH ID | Requirement matched | Flag'] },
     { heading: 'Bullets used', lines: resumeBullets(a.resume).map((b, i) => `${i + 1}. ${b.text.replace(/\*\*/g, '')} | ${b.type} | ${(b.ach || []).join(', ')} | ${b.requirement || '—'} | ${b.flag || 'USE'}`) },
     ...(a.keywords?.length ? [{ heading: `Keyword coverage (R15): ${a.keywords.filter((k) => k.status === 'used').length} of ${a.keywords.length} listing terms used, ${a.keywords.filter((k) => k.status === 'gap').length} gaps`, lines: ['Term | Status | Where used / gap reason', ...a.keywords.map((k) => `${k.term} | ${k.status} | ${k.status === 'used' ? k.where : k.reason}`)] }] : []),
+    ...(atsCut.length ? [{ heading: 'Cut from the ATS twin only, for its one-page fit (lowest priority first)', lines: atsCut.map((b) => `${b.text.replace(/\*\*/g, '')} | ${(b.ach || []).join(', ')}`) }] : []),
     ...(cut.length ? [{ heading: 'Cut for one-page fit (lowest priority first)', lines: cut.map((b) => `${b.text.replace(/\*\*/g, '')} | ${(b.ach || []).join(', ')}`) }] : []),
     ...(a.cover_letter?.sources?.length ? [{ heading: 'Cover letter — claim sources', lines: a.cover_letter.sources.map(String) }] : []),
     { heading: 'Open items', lines: (a.open_items || ['None recorded']).map(String) },
@@ -83,10 +107,10 @@ export async function publishAssets(a, { email = true } = {}) {
   const resume = await buildOnePageResume(a.resume, `Resume — ${a.company}`, folder.id, a.keywords);
   const pdf = await uploadPdf(resume.pdf, `Resume — ${a.company}.pdf`, folder.id);
   // R16: ATS-safe twin of the resume (single column, no tables), built from the same, already-cut content.
-  const atsDoc = await uploadDocxAsGoogleDoc(await toBuffer(resumeAtsDoc(a.resume)), `Resume (ATS) — ${a.company}`, folder.id);
-  const atsPdfBuf = await exportPdf(atsDoc.id);
-  const atsPdf = await uploadPdf(atsPdfBuf, `Resume (ATS) — ${a.company}.pdf`, folder.id);
-  const atsPages = pdfPageCount(atsPdfBuf);
+  const ats = await buildOnePageAts(a.resume, `Resume (ATS) — ${a.company}`, folder.id, a.keywords);
+  const atsDoc = ats.doc;
+  const atsPdf = await uploadPdf(ats.pdf, `Resume (ATS) — ${a.company}.pdf`, folder.id);
+  const atsPages = ats.pages;
   const cover = await uploadDocxAsGoogleDoc(await toBuffer(coverLetterDoc(a.cover_letter, h)), `Cover letter — ${a.company}`, folder.id);
   const li = await uploadDocxAsGoogleDoc(await toBuffer(linkedInDoc(a.linkedin_message, a.linkedin_target, settings().assets.linkedin_max_chars)), `LinkedIn message — ${a.company}`, folder.id);
   const ci = a.company_info;
@@ -97,13 +121,13 @@ export async function publishAssets(a, { email = true } = {}) {
   ])), `Company info — ${a.company}`, folder.id);
   const deckMeta = { name: a.resume.name, role: a.title, company: a.company, contact: a.resume.contact, date: new Date().toLocaleDateString('en-GB', { month: 'long', year: 'numeric' }) };
   const deck = await createDeck(`Case study — ${a.company}`, a.deck, folder.id, deckMeta);
-  const log_ = await uploadDocxAsGoogleDoc(await toBuffer(simpleDoc('Selection Log', selectionLogBlocks(a, resume.cut))), `Selection Log — ${a.company}`, folder.id);
+  const log_ = await uploadDocxAsGoogleDoc(await toBuffer(simpleDoc('Selection Log', selectionLogBlocks(a, resume.cut, ats.cut))), `Selection Log — ${a.company}`, folder.id);
   const listing = { title: a.title, employer: a.company, application_url: row.obj.application_url, hiring_location: row.obj.hiring_location, ats_platform: row.obj.ats_platform };
   const pack = await uploadDocxAsGoogleDoc(await toBuffer(simpleDoc('ATS answer pack', answerPackBlocks(listing))), `Answer pack — ${a.company}`, folder.id);
 
   const stamp = new Date().toISOString();
   await updateCells(sheetId, row.rowNumber, { assets_generated: stamp, assets_folder: folder.webViewLink }, 'assets');
-  const result = { folder: folder.webViewLink, assets: { resume: resume.doc.webViewLink, resume_pdf: pdf.webViewLink, resume_ats: atsDoc.webViewLink, resume_ats_pdf: atsPdf.webViewLink, cover_letter: cover.webViewLink, linkedin: li.webViewLink, company_info: info.webViewLink, deck: deck.webViewLink, selection_log: log_.webViewLink, answer_pack: pack.webViewLink }, resume_pages: resume.pages, ats_pages: atsPages, bullets_cut: resume.cut.length, asset_count: 5 };
+  const result = { folder: folder.webViewLink, assets: { resume: resume.doc.webViewLink, resume_pdf: pdf.webViewLink, resume_ats: atsDoc.webViewLink, resume_ats_pdf: atsPdf.webViewLink, cover_letter: cover.webViewLink, linkedin: li.webViewLink, company_info: info.webViewLink, deck: deck.webViewLink, selection_log: log_.webViewLink, answer_pack: pack.webViewLink }, resume_pages: resume.pages, ats_pages: atsPages, bullets_cut: resume.cut.length, ats_bullets_cut: ats.cut.length, asset_count: 5 };
   if (email) await sendEmail(confirmationEmail({ company: a.company, title: a.title, count: 5, folder: folder.webViewLink, pages: resume.pages }));
   return result;
 }

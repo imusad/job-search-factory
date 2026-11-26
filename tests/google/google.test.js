@@ -66,8 +66,10 @@ test('TC-402..407 live: publish example assets → folder with 5 assets, 1-page 
   const a = JSON.parse(fs.readFileSync(new URL('../../claude/assets.example.json', import.meta.url)));
   a.listing_id = 'a1';
   const r = await publishAssets(a, { email: true });
-  console.log(`  folder: ${r.folder} · resume pages: ${r.resume_pages} · bullets cut: ${r.bullets_cut}`);
+  console.log(`  folder: ${r.folder} · resume pages: ${r.resume_pages} · ATS pages: ${r.ats_pages} · bullets cut: ${r.bullets_cut}`);
   assert.equal(r.resume_pages, 1);
+  assert.equal(r.ats_pages, 1, 'R8 + R16: the ATS twin is one page too');
+  assert.ok(r.assets.resume_ats && r.assets.resume_ats_pdf, 'R16: ATS twin Doc and PDF are linked');
   const appFolderId = r.folder.match(/folders\/([^/?]+)/)[1];
   const parentMeta = await drive().files.get({ fileId: appFolderId, fields: 'parents' });
   const parentName = (await drive().files.get({ fileId: parentMeta.data.parents[0], fields: 'name,parents' })).data;
@@ -75,11 +77,14 @@ test('TC-402..407 live: publish example assets → folder with 5 assets, 1-page 
   assert.equal(parentName.parents[0], folderId, 'Applications nests under the root folder');
   const files = await listFolder(appFolderId);
   const names = files.map((f) => f.name).join(' | ');
-  for (const n of ['Resume', 'Cover letter', 'LinkedIn message', 'Company info', 'Case study']) assert.match(names, new RegExp(n));
+  for (const n of ['Resume', 'Resume \\(ATS\\)', 'Cover letter', 'LinkedIn message', 'Company info', 'Case study', 'Selection Log']) assert.match(names, new RegExp(n));
+  assert.ok(files.some((f) => f.name === 'Resume (ATS) — Cloudflare.pdf'), 'R16: ATS PDF uploaded');
   const row = (await readRows(sheetId)).find((x) => x.obj.id === 'a1');
   assert.match(row.obj.assets_folder, /drive\.google\.com/); assert.ok(row.obj.assets_generated);
   assert.equal(row.obj.approval, 'Approved');
-  const again = await publishAssets(a, { email: false });
+  // The publisher trims the bundle in place to fit one page, so a re-run must start from the stored bundle, as production does.
+  const fresh = JSON.parse(fs.readFileSync(new URL('../../claude/assets.example.json', import.meta.url))); fresh.listing_id = 'a1';
+  const again = await publishAssets(fresh, { email: false });
   assert.equal(again.skipped, true, 'idempotent — no regeneration');
 });
 
