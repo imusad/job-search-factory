@@ -1,108 +1,105 @@
 {
-  "runAt": "2026-11-25T22:38:13.164Z",
+  "runAt": "2026-11-26T05:55:31.713Z",
   "failures": [
     {
       "source": "adzuna",
       "error": "ADZUNA_APP_ID not configured (OD-5) — skipped"
-    },
-    {
-      "source": "jsearch",
-      "error": "JSEARCH_API_KEY not configured (OD-5) — skipped"
     }
   ],
   "sourceCounts": {
     "greenhouse": 241,
     "ashby": 63,
-    "workable": 0,
     "lever": 103,
+    "workable": 0,
     "smartrecruiters": 39,
     "rippling": 14,
-    "workday": 57,
+    "workday": 59,
     "remotive": 0,
+    "jobicy": 44,
     "workingnomads": 0,
+    "arbeitnow": 21,
+    "jobspresso": 2,
     "remoteok": 4,
-    "jobicy": 43,
-    "arbeitnow": 20,
-    "jobspresso": 0,
     "mindtheproduct": 5,
     "weworkremotely": 24,
+    "ycjobs": 24,
     "aijobs": 0,
-    "ycjobs": 25,
     "welcometothejungle": 0,
-    "himalayas": 2,
     "hirist": 0,
-    "lennysjobs": 0,
-    "shine": 6,
     "foundit": 0,
     "wellfound": 31,
-    "iimjobs": 0,
     "builtin": 2,
-    "instahyre": 8
+    "iimjobs": 0,
+    "shine": 6,
+    "lennysjobs": 0,
+    "himalayas": 1,
+    "instahyre": 7,
+    "jsearch": 25
   },
   "sponsorRows": 142855,
   "atsDetection": {
-    "companies": 89,
+    "companies": 96,
     "detected": 89,
-    "ms": 1
+    "ms": 836
   },
-  "totalFetched": 687,
-  "corpus": 14737,
-  "sourcesOk": 27,
+  "totalFetched": 715,
+  "corpus": 14778,
+  "sourcesOk": 28,
   "invalid": 0,
-  "matched": 325,
-  "dedupRemoved": 70,
-  "newListings": 7,
+  "matched": 344,
+  "dedupRemoved": 68,
+  "newListings": 26,
   "aboveThreshold": 1,
   "top": [
     {
-      "id": "64e3dd0e2d8f",
-      "title": "Senior Product Manager, Workforce Management",
-      "employer": "Coinbase",
-      "total_score": 0.3067
+      "id": "b8b953e7fa15",
+      "title": "Senior Product Manager, Enterprise Security Technology",
+      "employer": "Salesforce",
+      "total_score": 0.3
     },
     {
-      "id": "49c6532adf46",
-      "title": "Principal Product Manager",
-      "employer": "Findem",
-      "total_score": 0.2467
+      "id": "ec3c3bebc14c",
+      "title": "Senior Product Manager I, Expert Apply",
+      "employer": "BOLD",
+      "total_score": 0.23
     },
     {
-      "id": "eb9a48972d5c",
-      "title": "Head of Product",
-      "employer": "Centro.team",
-      "total_score": 0.2467
+      "id": "76d8914ae40b",
+      "title": "Senior Product Manager",
+      "employer": "Everyday Speech",
+      "total_score": 0.23
     },
     {
-      "id": "0e9d1ef4c58c",
-      "title": "Principal Product Manager - Voice AI",
-      "employer": "HighLevel",
-      "total_score": 0.2467
+      "id": "5ece648adc47",
+      "title": "Remote AI Product Manager: LLMs, MLOps & Governance",
+      "employer": "bounteous",
+      "total_score": 0.23
     },
     {
-      "id": "0536bf1018fd",
-      "title": "Senior Product Manager, Digital Twin Automation and Robotics",
-      "employer": "NVIDIA",
-      "total_score": 0.2333
+      "id": "fdf32dafe07a",
+      "title": "Senior Product Manager: Patient Engagement & AI",
+      "employer": "Equip Health",
+      "total_score": 0.23
     }
   ],
   "shortlist": 50,
   "sheet": {
-    "appended": 9,
-    "updated": 246
+    "appended": 26,
+    "updated": 250
   },
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1dxIxAi75S5kD8xsK5Y5qHbvpb8MG-_AGWympFldp_v4",
-  "pendingApprovals": 89,
-  "backlog": 89,
+  "pendingApprovals": 94,
+  "backlog": 94,
   "assetsToReview": 1,
-  "pendingActions": 90,
+  "pendingActions": 95,
   "stageMs": {
-    "visa": 2470,
-    "company_discovery": 70,
-    "ats_fetch": 13148,
-    "boards": 5454,
-    "signals": 3027,
-    "google": 3795
+    "visa": 2419,
+    "company_discovery": 1410,
+    "ats_fetch": 26096,
+    "boards": 15742,
+    "signals": 2567,
+    "google": 3059
   },
-  "durationMs": 27967,
-  "requests": 291
+  "durationMs": 51295,
+  "requests": 665
 }
