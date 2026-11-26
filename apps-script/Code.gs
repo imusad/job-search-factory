@@ -61,7 +61,8 @@ function safetySweep() {
 function fire_(reason) {
   var props = PropertiesService.getScriptProperties();
   var url = props.getProperty('CLAUDE_FIRE_URL'), token = props.getProperty('CLAUDE_FIRE_TOKEN');
-  if (!url || !token) throw new Error('Set CLAUDE_FIRE_URL and CLAUDE_FIRE_TOKEN in Script Properties');
+  // Installed before the routine exists: approvals wait quietly, and the sweep picks them up once the properties are set
+  if (!url || !token) { Logger.log('Not fired (' + reason + '): set CLAUDE_FIRE_URL and CLAUDE_FIRE_TOKEN in Script Properties'); return; }
   props.setProperty('LAST_FIRE_MS', String(Date.now())); // set before the call: no idempotency on the API, avoid double fires
   var res = UrlFetchApp.fetch(url, {
     method: 'post', contentType: 'application/json', muteHttpExceptions: true,

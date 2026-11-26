@@ -13,6 +13,7 @@ Every procedure here can be done from an **iPad** (Safari + the Google apps). No
 7. [Credentials and where they live](#7-credentials-and-where-they-live)
 8. [Pre-launch checklist](#8-pre-launch-checklist)
 9. [Tuning](#9-tuning)
+10. [Going live on Claude Pro (iPad only)](#10-going-live-on-claude-pro-ipad-only)
 
 ---
 
@@ -124,3 +125,27 @@ All in `config/settings.json`. No code changes are needed.
 - Scoring weights (OD-1): `weights`.
 - "Above threshold" for the digest: `thresholds`.
 - Run times: the two `cron` lines in `.github/workflows/discovery.yml` (IST minus 5:30 gives UTC). After two weeks, use the **Run-time optimisation report** workflow (JSF-503) to choose new times.
+
+## 10. Going live on Claude Pro (iPad only)
+
+Until this is done, discovery, the Sheet and the digest already run on GitHub Actions. Rows you approve simply wait, and the first asset run processes all of them.
+
+**Before the Mac goes (one time):** copy `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, `GOOGLE_REFRESH_TOKEN` and `OWNER_EMAIL` from `.env` into a **locked** note in Apple Notes. Use the refresh token issued on 26 Nov 2026 or later. If the note is ever lost, §4 issues a new token from the iPad.
+
+Then, on the iPad:
+
+1. **Upgrade.** claude.ai → Settings → Billing → Pro. Then Settings → Usage → keep **usage credits off** (FR-5.6).
+2. **Connect GitHub.** In Safari, open claude.ai/code and connect GitHub. Allow the Claude GitHub app access to **only** `imusad/job-search-factory`.
+3. **Create the environment.** claude.ai/code → Environments → New: name `job-search-factory`, network **Full** (asset research reads company websites), and the four variables from the locked note.
+4. **Create the two routines.** claude.ai/code/routines → New routine. For each one, open the file on github.com, tap **Copy raw file** and paste it as the prompt. The header lines are harmless context.
+
+   | Name | Prompt file | Repo / environment | Trigger |
+   |---|---|---|---|
+   | JSF semantic scoring | `claude/semantic-scoring.md` | `job-search-factory` / `job-search-factory` | Schedule `7 2,14 * * *` (02:07 and 14:07 UTC = 07:37 and 19:37 IST) |
+   | JSF asset generation | `claude/asset-generation.md` | `job-search-factory` / `job-search-factory` | **API trigger only**, no schedule |
+
+5. **Get the trigger URL and token.** Open the routine **JSF asset generation** → **Add API trigger**. Copy the URL and the token (the token is shown once).
+6. **Connect the Sheet.** Open the tracker Sheet in Safari (desktop site, not the Sheets app) → **Extensions** → **Apps Script** → **Project Settings** → **Script Properties**: add `CLAUDE_FIRE_URL` and `CLAUDE_FIRE_TOKEN`.
+   - If the script is not installed yet: in **Editor**, replace `Code.gs` with `apps-script/Code.gs` from github.com (**Copy raw file**), save, then select `setup` → **Run** and accept the permissions.
+   - Select `testFire` → **Run**. **Executions** must show `HTTP 200`.
+7. **Test.** Run **JSF semantic scoring** once with **Run now**; the Sheet's semantic columns fill in. Then set one row to **Approved** in the Sheets app. Within about 5 minutes a confirmation email arrives and Drive shows the application folder.
