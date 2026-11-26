@@ -1,5 +1,5 @@
 {
-  "runAt": "2026-11-26T06:10:29.680Z",
+  "runAt": "2026-11-26T09:50:35.555Z",
   "failures": [
     {
       "source": "adzuna",
@@ -7,34 +7,34 @@
     }
   ],
   "sourceCounts": {
-    "greenhouse": 241,
+    "greenhouse": 240,
     "ashby": 63,
-    "lever": 103,
     "workable": 0,
+    "lever": 103,
     "smartrecruiters": 39,
     "rippling": 14,
     "workday": 59,
     "remotive": 0,
-    "jobicy": 44,
     "workingnomads": 0,
+    "jobicy": 48,
     "arbeitnow": 21,
     "jobspresso": 2,
-    "himalayas": 1,
-    "ycjobs": 24,
-    "remoteok": 4,
+    "remoteok": 2,
     "mindtheproduct": 5,
-    "weworkremotely": 26,
-    "welcometothejungle": 0,
-    "foundit": 0,
-    "lennysjobs": 0,
+    "weworkremotely": 24,
+    "ycjobs": 24,
     "aijobs": 0,
-    "wellfound": 26,
-    "builtin": 2,
-    "iimjobs": 0,
-    "hirist": 0,
+    "welcometothejungle": 0,
+    "himalayas": 2,
     "shine": 6,
-    "instahyre": 14,
-    "jsearch": 25
+    "wellfound": 31,
+    "builtin": 2,
+    "foundit": 0,
+    "hirist": 0,
+    "iimjobs": 0,
+    "lennysjobs": 0,
+    "instahyre": 16,
+    "jsearch": 18
   },
   "sponsorRows": 142855,
   "atsDetection": {
@@ -43,49 +43,49 @@
     "ms": 0
   },
   "totalFetched": 719,
-  "corpus": 14776,
+  "corpus": 14783,
   "sourcesOk": 28,
   "invalid": 0,
-  "matched": 349,
-  "dedupRemoved": 69,
-  "newListings": 7,
+  "matched": 346,
+  "dedupRemoved": 67,
+  "newListings": 6,
   "aboveThreshold": 0,
   "top": [
     {
-      "id": "f6aec04646ba",
-      "title": "Senior Product Manager I (Remote Eligible)",
-      "employer": "Smartsheet",
+      "id": "202d068d8509",
+      "title": "Senior Product Manager, AI Adoption & Growth",
+      "employer": "Demandbase, Inc.",
       "total_score": 0.23
     },
     {
-      "id": "b5a4527ef54e",
+      "id": "0000993717da",
+      "title": "Lead Product Manager",
+      "employer": "hims &#038; hers",
+      "total_score": 0.23
+    },
+    {
+      "id": "93ba460d28af",
+      "title": "Senior Product Manager - Conversations",
+      "employer": "HighLevel",
+      "total_score": 0.23
+    },
+    {
+      "id": "8888840647f1",
       "title": "Senior Product Manager",
-      "employer": "Locus.sh",
+      "employer": "Luna",
       "total_score": 0.18
     },
     {
-      "id": "d72d8f7168b2",
-      "title": "Sr. Product Manager - B2B",
-      "employer": "Arintra",
-      "total_score": 0.18
-    },
-    {
-      "id": "3cc5466c3d37",
-      "title": "Senior Product Manager - 529 Prepaid",
-      "employer": "Full-time",
-      "total_score": 0.08
-    },
-    {
-      "id": "5c426791ccaa",
-      "title": "Senior Product Manager - Pharmaceutical Marketing - Senior Group Product Manager",
-      "employer": "APS",
+      "id": "335f4cb07a49",
+      "title": "Senior AI Product Manager",
+      "employer": "R Systems, Inc.",
       "total_score": 0.08
     }
   ],
   "shortlist": 50,
   "sheet": {
     "appended": 7,
-    "updated": 273
+    "updated": 272
   },
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1dxIxAi75S5kD8xsK5Y5qHbvpb8MG-_AGWympFldp_v4",
   "pendingApprovals": 73,
@@ -93,13 +93,13 @@
   "assetsToReview": 1,
   "pendingActions": 74,
   "stageMs": {
-    "visa": 1065,
+    "visa": 1253,
     "company_discovery": 58,
-    "ats_fetch": 12887,
-    "boards": 10916,
-    "signals": 1091,
-    "google": 3468
+    "ats_fetch": 13352,
+    "boards": 50620,
+    "signals": 746,
+    "google": 2955
   },
-  "durationMs": 29532,
-  "requests": 297
+  "durationMs": 68987,
+  "requests": 296
 }
