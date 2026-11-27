@@ -46,6 +46,20 @@ export function digestEmail(s) {
   };
 }
 
+/** One email per routine run, sent after the last pending listing is published. */
+export function batchConfirmationEmail(items) {
+  const pagesOf = (i) => Math.max(i.pages ?? 1, i.ats_pages ?? 1);
+  if (items.length === 1) { const i = items[0]; return confirmationEmail({ company: i.company, title: i.title, count: 5, folder: i.folder, pages: pagesOf(i) }); }
+  const over = '<br><b style="color:#c0392b;">Resume is over one page — trim before sending.</b>';
+  return {
+    subject: `Assets ready: ${items.length} applications`,
+    html: shell('Application assets ready', [
+      row(`${items.length} application bundles are ready. Each folder has the resume (designed and ATS), cover letter, LinkedIn message, company info sheet and case study deck.`),
+      ...items.map((i) => row(`<b>${esc(i.company)}</b><br>${esc(i.title)}${pagesOf(i) > 1 ? over : ''}<br><br>${button(i.folder, 'Open Drive folder')}`)),
+    ].join('')),
+  };
+}
+
 export function confirmationEmail({ company, title, count, folder, pages }) {
   return {
     subject: `Assets ready: ${company} — ${title}`,

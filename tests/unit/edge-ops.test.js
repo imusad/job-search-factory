@@ -4,7 +4,8 @@ import { test, describe } from 'node:test';
 import assert from 'node:assert/strict';
 import { audit, resetAudit, HttpError, mapLimit } from '../../src/lib/http.js';
 import { COLUMNS, APPROVAL_INDEX, colIndex, colLetter, writableSegments } from '../../src/google/columns.js';
-import { timeToClear, digestEmail, confirmationEmail } from '../../src/email/templates.js';
+import { readFileSync } from 'node:fs';
+import { timeToClear, digestEmail, confirmationEmail, batchConfirmationEmail } from '../../src/email/templates.js';
 import { wordRegex, matchesTerm, matchesAny, firstMatch, naiveIncludes } from '../../src/lib/match.js';
 import { readJson, settings } from '../../src/lib/config.js';
 
@@ -159,6 +160,29 @@ describe('templates edge cases', () => {
   test('confirmationEmail warns about multi-page resume', () => {
     const e = confirmationEmail({ company: 'X', title: 'PM', count: 5, folder: 'https://drive.google.com/x', pages: 2 });
     assert.ok(e.html.includes('over one page'));
+  });
+
+  test('batchConfirmationEmail: one listing reads like the single confirmation', () => {
+    const e = batchConfirmationEmail([{ company: 'Veeva', title: 'Senior PM', folder: 'https://drive.google.com/a', pages: 1, ats_pages: 1 }]);
+    assert.equal(e.subject, 'Assets ready: Veeva — Senior PM');
+  });
+
+  test('batchConfirmationEmail: several listings in one email, each with its folder; ATS overflow is flagged too', () => {
+    const e = batchConfirmationEmail([
+      { company: 'Veeva', title: 'Senior PM', folder: 'https://drive.google.com/a', pages: 1, ats_pages: 2 },
+      { company: 'Smartsheet', title: 'Senior PM I', folder: 'https://drive.google.com/b', pages: 1, ats_pages: 1 },
+    ]);
+    assert.equal(e.subject, 'Assets ready: 2 applications');
+    assert.ok(e.html.includes('https://drive.google.com/a') && e.html.includes('https://drive.google.com/b'));
+    assert.equal(e.html.match(/over one page/g).length, 1);
+  });
+
+  test('assets:publish holds the email until no approved listing is pending, and never asks for a republish', () => {
+    const src = readFileSync(new URL('../../src/cli/assets-publish.js', import.meta.url), 'utf8');
+    assert.match(src, /publishAssets\(a, \{ email: false \}\)/, 'publish itself never emails');
+    assert.match(src, /approval === 'Approved' && !x\.obj\.assets_generated/, 'checks for pending rows before emailing');
+    assert.match(src, /emailed: true/, 'marks bundles as emailed so a later call does not resend');
+    assert.match(src, /Do not edit assets\.json and republish/, 'tells the routine an over-one-page publish is final');
   });
 });
 
