@@ -1,10 +1,6 @@
 {
-  "runAt": "2026-11-26T22:28:12.000Z",
+  "runAt": "2026-11-27T09:55:02.567Z",
   "failures": [
-    {
-      "source": "jobspresso",
-      "error": "HTTP 403 for https://jobspresso.co/feed/?post_type=job_listing"
-    },
     {
       "source": "adzuna",
       "error": "ADZUNA_APP_ID not configured (OD-5) — skipped"
@@ -14,95 +10,96 @@
     "greenhouse": 240,
     "ashby": 63,
     "workable": 0,
-    "lever": 103,
     "smartrecruiters": 39,
+    "lever": 103,
     "rippling": 14,
-    "workday": 59,
+    "workday": 58,
     "remotive": 0,
     "workingnomads": 0,
-    "arbeitnow": 21,
-    "jobicy": 53,
+    "jobicy": 50,
     "remoteok": 1,
+    "arbeitnow": 19,
+    "jobspresso": 2,
     "mindtheproduct": 1,
-    "weworkremotely": 25,
-    "lennysjobs": 0,
     "ycjobs": 24,
-    "welcometothejungle": 0,
+    "weworkremotely": 27,
     "aijobs": 0,
     "himalayas": 0,
-    "wellfound": 26,
-    "builtin": 2,
-    "shine": 6,
-    "foundit": 0,
+    "welcometothejungle": 0,
     "hirist": 0,
+    "foundit": 0,
+    "shine": 9,
+    "wellfound": 26,
     "iimjobs": 0,
-    "instahyre": 13,
-    "jsearch": 16
+    "builtin": 2,
+    "lennysjobs": 0,
+    "instahyre": 16,
+    "jsearch": 18
   },
   "sponsorRows": 142844,
   "atsDetection": {
-    "companies": 89,
+    "companies": 102,
     "detected": 89,
-    "ms": 1
+    "ms": 2003
   },
-  "totalFetched": 706,
-  "corpus": 14749,
-  "sourcesOk": 27,
+  "totalFetched": 712,
+  "corpus": 14771,
+  "sourcesOk": 28,
   "invalid": 0,
-  "matched": 345,
-  "dedupRemoved": 64,
-  "newListings": 17,
-  "aboveThreshold": 0,
+  "matched": 341,
+  "dedupRemoved": 68,
+  "newListings": 14,
+  "aboveThreshold": 7,
   "top": [
     {
-      "id": "507c898a9260",
-      "title": "Senior/Principal Product Manager - Storage",
-      "employer": "Radiant",
-      "total_score": 0.23
+      "id": "5350d9e2b9e0",
+      "title": "Senior Product Manager, Data Products",
+      "employer": "Mural",
+      "total_score": 0.33
     },
     {
-      "id": "c5855c9b9003",
-      "title": "Senior/Principal Product Manager - Infrastructure",
-      "employer": "Radiant",
-      "total_score": 0.23
+      "id": "cf600047cf3d",
+      "title": "Senior Product Manager",
+      "employer": "Rithum",
+      "total_score": 0.33
     },
     {
-      "id": "219809180853",
-      "title": "Senior/Principal Product Manager - MLOps",
-      "employer": "Radiant",
-      "total_score": 0.23
+      "id": "08a2a1b9362d",
+      "title": "Senior Product Manager, GRC Platform",
+      "employer": "Vanta",
+      "total_score": 0.33
     },
     {
-      "id": "b3a15b0dff42",
-      "title": "Senior Product Manager, Fulfilment",
-      "employer": "Nivoda",
-      "total_score": 0.23
+      "id": "3a9837b483a5",
+      "title": "Principal Product Manager, Growth",
+      "employer": "Upstart",
+      "total_score": 0.33
     },
     {
-      "id": "862025e7d0c4",
-      "title": "Head of Product - Platform, Growth & Spend Management",
-      "employer": "Jeeves",
-      "total_score": 0.23
+      "id": "02b552029c85",
+      "title": "Senior Product Manager, Deceptive Content",
+      "employer": "Pinterest",
+      "total_score": 0.33
     }
   ],
   "shortlist": 50,
   "sheet": {
-    "appended": 17,
-    "updated": 264
+    "appended": 15,
+    "updated": 258
   },
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1dxIxAi75S5kD8xsK5Y5qHbvpb8MG-_AGWympFldp_v4",
-  "pendingApprovals": 55,
-  "backlog": 55,
-  "assetsToReview": 12,
-  "pendingActions": 67,
+  "pendingApprovals": 15,
+  "backlog": 195,
+  "assetsToReview": 19,
+  "pendingActions": 34,
   "stageMs": {
-    "visa": 827,
-    "company_discovery": 50,
-    "ats_fetch": 12231,
-    "boards": 9573,
-    "signals": 883,
-    "google": 2388
+    "visa": 1228,
+    "company_discovery": 1214,
+    "ats_fetch": 18774,
+    "boards": 10833,
+    "signals": 1006,
+    "google": 2145
   },
-  "durationMs": 25954,
-  "requests": 295
+  "durationMs": 35202,
+  "requests": 717
 }
