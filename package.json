@@ -5,6 +5,8 @@
   "type": "module",
   "engines": { "node": ">=20" },
   "scripts": {
+    "digest:build": "node src/cli/build-digest.js",
+    "ach": "node src/cli/get-achievements.js",
     "discover": "node src/cli/run-discovery.js",
     "semantic:export": "node src/cli/semantic-export.js",
     "semantic:apply": "node src/cli/semantic-apply.js",

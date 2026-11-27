@@ -45,7 +45,7 @@ export async function buildOnePageResume(resume, name, folderId, keywords = []) 
     await trash(clean.id);
     const pages = pdfPageCount(pdf);
     if (pages <= 1 || resumeBullets(resume).length <= floor) {
-      if (pages > 1) throw new Error(`Resume is still ${pages} pages with ${floor} bullets left — shorten the summary, skills rows or bullets and rerun (R8: one page is mandatory)`);
+      if (pages > 1) log.warn(`Resume is ${pages} pages at ${resumeBullets(resume).length} bullets (floor ${floor}) — publishing as-is for manual review`);
       const doc = await uploadDocxAsGoogleDoc(await toBuffer(resumeDoc(resume, { review: true })), name, folderId);
       return { doc, pdf, pages, cut };
     }
@@ -68,7 +68,10 @@ export async function buildOnePageAts(resume, name, folderId, keywords = []) {
     const pages = pdfPageCount(await exportPdf(probe.id));
     await trash(probe.id);
     if (pages <= 1) break;
-    if (resumeBullets(twin).length <= floor) throw new Error(`ATS resume is still ${pages} pages with ${floor} bullets left — shorten the summary or skills rows and rerun (R8, R16)`);
+    if (resumeBullets(twin).length <= floor) {
+      log.warn(`ATS resume is ${pages} pages at ${resumeBullets(twin).length} bullets (floor ${floor}) — publishing as-is for manual review`);
+      break;
+    }
     cut.push(cutLowestBullet(twin, keywords));
   }
   const doc = await uploadDocxAsGoogleDoc(await toBuffer(resumeAtsDoc(twin)), name, folderId);

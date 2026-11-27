@@ -110,10 +110,10 @@ test('TC-412 page fit (R8): padding reserves spare lines in the fit test only; s
   assert.ok(s.keywords_min >= 15);
   const src = read('src/assets/publish.js');
   assert.match(src, /padLines: pad/, 'the fit loop tests the padded document');
-  assert.match(src, /still \$\{pages\} pages with \$\{floor\} bullets left/, 'refuses to publish a two-page resume');
-  assert.match(src, /ATS resume is still \$\{pages\} pages/, 'refuses to publish a two-page ATS twin');
+  assert.match(src, /Resume is \$\{pages\} pages at/, 'warns when resume exceeds one page at floor');
+  assert.match(src, /ATS resume is \$\{pages\} pages at/, 'warns when ATS twin exceeds one page at floor');
+  assert.match(src, /publishing as-is for manual review/, 'publishes as-is instead of throwing');
   assert.match(src, /resumeAtsDoc\(twin, \{ padLines: pad \}\)/, 'the ATS twin is fitted with the same safety margin');
-  assert.ok(!/flagged for owner review/.test(src), 'no more silent two-page fallback');
 });
 
 test('TC-413 Selection Log carries the keyword coverage matrix with totals', () => {

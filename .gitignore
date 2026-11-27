@@ -4,3 +4,5 @@ data/cache/
 .env*
 !.env.example
 *.local.json
+.DS_Store
+experience/digest.md
