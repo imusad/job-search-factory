@@ -1,6 +1,18 @@
 {
-  "runAt": "2026-11-27T09:55:02.567Z",
+  "runAt": "2026-11-27T22:09:54.003Z",
   "failures": [
+    {
+      "source": "workable:Hugging Face",
+      "error": "HTTP 429 for https://apply.workable.com/api/v3/accounts/huggingface/jobs"
+    },
+    {
+      "source": "workable:Jasper",
+      "error": "HTTP 429 for https://apply.workable.com/api/v3/accounts/jasper/jobs"
+    },
+    {
+      "source": "jobspresso",
+      "error": "HTTP 403 for https://jobspresso.co/feed/?post_type=job_listing"
+    },
     {
       "source": "adzuna",
       "error": "ADZUNA_APP_ID not configured (OD-5) — skipped"
@@ -9,97 +21,95 @@
   "sourceCounts": {
     "greenhouse": 240,
     "ashby": 63,
-    "workable": 0,
-    "smartrecruiters": 39,
     "lever": 103,
+    "smartrecruiters": 39,
     "rippling": 14,
     "workday": 58,
     "remotive": 0,
     "workingnomads": 0,
-    "jobicy": 50,
-    "remoteok": 1,
-    "arbeitnow": 19,
-    "jobspresso": 2,
-    "mindtheproduct": 1,
+    "arbeitnow": 20,
+    "jobicy": 6,
+    "remoteok": 0,
+    "mindtheproduct": 2,
+    "weworkremotely": 30,
     "ycjobs": 24,
-    "weworkremotely": 27,
-    "aijobs": 0,
-    "himalayas": 0,
     "welcometothejungle": 0,
-    "hirist": 0,
+    "aijobs": 0,
+    "himalayas": 1,
     "foundit": 0,
-    "shine": 9,
-    "wellfound": 26,
-    "iimjobs": 0,
-    "builtin": 2,
+    "wellfound": 28,
     "lennysjobs": 0,
-    "instahyre": 16,
-    "jsearch": 18
+    "hirist": 0,
+    "builtin": 2,
+    "iimjobs": 0,
+    "shine": 8,
+    "instahyre": 13,
+    "jsearch": 17
   },
-  "sponsorRows": 142844,
+  "sponsorRows": 142604,
   "atsDetection": {
-    "companies": 102,
+    "companies": 89,
     "detected": 89,
-    "ms": 2003
+    "ms": 0
   },
-  "totalFetched": 712,
-  "corpus": 14771,
-  "sourcesOk": 28,
+  "totalFetched": 668,
+  "corpus": 14788,
+  "sourcesOk": 26,
   "invalid": 0,
-  "matched": 341,
-  "dedupRemoved": 68,
-  "newListings": 14,
-  "aboveThreshold": 7,
+  "matched": 319,
+  "dedupRemoved": 67,
+  "newListings": 8,
+  "aboveThreshold": 0,
   "top": [
     {
-      "id": "5350d9e2b9e0",
-      "title": "Senior Product Manager, Data Products",
-      "employer": "Mural",
-      "total_score": 0.33
+      "id": "60f1d82cf3e7",
+      "title": "Lead/Principal Product Manager, Tax Agents",
+      "employer": "Fieldguide",
+      "total_score": 0.23
     },
     {
-      "id": "cf600047cf3d",
+      "id": "91b6486bd374",
+      "title": "Principal Product Manager",
+      "employer": "brightwheel",
+      "total_score": 0.23
+    },
+    {
+      "id": "5cab829775df",
+      "title": "Lead Product Manager",
+      "employer": "TRM Labs",
+      "total_score": 0.23
+    },
+    {
+      "id": "048247b6e5fd",
+      "title": "Senior Product Manager - Credit",
+      "employer": "Jeeves",
+      "total_score": 0.23
+    },
+    {
+      "id": "ddc267a59f60",
       "title": "Senior Product Manager",
-      "employer": "Rithum",
-      "total_score": 0.33
-    },
-    {
-      "id": "08a2a1b9362d",
-      "title": "Senior Product Manager, GRC Platform",
-      "employer": "Vanta",
-      "total_score": 0.33
-    },
-    {
-      "id": "3a9837b483a5",
-      "title": "Principal Product Manager, Growth",
-      "employer": "Upstart",
-      "total_score": 0.33
-    },
-    {
-      "id": "02b552029c85",
-      "title": "Senior Product Manager, Deceptive Content",
-      "employer": "Pinterest",
-      "total_score": 0.33
+      "employer": "Trading212",
+      "total_score": 0.08
     }
   ],
   "shortlist": 50,
   "sheet": {
-    "appended": 15,
-    "updated": 258
+    "appended": 8,
+    "updated": 244
   },
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1dxIxAi75S5kD8xsK5Y5qHbvpb8MG-_AGWympFldp_v4",
-  "pendingApprovals": 15,
-  "backlog": 195,
-  "assetsToReview": 19,
-  "pendingActions": 34,
+  "pendingApprovals": 5,
+  "backlog": 76,
+  "assetsToReview": 10,
+  "pendingActions": 15,
   "stageMs": {
-    "visa": 1228,
-    "company_discovery": 1214,
-    "ats_fetch": 18774,
-    "boards": 10833,
-    "signals": 1006,
-    "google": 2145
+    "visa": 609,
+    "company_discovery": 51,
+    "ats_fetch": 61945,
+    "boards": 18211,
+    "signals": 1000,
+    "google": 2561
   },
-  "durationMs": 35202,
-  "requests": 717
+  "durationMs": 84379,
+  "requests": 300
 }
