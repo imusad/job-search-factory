@@ -7170,5 +7170,162 @@
     ],
     "nominated_at": "2026-11-27T09:55:04.969Z",
     "description": "iOS notifications in sender's own voice from WhatsApp & more\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Provision",
+    "sources": [
+      "yc"
+    ],
+    "tiers": [
+      "vc_portfolio"
+    ],
+    "nominated_at": "2026-11-28T09:09:06.727Z",
+    "website": "https://provision.com",
+    "description": "Ironclad for construction",
+    "funding_stage": "series_a",
+    "ats_slug": "provision"
+  },
+  {
+    "name": "Cognition SWE-2.1",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-28T09:09:06.727Z",
+    "description": "A long-horizon coding model with a 10x faster Ultrafast mode\n Discussion \n |\n Link"
+  },
+  {
+    "name": "gutcheck",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-28T09:09:06.727Z",
+    "description": "Check your gut against the internet, inside Claude Code\n Discussion \n |\n Link"
+  },
+  {
+    "name": "DearDarling",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-28T09:09:06.727Z",
+    "description": "A couples messenger with a mutual friend, Pip\n Discussion \n |\n Link"
+  },
+  {
+    "name": "RetainIQ",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-28T09:09:06.727Z",
+    "description": "Know which customers need attention, why & what to do next\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Microsoft-Decision-1.1",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-28T09:09:06.727Z",
+    "description": "Microsoft's decision model: calibrated, 2x faster, now GA\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Superrelay",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-28T09:09:06.727Z",
+    "description": "One inbox for every app you ship, never priced per ticket\n Discussion \n |\n Link"
+  },
+  {
+    "name": "overads.io",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-28T09:09:06.727Z",
+    "description": "Marketing and GTM that run while you sleep\n Discussion \n |\n Link"
+  },
+  {
+    "name": "NOVA",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-28T09:09:06.727Z",
+    "description": "Development to deployment, and everything after.\n Discussion \n |\n Link"
+  },
+  {
+    "name": "GrayPass",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-28T09:09:06.727Z",
+    "description": "Verify who’s in control before agents make sensitive actions\n Discussion \n |\n Link"
+  },
+  {
+    "name": "airoom",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-28T09:09:06.727Z",
+    "description": "An open-source control room for your Claude Code agents\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Dex Telemetry",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-28T09:09:06.727Z",
+    "description": "Open-source Datadog for analytics\n Discussion \n |\n Link"
+  },
+  {
+    "name": "Stacktrace",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-28T09:09:06.727Z",
+    "description": "Real-time steering and guardrails for AI agents\n Discussion \n |\n Link"
+  },
+  {
+    "name": "OpenCrawl",
+    "sources": [
+      "producthunt"
+    ],
+    "tiers": [
+      "product_directory"
+    ],
+    "nominated_at": "2026-11-28T09:09:06.727Z",
+    "description": "Multiplayer for your coding agents\n Discussion \n |\n Link"
   }
 ]

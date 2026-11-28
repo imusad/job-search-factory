@@ -11,27 +11,27 @@
     },
     "twilio|principal product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "coinbase|group product manager ai foundations": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "coinbase|group product manager compliance automation": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "coinbase|group product manager core infrastructure reliability": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "coinbase|group product manager customer engagement experience": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "coinbase|group product manager money movement": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "coinbase|senior product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
@@ -39,35 +39,35 @@
     },
     "coinbase|senior product manager payments": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "coinbase|senior product manager payments trust network": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "coinbase|senior product manager risk": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "coinbase|senior product manager simple trading": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "coinbase|senior product manager workspace and multi user": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "gitlab|director of product management agentic software delivery": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "gitlab|director of product management platforms": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "gitlab|senior product manager switchboard": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "stripe|head of product sales payouts": {
       "first_seen": "2026-11-25T07:18:39.814Z",
@@ -75,11 +75,11 @@
     },
     "stripe|product lead payments": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "stripe|product lead support experience": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "datadog|director product design": {
       "first_seen": "2026-11-25T07:18:39.814Z",
@@ -87,95 +87,95 @@
     },
     "datadog|group product manager code security": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "datadog|senior director product management platforms": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "datadog|senior product manager agent observability": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "datadog|senior product manager application performance monitoring": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "datadog|senior product manager chat video and collaboration integrations": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "datadog|senior product manager feature flagging": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "datadog|senior product manager journey monitoring": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "cloudflare|principal product manager certificate authority": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "cloudflare|senior product manager agentic search": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "cloudflare|senior product manager cloudflare workers": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "cloudflare|senior product manager email security": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "cloudflare|senior product manager new database product": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "cloudflare|senior product manager observability": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "cloudflare|senior product manager signals data products": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "cloudflare|senior product manager threat intel": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "cloudflare|senior product manager zero day protection": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "cloudflare|senior product manager dashboards configuration": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "notion|ai product manager growth marketing": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "elastic|director of product management observability": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "elastic|principal product manager agents and context elasticsearch": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "elastic|principal product manager ii ai vectors elasticsearch": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "elastic|principal product manager security pricing and packaging security solutions": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "elastic|senior director of product management endpoint security xdr": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "elastic|senior director of product marketing observability": {
       "first_seen": "2026-11-25T07:18:39.814Z",
@@ -183,55 +183,55 @@
     },
     "elastic|senior product manager control plane platform": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "elastic|senior product manager self service cloud": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "elastic|senior product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "databricks|senior product manager compute platform": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "databricks|senior product manager databricks ai": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "databricks|senior product manager databricks free edition": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "databricks|senior product manager databricks repos": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "databricks|senior product manager data engineering": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "databricks|senior product manager data governance": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "databricks|senior product manager employee experience": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "databricks|senior product manager lakebase lakehouse": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "databricks|senior product manager lakeflow": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "databricks|senior technology partner director product partnerships": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "rippling|director product marketing": {
       "first_seen": "2026-11-25T07:18:39.814Z",
@@ -239,179 +239,179 @@
     },
     "rippling|director of product": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "rippling|product lead ai semantics governance": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "rippling|product lead analytics": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "rippling|product lead benefits marketplace peo": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "rippling|product lead employee data lifecycle": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "rippling|product lead finance accounting": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "rippling|product lead finance experience": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "rippling|product lead payments": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "rippling|product lead reporting and analytics": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "rippling|product lead talent products": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "rippling|product lead ui platform": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "rippling|senior director of product app platform": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "freshworks|senior product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "spotify|principal product manager audio and media playback": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "spotify|principal product manager core experience platform": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "spotify|principal product manager format foundations": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "spotify|principal product manager tv desktop": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "spotify|senior product manager audiobooks format foundations": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "spotify|senior product manager free and premium conversion": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "spotify|senior product manager spotify connect": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "spotify|senior product manager subscriptions": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "spotify|vp head of product advertising": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "mongodb|senior product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "mongodb|senior product manager developer and agentic experience": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "mongodb|senior product manager marketing ai": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "mongodb|senior product manager order to cash": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "mongodb|senior product manager technical services engineering": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "webflow|senior product manager cloud infrastructure": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "asana|lead product manager apis and mcp": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "asana|lead product manager enterprise services management": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "asana|senior product manager ai studio": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "intercom|senior product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "intercom|staff ai product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "okta|director product communications": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "okta|director product manager okta identity threat detection and response products": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "okta|director product security psirt": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "okta|principal product manager enterprise ai": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "okta|senior product manager ai products": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "okta|senior product manager auth0": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "okta|senior product manager auth0 ai and identity products": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "okta|senior product manager cloud infrastructure": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "okta|senior product manager okta customer identity": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "okta|senior product manager okta for ai agents": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "okta|senior product manager okta identity governance": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "okta|senior product manager policies": {
       "first_seen": "2026-11-25T07:18:39.814Z",
@@ -419,103 +419,103 @@
     },
     "veeva|senior product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "veeva|senior product manager ai agent": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "veeva|senior product manager campaign manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "veeva|senior product manager digital asset management": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "veeva|senior product manager falcon writer": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "veeva|senior product manager lims": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "veeva|senior product manager medical inquiry": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "veeva|senior product manager patient crm": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "veeva|senior product manager platform": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "veeva|senior product manager promomats": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "veeva|senior product manager sap erp integrations": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "veeva|senior product manager vault crm med tech": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "veeva|senior product manager vault crm service center": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "veeva|senior product manager vault crm suite": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "veeva|senior product manager vault platform access control": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "veeva|senior product manager vault qms": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "veeva|senior product manager veeva clinical operations": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "veeva|senior product manager veeva labs": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "harvey|senior product manager embedded experiences": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "harvey|api product lead": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "scale ai|ai product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "scale ai|senior ai product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "servicenow|senior director product autonomous data analytics": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "servicenow|principal product manager network security": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "servicenow|director product management security and risk partnerships": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "servicenow|senior director product analytics": {
       "first_seen": "2026-11-25T07:18:39.814Z",
@@ -523,11 +523,11 @@
     },
     "servicenow|director product management": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "servicenow|senior director product unified security and exposure management": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "servicenow|director": {
       "first_seen": "2026-11-25T07:18:39.814Z",
@@ -535,23 +535,23 @@
     },
     "servicenow|director product innovation business workflows": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "pylon|lead product manager customer experience": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "pylon|lead product manager capital markets pricing": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "pylon|lead product manager api platform": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "pylon|lead product manager agent platform": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "reducto|head of product engineering": {
       "first_seen": "2026-11-25T07:18:39.814Z",
@@ -559,27 +559,27 @@
     },
     "legora|senior product manager enterprise": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "legora|senior product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "probably genetic|product lead": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "luminai|senior product manager platform": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "luminai|senior product manager applied ai": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "taktile|senior product manager platform": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "permitflow|head of product operations": {
       "first_seen": "2026-11-25T07:18:39.814Z",
@@ -607,11 +607,11 @@
     },
     "6sense|senior product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "oportun|senior director of product management": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "eliseai|eliseaifounding senior product manager healthcarenew york united statesai nativefull timeadded todayverified": {
       "first_seen": "2026-11-25T07:18:39.814Z",
@@ -619,35 +619,35 @@
     },
     "vahan (s19)|director of product": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "instrumentl (s16)|head of product": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "saturn (s24)|lead product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "gosats (w22)|senior product manager cards payments": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "solo (w21)|head of product": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "roe (w24)|head of product management": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "gogograndparent (s16)|senior product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "adentris (p25)|director of product rcm services healthcare": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "vouch (s19)|senior product manager ai pod": {
       "first_seen": "2026-11-25T07:18:39.814Z",
@@ -655,19 +655,19 @@
     },
     "middesk (w19)|group product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "karat financial (w20)|senior product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "asha health (f24)|head of product ai": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "kastle (s24)|senior product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "almedia|director of product design": {
       "first_seen": "2026-11-25T07:18:39.814Z",
@@ -699,11 +699,11 @@
     },
     "mai labs|senior product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-26T09:50:35.555Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "testmu ai|ai product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-26T06:10:29.680Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "fixxly|product lead customer experience": {
       "first_seen": "2026-11-25T07:18:39.814Z",
@@ -711,19 +711,19 @@
     },
     "rippling|lead product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "full-time|ai product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "full-time|group product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "full-time|senior product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "full-time|lead product manager card products": {
       "first_seen": "2026-11-25T07:18:39.814Z",
@@ -739,11 +739,11 @@
     },
     "shree balaji employment services pvt|group product manager senior product executive senior product manager gpm": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "cadila pharmaceuticals|senior product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "aditya birla group|senior product manager lead product manager": {
       "first_seen": "2026-11-25T07:18:39.814Z",
@@ -763,39 +763,39 @@
     },
     "juicebox|growth product lead": {
       "first_seen": "2026-11-25T07:37:25.419Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "latent|senior product manager": {
       "first_seen": "2026-11-25T07:37:25.419Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "prosper|senior product manager core experience": {
       "first_seen": "2026-11-25T07:37:25.419Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "mercury|head of product personal banking": {
       "first_seen": "2026-11-25T07:37:25.419Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "mercury|head of product business banking": {
       "first_seen": "2026-11-25T07:37:25.419Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "oportun|senior product manager": {
       "first_seen": "2026-11-25T07:37:25.419Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "metamask|senior product manager universal kyc": {
       "first_seen": "2026-11-25T07:37:25.419Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "wrike|senior product manager ai platform ecosystem": {
       "first_seen": "2026-11-25T07:37:25.419Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "upstart|director of product machine learning decisioning platforms": {
       "first_seen": "2026-11-25T07:37:25.419Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "lattice|lead product manager engagement": {
       "first_seen": "2026-11-25T07:37:25.419Z",
@@ -803,23 +803,23 @@
     },
     "clover health|director of product clover r d": {
       "first_seen": "2026-11-25T07:37:25.419Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "zoominfo technologies|principal product manager person data": {
       "first_seen": "2026-11-25T07:37:25.419Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "smartsheet|senior product manager field systems": {
       "first_seen": "2026-11-25T07:37:25.419Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "tebra|senior product manager": {
       "first_seen": "2026-11-25T07:37:25.419Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "yubico|senior product manager": {
       "first_seen": "2026-11-25T07:37:25.419Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nacre capital|head of product": {
       "first_seen": "2026-11-25T07:37:25.419Z",
@@ -827,11 +827,11 @@
     },
     "customer.io|senior product manager workflows": {
       "first_seen": "2026-11-25T07:37:25.419Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "firy|head of product beamable": {
       "first_seen": "2026-11-25T07:37:25.419Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "patchstack|senior product manager": {
       "first_seen": "2026-11-25T07:37:25.419Z",
@@ -851,7 +851,7 @@
     },
     "salesforce|senior product manager tableau applied ai": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "salesforce|director product marketing": {
       "first_seen": "2026-11-25T10:07:45.470Z",
@@ -859,135 +859,135 @@
     },
     "salesforce|director product management": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "alternative payments|head of product": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "alternative payments|senior product manager": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "swayable|ai product manager": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "swayable|senior ai product manager": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "adobe|director product manager": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "adobe|principal product manager": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "adobe|principal product manager firefly builder": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "adobe|principal product manager firefly ui": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "adobe|principal product manager genai training data": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "adobe|principal product manager ai brand visibility": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "adobe|senior product manager ai brand visibility": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "adobe|pro design principal product manager growth": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "adobe|principal product manager agentic governance marketing advertising": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "adobe|senior product manager customer journey engagement platform": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "adobe|senior product manager chief accounting office": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "adobe|director of product communications": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|principal product manager": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|senior product manager telecom": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|physical ai product manager": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|senior product manager omniverse rendering": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|senior product manager ai physics": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|senior product manager inference platform": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|principal product manager ai frameworks": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|senior product manager host networking platforms": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|senior product manager physical ai robotics data": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|principal product manager nvidia trust services dgx cloud": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|senior product manager ai inference performance": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|senior product manager hpc and ai for physics": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|principal product manager laptop gpu and soc": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|principal product manager dsx and dgxc storage": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|senior product manager run ai dsx os": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|principal product manager dsx os infrastructure developer tooling": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|senior product manager omniverse sensor simulation": {
       "first_seen": "2026-11-25T10:07:45.470Z",
@@ -995,15 +995,15 @@
     },
     "nvidia|principal product manager nvidia data services": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|principal product manager nvidia sentry and doca security": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|director product management nemotron": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|director product marketing dsx": {
       "first_seen": "2026-11-25T10:07:45.470Z",
@@ -1011,15 +1011,15 @@
     },
     "nvidia|director product management ai networking spectrum hw": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "iqvia|associate director product management": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "iqvia|associate director product management aim xr": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "hubvisory|senior product manager f h": {
       "first_seen": "2026-11-25T10:07:45.470Z",
@@ -1035,7 +1035,7 @@
     },
     "full-time|head of product": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "svizera health remedies|senior product manager group product manager": {
       "first_seen": "2026-11-25T10:07:45.470Z",
@@ -1043,7 +1043,7 @@
     },
     "goldcast|senior product manager": {
       "first_seen": "2026-11-25T10:07:45.470Z",
-      "last_seen": "2026-11-26T22:28:12.000Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "keka hr|senior product manager platform": {
       "first_seen": "2026-11-25T10:07:45.470Z",
@@ -1051,7 +1051,7 @@
     },
     "intercom|senior product manager berlin": {
       "first_seen": "2026-11-25T14:44:40.085Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nucs ai|senior product manager": {
       "first_seen": "2026-11-25T14:44:40.085Z",
@@ -1167,11 +1167,11 @@
     },
     "coinbase|senior product manager workforce management": {
       "first_seen": "2026-11-25T22:38:13.164Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nvidia|senior product manager digital twin automation and robotics": {
       "first_seen": "2026-11-25T22:38:13.164Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "findem|principal product manager": {
       "first_seen": "2026-11-25T22:38:13.164Z",
@@ -1195,7 +1195,7 @@
     },
     "salesforce|senior product manager enterprise security technology": {
       "first_seen": "2026-11-26T05:55:31.713Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "bold|senior product manager i expert apply": {
       "first_seen": "2026-11-26T05:55:31.713Z",
@@ -1227,7 +1227,7 @@
     },
     "amazon|senior product manager generative ai api platforms": {
       "first_seen": "2026-11-26T05:55:31.713Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "google|senior product manager generative ai security": {
       "first_seen": "2026-11-26T05:55:31.713Z",
@@ -1239,11 +1239,11 @@
     },
     "roku|senior product manager generative ai for tv ad creative": {
       "first_seen": "2026-11-26T05:55:31.713Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "roku|senior product manager generative ai for tv ads": {
       "first_seen": "2026-11-26T05:55:31.713Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "winwire|senior product manager": {
       "first_seen": "2026-11-26T05:55:31.713Z",
@@ -1255,15 +1255,15 @@
     },
     "cognite|senior product manager generative ai and ai ml": {
       "first_seen": "2026-11-26T05:55:31.713Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "bounteous|remote ai product manager llms mlops governance": {
       "first_seen": "2026-11-26T05:55:31.713Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "relativity|group product manager ai legal intelligence": {
       "first_seen": "2026-11-26T05:55:31.713Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "modernize home services|senior ai product manager conversational lead gen": {
       "first_seen": "2026-11-26T05:55:31.713Z",
@@ -1299,7 +1299,7 @@
     },
     "smartsheet|senior product manager i": {
       "first_seen": "2026-11-26T06:10:29.680Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "full-time|senior product manager 529 prepaid": {
       "first_seen": "2026-11-26T06:10:29.680Z",
@@ -1307,11 +1307,11 @@
     },
     "aps|senior product manager pharmaceutical marketing senior group product manager": {
       "first_seen": "2026-11-26T06:10:29.680Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "aps|senior group product manager pharmaceutical sales pharmaceutical marketing": {
       "first_seen": "2026-11-26T06:10:29.680Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "reis staffing & hr services pvt|senior product manager payments npp": {
       "first_seen": "2026-11-26T06:10:29.680Z",
@@ -1379,23 +1379,23 @@
     },
     "nivoda|senior product manager fulfilment": {
       "first_seen": "2026-11-26T22:28:12.000Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "jeeves|head of product platform growth spend management": {
       "first_seen": "2026-11-26T22:28:12.000Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "full-time|group product manager investor experience": {
       "first_seen": "2026-11-26T22:28:12.000Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "full-time|senior director of product performance unannounced title": {
       "first_seen": "2026-11-26T22:28:12.000Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "nuplay ai|ai product manager": {
       "first_seen": "2026-11-26T22:28:12.000Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "star health and allied insurance|senior product manager": {
       "first_seen": "2026-11-26T22:28:12.000Z",
@@ -1407,11 +1407,11 @@
     },
     "blackrock|director ai productivity product lead": {
       "first_seen": "2026-11-26T22:28:12.000Z",
-      "last_seen": "2026-11-26T22:28:12.000Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "indagare|remote ai product manager llm personalization": {
       "first_seen": "2026-11-26T22:28:12.000Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "relativity|group product manager ai legal conversational agent": {
       "first_seen": "2026-11-26T22:28:12.000Z",
@@ -1435,7 +1435,7 @@
     },
     "outsight|senior product manager": {
       "first_seen": "2026-11-27T09:55:02.567Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "taxfix|head of product": {
       "first_seen": "2026-11-27T09:55:02.567Z",
@@ -1447,19 +1447,19 @@
     },
     "upstart|principal product manager growth": {
       "first_seen": "2026-11-27T09:55:02.567Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "pinterest|senior product manager deceptive content": {
       "first_seen": "2026-11-27T09:55:02.567Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "bitwarden|senior product manager platform": {
       "first_seen": "2026-11-27T09:55:02.567Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "samarth life sciences|product manager senior product manager": {
       "first_seen": "2026-11-27T09:55:02.567Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "zolve|senior product manager": {
       "first_seen": "2026-11-27T09:55:02.567Z",
@@ -1467,11 +1467,11 @@
     },
     "circana|senior product manager ai evaluation quality": {
       "first_seen": "2026-11-27T09:55:02.567Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "2100 nvidia usa|senior product manager ai inference performance": {
       "first_seen": "2026-11-27T09:55:02.567Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "trading212|senior product manager": {
       "first_seen": "2026-11-27T22:09:54.003Z",
@@ -1483,7 +1483,7 @@
     },
     "fieldguide|lead principal product manager tax agents": {
       "first_seen": "2026-11-27T22:09:54.003Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "brightwheel|principal product manager": {
       "first_seen": "2026-11-27T22:09:54.003Z",
@@ -1491,19 +1491,71 @@
     },
     "trm labs|lead product manager": {
       "first_seen": "2026-11-27T22:09:54.003Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "jeeves|senior product manager credit": {
       "first_seen": "2026-11-27T22:09:54.003Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "bounteous|remote ai product manager generative systems reliability": {
       "first_seen": "2026-11-27T22:09:54.003Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
     },
     "google|autonomous cyber ai product lead": {
       "first_seen": "2026-11-27T22:09:54.003Z",
-      "last_seen": "2026-11-27T22:09:54.003Z"
+      "last_seen": "2026-11-28T09:09:04.258Z"
+    },
+    "n8n|group product manager ai experience": {
+      "first_seen": "2026-11-28T09:09:04.258Z",
+      "last_seen": "2026-11-28T09:09:04.258Z"
+    },
+    "roompricegenie|remote senior product manager": {
+      "first_seen": "2026-11-28T09:09:04.258Z",
+      "last_seen": "2026-11-28T09:09:04.258Z"
+    },
+    "banyansoftware|atamis director of product and technology": {
+      "first_seen": "2026-11-28T09:09:04.258Z",
+      "last_seen": "2026-11-28T09:09:04.258Z"
+    },
+    "lightspeed commerce|director product management": {
+      "first_seen": "2026-11-28T09:09:04.258Z",
+      "last_seen": "2026-11-28T09:09:04.258Z"
+    },
+    "legion|principal product manager agentic ai": {
+      "first_seen": "2026-11-28T09:09:04.258Z",
+      "last_seen": "2026-11-28T09:09:04.258Z"
+    },
+    "fresche solutions|senior product manager ibm i modernization": {
+      "first_seen": "2026-11-28T09:09:04.258Z",
+      "last_seen": "2026-11-28T09:09:04.258Z"
+    },
+    "tata aig|senior product manager": {
+      "first_seen": "2026-11-28T09:09:04.258Z",
+      "last_seen": "2026-11-28T09:09:04.258Z"
+    },
+    "rewardstyle|principal product manager ai": {
+      "first_seen": "2026-11-28T09:09:04.258Z",
+      "last_seen": "2026-11-28T09:09:04.258Z"
+    },
+    "vertex|senior principal product manager audit ai": {
+      "first_seen": "2026-11-28T09:09:04.258Z",
+      "last_seen": "2026-11-28T09:09:04.258Z"
+    },
+    "lincoln financial group|lead ai product manager": {
+      "first_seen": "2026-11-28T09:09:04.258Z",
+      "last_seen": "2026-11-28T09:09:04.258Z"
+    },
+    "microsoft|principal product manager commerce ai platform": {
+      "first_seen": "2026-11-28T09:09:04.258Z",
+      "last_seen": "2026-11-28T09:09:04.258Z"
+    },
+    "change.org|senior product manager internal tools analysis": {
+      "first_seen": "2026-11-28T09:09:04.258Z",
+      "last_seen": "2026-11-28T09:09:04.258Z"
+    },
+    "coinbase|group product manager ai foundations 02860": {
+      "first_seen": "2026-11-28T09:09:04.258Z",
+      "last_seen": "2026-11-28T09:09:04.258Z"
     }
   },
   "pm_counts": {
@@ -1555,6 +1607,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Figma": [
@@ -1604,6 +1660,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 4
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 4
       }
     ],
@@ -1655,6 +1715,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 4
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 4
       }
     ],
     "Coinbase": [
@@ -1704,6 +1768,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 20
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 20
       }
     ],
@@ -1755,6 +1823,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 6
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 6
       }
     ],
     "Anthropic": [
@@ -1804,6 +1876,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 9
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 9
       }
     ],
@@ -1855,6 +1931,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 48
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 48
       }
     ],
     "Datadog": [
@@ -1904,6 +1984,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 10
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 10
       }
     ],
@@ -1955,6 +2039,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Cloudflare": [
@@ -2004,6 +2092,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 14
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 14
       }
     ],
@@ -2055,6 +2147,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 2
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 2
       }
     ],
     "Notion": [
@@ -2104,6 +2200,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 2
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 2
       }
     ],
@@ -2155,6 +2255,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 6
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 6
       }
     ],
     "OpenAI": [
@@ -2204,6 +2308,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 10
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 10
       }
     ],
@@ -2255,6 +2363,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 2
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 2
       }
     ],
     "Elastic": [
@@ -2304,6 +2416,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 29
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 29
       }
     ],
@@ -2355,6 +2471,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 27
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 27
       }
     ],
     "Palantir": [
@@ -2404,6 +2524,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -2455,6 +2579,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 14
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 14
       }
     ],
     "Freshworks": [
@@ -2504,6 +2632,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 3
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 3
       }
     ],
@@ -2555,6 +2687,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Airtable": [
@@ -2604,6 +2740,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -2655,6 +2795,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 10
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 10
       }
     ],
     "Canva": [
@@ -2704,6 +2848,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -2755,6 +2903,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "MongoDB": [
@@ -2804,6 +2956,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 16
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 16
       }
     ],
@@ -2855,6 +3011,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Webflow": [
@@ -2904,6 +3064,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 2
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 2
       }
     ],
@@ -2955,6 +3119,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 9
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 9
       }
     ],
     "Intercom": [
@@ -3004,6 +3172,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 12
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 12
       }
     ],
@@ -3055,6 +3227,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 7
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 7
       }
     ],
     "Okta": [
@@ -3104,6 +3280,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 11
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 11
       }
     ],
@@ -3155,6 +3335,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 92
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 92
       }
     ],
     "Harvey": [
@@ -3204,6 +3388,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 10
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 10
       }
     ],
@@ -3255,6 +3443,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 9
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 9
       }
     ],
     "Writer": [
@@ -3304,6 +3496,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -3355,6 +3551,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 30
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 30
       }
     ],
     "Rally": [
@@ -3404,6 +3604,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -3455,6 +3659,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Complif": [
@@ -3504,6 +3712,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -3555,6 +3767,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 5
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 5
       }
     ],
     "LiteLLM": [
@@ -3604,6 +3820,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -3655,6 +3875,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 1
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 1
       }
     ],
     "Auctor": [
@@ -3704,6 +3928,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 1
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 1
       }
     ],
@@ -3755,6 +3983,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Antithesis": [
@@ -3804,6 +4036,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -3855,6 +4091,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 4
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 4
       }
     ],
     "UpCodes": [
@@ -3904,6 +4144,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -3955,6 +4199,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Probably Genetic": [
@@ -4004,6 +4252,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 1
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 1
       }
     ],
@@ -4055,6 +4307,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 2
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 2
       }
     ],
     "Taktile": [
@@ -4104,6 +4360,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 1
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 1
       }
     ],
@@ -4155,6 +4415,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Triomics": [
@@ -4204,6 +4468,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -4255,6 +4523,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 2
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 2
       }
     ],
     "Serif Health": [
@@ -4304,6 +4576,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -4355,6 +4631,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Spade": [
@@ -4400,6 +4680,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 2
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 2
       }
     ],
@@ -4447,6 +4731,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 2
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 2
       }
     ],
     "Infisical": [
@@ -4492,6 +4780,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 1
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 1
       }
     ],
@@ -4539,6 +4831,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Latent": [
@@ -4584,6 +4880,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 2
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 2
       }
     ],
@@ -4631,6 +4931,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Tennr": [
@@ -4676,6 +4980,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 1
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 1
       }
     ],
@@ -4723,6 +5031,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Arini": [
@@ -4768,6 +5080,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -4815,6 +5131,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Tamarind Bio": [
@@ -4860,6 +5180,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -4907,6 +5231,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Codes Health": [
@@ -4952,6 +5280,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -4999,6 +5331,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "AfterQuery": [
@@ -5044,6 +5380,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 1
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 1
       }
     ],
@@ -5091,6 +5431,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Prosper": [
@@ -5137,6 +5481,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 1
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 1
       }
     ],
     "Salesforce": [
@@ -5178,6 +5526,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 2
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 2
       }
     ],
@@ -5221,6 +5573,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Mastra": [
@@ -5262,6 +5618,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -5305,6 +5665,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 2
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 2
       }
     ],
     "Polymath": [
@@ -5346,6 +5710,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -5389,6 +5757,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Snappr": [
@@ -5430,6 +5802,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -5473,6 +5849,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 2
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 2
       }
     ],
     "Uplane": [
@@ -5514,6 +5894,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ],
@@ -5557,6 +5941,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Adobe": [
@@ -5598,6 +5986,10 @@
       },
       {
         "at": "2026-11-27T22:09:54.003Z",
+        "count": 17
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 17
       }
     ],
@@ -5641,6 +6033,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 33
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 33
       }
     ],
     "IQVIA": [
@@ -5683,6 +6079,10 @@
       {
         "at": "2026-11-27T22:09:54.003Z",
         "count": 1
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 1
       }
     ],
     "Hugging Face": [
@@ -5717,6 +6117,10 @@
       {
         "at": "2026-11-27T09:55:02.567Z",
         "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
+        "count": 0
       }
     ],
     "Jasper": [
@@ -5750,6 +6154,10 @@
       },
       {
         "at": "2026-11-27T09:55:02.567Z",
+        "count": 0
+      },
+      {
+        "at": "2026-11-28T09:09:04.258Z",
         "count": 0
       }
     ]
@@ -6785,6 +7193,36 @@
       "platform": null,
       "config": null,
       "checked_at": "2026-11-27T09:55:02.567Z"
+    },
+    "OpenCrawl": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-28T09:09:04.258Z"
+    },
+    "GrayPass": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-28T09:09:04.258Z"
+    },
+    "airoom": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-28T09:09:04.258Z"
+    },
+    "Stacktrace": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-28T09:09:04.258Z"
+    },
+    "overads.io": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-28T09:09:04.258Z"
+    },
+    "gutcheck": {
+      "platform": null,
+      "config": null,
+      "checked_at": "2026-11-28T09:09:04.258Z"
     }
   },
   "company_flags": {},
@@ -6872,7 +7310,14 @@
       "matched": 319,
       "new": 8,
       "ms": 84378
+    },
+    {
+      "at": "2026-11-28T09:09:04.258Z",
+      "fetched": 686,
+      "matched": 330,
+      "new": 13,
+      "ms": 38980
     }
   ],
-  "last_discovery": "2026-11-27T09:55:02.567Z"
+  "last_discovery": "2026-11-28T09:09:04.258Z"
 }

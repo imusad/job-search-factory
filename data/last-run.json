@@ -1,17 +1,9 @@
 {
-  "runAt": "2026-11-27T22:09:54.003Z",
+  "runAt": "2026-11-28T09:09:04.258Z",
   "failures": [
     {
-      "source": "workable:Hugging Face",
-      "error": "HTTP 429 for https://apply.workable.com/api/v3/accounts/huggingface/jobs"
-    },
-    {
-      "source": "workable:Jasper",
-      "error": "HTTP 429 for https://apply.workable.com/api/v3/accounts/jasper/jobs"
-    },
-    {
-      "source": "jobspresso",
-      "error": "HTTP 403 for https://jobspresso.co/feed/?post_type=job_listing"
+      "source": "foundit",
+      "error": "HTTP 403 for https://www.foundit.in/srp/results?query=senior%20product%20manager"
     },
     {
       "source": "adzuna",
@@ -22,94 +14,95 @@
     "greenhouse": 240,
     "ashby": 63,
     "lever": 103,
+    "workable": 0,
     "smartrecruiters": 39,
     "rippling": 14,
     "workday": 58,
     "remotive": 0,
+    "arbeitnow": 22,
+    "jobicy": 8,
+    "jobspresso": 1,
     "workingnomads": 0,
-    "arbeitnow": 20,
-    "jobicy": 6,
     "remoteok": 0,
     "mindtheproduct": 2,
-    "weworkremotely": 30,
     "ycjobs": 24,
+    "weworkremotely": 31,
     "welcometothejungle": 0,
     "aijobs": 0,
-    "himalayas": 1,
-    "foundit": 0,
-    "wellfound": 28,
-    "lennysjobs": 0,
     "hirist": 0,
+    "wellfound": 28,
+    "shine": 8,
     "builtin": 2,
     "iimjobs": 0,
-    "shine": 8,
-    "instahyre": 13,
-    "jsearch": 17
+    "himalayas": 2,
+    "lennysjobs": 0,
+    "instahyre": 14,
+    "jsearch": 27
   },
   "sponsorRows": 142604,
   "atsDetection": {
-    "companies": 89,
+    "companies": 95,
     "detected": 89,
-    "ms": 0
+    "ms": 1008
   },
-  "totalFetched": 668,
-  "corpus": 14788,
-  "sourcesOk": 26,
+  "totalFetched": 686,
+  "corpus": 14786,
+  "sourcesOk": 27,
   "invalid": 0,
-  "matched": 319,
-  "dedupRemoved": 67,
-  "newListings": 8,
+  "matched": 330,
+  "dedupRemoved": 71,
+  "newListings": 13,
   "aboveThreshold": 0,
   "top": [
     {
-      "id": "60f1d82cf3e7",
-      "title": "Lead/Principal Product Manager, Tax Agents",
-      "employer": "Fieldguide",
+      "id": "0a58510b8cb4",
+      "title": "Remote Sr. Product Manager (m/f/d)",
+      "employer": "Roompricegenie",
       "total_score": 0.23
     },
     {
-      "id": "91b6486bd374",
-      "title": "Principal Product Manager",
-      "employer": "brightwheel",
+      "id": "76efd97dedb2",
+      "title": "Director, Product Management (Instore Selling)",
+      "employer": "Lightspeed Commerce",
       "total_score": 0.23
     },
     {
-      "id": "5cab829775df",
-      "title": "Lead Product Manager",
-      "employer": "TRM Labs",
+      "id": "0e14f94f4c09",
+      "title": "Principal Product Manager, Agentic AI",
+      "employer": "Legion",
       "total_score": 0.23
     },
     {
-      "id": "048247b6e5fd",
-      "title": "Senior Product Manager - Credit",
-      "employer": "Jeeves",
+      "id": "f77639c215dd",
+      "title": "Senior Product Manager, IBM i Modernization – Remote - FS469",
+      "employer": "Fresche Solutions Inc",
       "total_score": 0.23
     },
     {
-      "id": "ddc267a59f60",
-      "title": "Senior Product Manager",
-      "employer": "Trading212",
-      "total_score": 0.08
+      "id": "c15dc0d15633",
+      "title": "Principal Product Manager, AI",
+      "employer": "RewardStyle Inc",
+      "total_score": 0.23
     }
   ],
   "shortlist": 50,
   "sheet": {
-    "appended": 8,
-    "updated": 244
+    "appended": 13,
+    "updated": 246
   },
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1dxIxAi75S5kD8xsK5Y5qHbvpb8MG-_AGWympFldp_v4",
-  "pendingApprovals": 5,
-  "backlog": 76,
-  "assetsToReview": 10,
-  "pendingActions": 15,
+  "pendingApprovals": 2,
+  "backlog": 77,
+  "assetsToReview": 4,
+  "pendingActions": 6,
   "stageMs": {
-    "visa": 609,
-    "company_discovery": 51,
-    "ats_fetch": 61945,
-    "boards": 18211,
-    "signals": 1000,
-    "google": 2561
+    "visa": 1264,
+    "company_discovery": 1253,
+    "ats_fetch": 13371,
+    "boards": 18598,
+    "signals": 1147,
+    "google": 3344
   },
-  "durationMs": 84379,
-  "requests": 300
+  "durationMs": 38981,
+  "requests": 651
 }
